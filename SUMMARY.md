@@ -4,4 +4,6 @@
 * [Discussing](discussing.md)
 * [Proposal](proposal.md)
 * [Crewing](crewing.md)
+* [Todo](todo.md)
+* [Contributing](contributing.md)
 
