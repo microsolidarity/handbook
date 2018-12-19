@@ -1,4 +1,7 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Microsolidarity](README.md)
+* [Discussing](discussing.md)
+* [Proposal](proposal.md)
+* [Crewing](crewing.md)
 
