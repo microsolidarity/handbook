@@ -14,9 +14,9 @@ These methods are primarily designed for people outside of a formal organisation
 
 ### Forming
 
-How is Crew formed? We're not sure. Rich's original [proposal](proposal.md) suggests the best way to meet your Crewmates is in a Congregation: a larger gathering of people with some shared values and medium-high trust. If you have experiences to share, please do!
+How is Crew formed? We're not sure. Rich's original [proposal](proposal.md) suggests the best way to meet your Crewmates is in a Congregation: a larger gathering of people with some shared values and medium-high trust. 
 
-Enspiral Home Groups could be thought of as a proto-crew...
+🔈[In this podcast](https://anchor.fm/emerge/episodes/Ria-Baeck---Emergent-Collective-Practice-and-Applied-Presence-e2qppp/a-a83fd7) with Daniel Thorson, Ria Baeck suggests the best place to start is at home, with a few guests gathered around a compelling question.
 
-Matchmaker festivals...
+If you have experiences to share, please do!
 
