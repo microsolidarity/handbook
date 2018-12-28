@@ -1,12 +1,30 @@
 # Microsolidarity
 
-A collection of resources for people who want to support each other to do more meaningful work. This support happens mostly in "Crews", small groups up to about 8 people. The focus of a Crew may live anywhere on a spectrum between professional-personal, economic-emotional, productive-reproductive, hands-hearts, doing-being.
+In late 2018, Richard D. Bartlett published a [proposal](proposal.md) to start a "microsolidarity" community in Western Europe — a small group of people supporting each other to do more meaningful work. 
 
-We propose that Crews co-develop in the company of other Crews. A collective of Crews is a Congregation. Many Congregations could form an Assembly. For more context, read the original [proposal](proposal.md).
+Reader reactions prompted him to start this website, to collect resources for the co-development of multiple such communities. 
 
-_Diagram showing trust thresholds._
+![A fractal view of belonging](.gitbook/assets/fractal-map-of-belonging-edited.jpg)
 
-The intention for this website is to collect, design, and test methods for finding, starting, and nurturing Crews. Primarily these methods are designed for people outside of a formal organisational context, e.g. freelancers and activists. However many of them may migrate smoothly into organisations. The important factor is that people support each other in peer-to-peer relationships of mutual aid.
+### Definition of terms
 
-Everything here is offered with a CC0 license, i.e., no rights reserved, "do what you like" with the content. This is to maximise transmissibility. However, if you gain some benefits from this material, you're encouraged to credit the authors and contribute to their economic sustainability if you're able.
+The proposal introduces some specific use of language:
+
+**Microsolidarity** is a set of practices for mutual support between peers. These methods bring us out of individualism and into a more relational way of being. 
+
+Most of this support happens in a **Crew**: a small group up to about 8 people growing trust in each other through emotional & economic reciprocity. Crews are always designed for intimacy, and may also produce an output \(e.g. a software product or an activist campaign\).
+
+The **Congregation** is a space for Crews to co-develop in the company of other Crews. Congregations have less than a few hundred people, so they can be primarily governed through trust and dialogue.
+
+Many Congregations could form an **Assembly**. 
+
+_For more context on these definitions, read the original_ [_proposal_](proposal.md)_._
+
+### About this site
+
+This website is a resource for people practicing microsolidarity. You'll find [methods for cultivating Crews](crewing.md), and [discussions](discussing.md) about the proposal. If you have anything to add, please [contribute](contributing.md) :\)
+
+All the content on this site is published with a [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license. So please use it however you like without asking permission: just give credit, and use the same license for derivative works. Unless stated otherwise, assume the author is Richard D. Bartlett.
+
+![](.gitbook/assets/image.png)
 
