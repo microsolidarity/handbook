@@ -1,8 +1,7 @@
 ---
 description: >-
-  Here's the original #microsolidarity proposal, written by Richard D. Bartlett.
-  It generated a lot of attention, so he started this website for people and
-  resources to gather around.
+  Here's the original #microsolidarity proposal, published by Richard D.
+  Bartlett on December 2, 2018.
 ---
 
 # Proposal
