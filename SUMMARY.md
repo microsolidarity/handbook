@@ -3,6 +3,7 @@
 * [Microsolidarity](README.md)
 * [Proposal](proposal.md)
 * [Crewing](crewing.md)
+* [Congregating](congregating.md)
 * [Discussing](discussing/README.md)
   * [Research Questions](discussing/research-questions.md)
 * [Contributing](contributing.md)

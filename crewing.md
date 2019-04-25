@@ -6,11 +6,9 @@ description: Methods for people to support each other in small groups (less than
 
 These methods are primarily designed for people outside of a formal organisational context, e.g. freelancers and activists. However many of them may migrate smoothly into organisations. These are ways for people to support each other in peer-to-peer relationships of mutual aid.
 
-In some Microsolidarity channels, there are folks working to illuminate [core patterns or principles](https://drive.google.com/drive/u/1/folders/1uUQ7KJuhle71Oh5_2iuMfMOon4JYJfX2) that support crews to successfully form, generate value for their participants, and gracefully end such that the participants can go on to join or start other groups (you can also think of this as composting, and there's an impulse to get better at 'sunsetting' our groups and projects). 
+In some Microsolidarity channels, there are folks working to illuminate [core patterns or principles](https://drive.google.com/drive/u/1/folders/1uUQ7KJuhle71Oh5_2iuMfMOon4JYJfX2) that support crews to successfully form, generate value for their participants, and gracefully end such that the participants can go on to join or start other groups \(you can also think of this as composting, and there's an impulse to get better at 'sunsetting' our groups and projects\).
 
 * There's an intention to write a blog that explains these points alongside concrete examples that will make it more practical, but for now you can hear us describe them alongside some context of early experiments in the [recording of the Crews/ Pods open space at Enspiral Summer Fest 2019](https://www.microsolidarity.cc/discussing/enspiral-summer-retreat-feb-2019).
-
----
 
 Here's some specific methods that groups have used:
 
@@ -20,9 +18,7 @@ Here's some specific methods that groups have used:
 * [Feelz Circle](http://emotionalanarchism.com/how-to-form-a-radical-feelz-circle/): 3 processes for sharing emotional care between friends/ comrades/ lovers
 * [Stewardship](https://loomio.coop/stewarding.html) peer support system for Partnerships
 
----
-
-### Forming
+## Forming
 
 How is Crew formed? We're not sure. Rich's original [proposal](proposal.md) suggests the best way to meet your Crew-mates is in a Congregation: a larger gathering of people with some shared values and medium-high trust. The core patterns linked above may help, but there's many experiments to be done.
 
