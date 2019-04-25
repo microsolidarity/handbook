@@ -22,7 +22,7 @@ _For more context on these definitions, read the original_ [_proposal_](proposal
 
 ### About this site
 
-This website is a resource for people practicing microsolidarity. You'll find [methods for cultivating Crews](crewing.md), and [discussions](discussing/) about the proposal. If you have anything to add, please [contribute](contributing.md) :\)
+This website is a resource for people practicing microsolidarity. You'll find [methods for cultivating Crews](crewing/), and [discussions](discussing/) about the proposal. If you have anything to add, please [contribute](contributing.md) :\)
 
 All the content on this site is published with a [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license. So please use it however you like without asking permission: just give credit, and use the same license for derivative works. Unless stated otherwise, assume the author is Richard D. Bartlett.
 

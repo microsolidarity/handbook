@@ -4,7 +4,7 @@ If you want to join the \#microsolidarity conversation, the central location is 
 
 This page is regularly updates with links to recordings, articles and discussions from different parts of the web:
 
-* 🔈Discussion at Enspiral Summer Retreat Feb 2019, focussed on [practical methods for new crews]()
+* 🔈Discussion at Enspiral Summer Retreat Feb 2019, focussed on [practical methods for new crews](enspiral-summer-retreat-2019.md)
 * 🔈Conversation with Theodore Taptiklis and Bernhard Resch at the University of Sydney, about some of the [research questions invited by microsolidarity](research-questions.md)
 * 🔈Peter Limberg interviews Rich about [some of the subtle interactions in groups](https://anchor.fm/intellectualexplorersclub/episodes/Richard-D--Bartlett---Hosting-True-Belonging-e2v2r3): power, status, inclusion, hidden hierarchies, etc. \(Part of the Intellectual Explorers Club podcast.\)
 * 🔈Ronan Harrington interviews Rich & Nati in this episode of the Alter Ego podcast [How \#microsolidarity can build small groups that change the world](https://anchor.fm/alterego/episodes/How-microsolidarity-can-build-small-groups-that-change-the-world---Interview-with-Rich-and-Nati-e2q85f)
