@@ -4,7 +4,7 @@ description: Methods for people to support each other in small groups (less than
 
 # Crewing
 
-These methods are primarily designed for people outside of a formal organisational context, e.g. freelancers and activists. However many of them may migrate smoothly into organisations. These are ways for people to support each other in peer-to-peer relationships of mutual aid.
+These methods are primarily designed for people outside of a formal organisational context, e.g., freelancers and activists. However many of them may migrate smoothly into organisations. These are ways for people to support each other in peer-to-peer relationships of mutual aid.
 
 In some Microsolidarity channels, there are folks working to illuminate [core patterns or principles](https://drive.google.com/drive/u/1/folders/1uUQ7KJuhle71Oh5_2iuMfMOon4JYJfX2) that support crews to successfully form, generate value for their participants, and gracefully end such that the participants can go on to join or start other groups \(you can also think of this as composting, and there's an impulse to get better at 'sunsetting' our groups and projects\).
 
