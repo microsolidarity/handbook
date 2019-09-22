@@ -4,7 +4,7 @@ description: Methods for people to support each other in small groups (less than
 
 # Crewing
 
-These are methods for people to support each other in small peer-to-peer mutual aid group:
+These are methods for people to support each other in small peer-to-peer mutual aid groups:
 
 * [Pods](http://handbook.enspiral.com/guides/pods.html) personal-and-professional development in small groups, a new practice in development at Enspiral. \(For more on this: listen to the [recording of the Crews/Pods session at Enspiral Summer Retreat 2019](https://www.microsolidarity.cc/discussing/enspiral-summer-retreat-feb-2019).\)
 * The [Scuttlebutt](http://scuttlebutt.nz) software community are actively forming crews they call [Faerie Rings](https://hackmd.io/0iNeYQ9wR3qqerxjvfKnhg). Documentation currently focusses on how to do matchmaking to form crews within a congregation. Faerie Rings are mostly "get to know you" spaces for people who are participating in a big distributed project, but don't have many opportunities to connect face to face.
