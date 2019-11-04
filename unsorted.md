@@ -9,4 +9,9 @@ description: An unfiltered list of interesting things
 * [Non Violent Communication](http://www.wikihow.com/Practice-Nonviolent-Communication)
 * [Resources for Decentralised Organising](https://hackmd.io/s/Skh_dXNbE)
 * [Peer Incubator](http://tiny.cc/PeerIncubator)
+* "[Dens](https://vimeo.com/146532294)" at Etsy
+* [Wise Democracy patterns list](https://www.wd-pl.com/pattern-list-v2/)
+* [Empathy circles](https://thelisteningarts.org/2019/03/09/empathy-circles-as-imaginal-cells-for-a-future-thats-just-and-sustainable/)
+* [XR Future Democracy hub](https://www.xrdemocracy.uk/)
+* [Conversational modalities for memetic mediation](https://docs.google.com/document/d/1wGR8FWoOz4QUslRhzGn9HwBMVRmWdHRuq3LxNerSpgk/edit)
 
