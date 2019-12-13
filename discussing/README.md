@@ -4,6 +4,7 @@ If you want to join the \#microsolidarity conversation, the central location is 
 
 This page is regularly updates with links to recordings, articles and discussions from different parts of the web:
 
+* 🔈[Discussion with Nati and john about pods at Enspiral](https://anchor.fm/Microsolidarity/episodes/Nati-and-john-talking-about-pods-at-Enspiral-e9giqj), sharing what they've learned about how to run a good crew, and how to support crews to form within an existing community.
 * 📄Teddy Taptiklis writes [Microattunement](https://medium.com/between-us/a-unity-of-unmerged-voices-a-proposal-to-synchronise-our-efforts-through-microattunement-870922e7082f): a pattern language for developing the art of belonging.
 * 🔈Discussion at Enspiral Summer Retreat Feb 2019, focussed on [practical methods for new crews](enspiral-summer-retreat-2019.md)
 * 🔈Conversation with Theodore Taptiklis and Bernhard Resch at the University of Sydney, about some of the [research questions invited by microsolidarity](research-questions.md)

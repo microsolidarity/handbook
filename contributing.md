@@ -6,5 +6,5 @@ I haven't worked out how to co-produce this resource yet. I want to validate my 
 
 If you want to be involved: thank you for your enthusiasm! You can connect with other interested people in [this Loomio group](http://loomio.org/microsolidarity). I am not currently catalysing that community into action but it has exciting potential. I imagine y'all are the kind of folks who can self-organise.
 
-My recommendation for now is to run your own experiments with [Crews](crewing/), and to use the \#microsolidarity hashtag wherever you're talking about this online.
+My recommendation for now is to run your own experiments with [Crews](crewing/), and to use the \#microsolidarity hashtag wherever you're talking about this online. I'm [active on Twitter](http://twitter.com/richdecibels) if you want to talk about it there.
 
