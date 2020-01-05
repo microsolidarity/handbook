@@ -23,5 +23,6 @@ Unofficial list of congregations and proto-congregations that match some of the 
 * [Blivande / Edgeryders](https://edgeryders.eu/t/a-template-for-microsolidarity/9277)
 * [Liminal Village](http://liminalvillage.com/)
 * [Future Thinkers](https://futurethinkers.org/)
+* [P3 Berlin](https://www.eventbrite.com/e/p3-berlin-march-2020-tickets-83713773149)
 
 If you have more to add, please [contribute](http://microsolidarity.cc/contributing)
