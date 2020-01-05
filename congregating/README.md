@@ -12,15 +12,16 @@ Resources:
 * An example for [how to invite people to a gathering to initiate a new congregation](https://docs.google.com/document/d/17SY8utcVVGA1Ps9bFaI0z2ur05Q0D6MaJHm88cm6g-A/edit#)
 * Notes on [how to avoid cults](cults.md)
 
-Unofficial list of congregations and proto-congregations:
+Unofficial list of congregations and proto-congregations that match some of the microsolidarity patterns:
 
 * [Enspiral](http://enspiral.com)
 * [Scuttlebutt](http://scuttlebutt.nz)
-* [Blivande / Edgeryders](https://edgeryders.eu/t/a-template-for-microsolidarity/9277)
+* [Terran Collective](https://www.terran.io/)
 * [Art / Earth / Tech](http://artearthtech.com/)
+* Community Weavers Guild (private)
 * [Totnes Convergence](https://autopia.co/a/totnes-convergence/apply)
+* [Blivande / Edgeryders](https://edgeryders.eu/t/a-template-for-microsolidarity/9277)
 * [Liminal Village](http://liminalvillage.com/)
 * [Future Thinkers](https://futurethinkers.org/)
 
 If you have more to add, please [contribute](http://microsolidarity.cc/contributing)
-
