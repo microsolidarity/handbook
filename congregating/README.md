@@ -10,7 +10,7 @@ Resources:
 
 * [Congregation: How-To — 8 Design Patterns for a Transformative Event](https://medium.com/the-tuning-fork/congregation-how-to-ffe35c65d70). This story documents some lessons from hosting the big annual gathering of the Enspiral congregation.
 * An example for [how to invite people to a gathering to initiate a new congregation](https://docs.google.com/document/d/17SY8utcVVGA1Ps9bFaI0z2ur05Q0D6MaJHm88cm6g-A/edit#)
-* Notes on [how to avoid cults](/cults.md)
+* Notes on [how to avoid cults](cults.md)
 
 Unofficial list of congregations and proto-congregations:
 
@@ -22,5 +22,5 @@ Unofficial list of congregations and proto-congregations:
 * [Liminal Village](http://liminalvillage.com/)
 * [Future Thinkers](https://futurethinkers.org/)
 
-If you have more to add, please [contribute](/contributing)
+If you have more to add, please [contribute](./contributing)
 
