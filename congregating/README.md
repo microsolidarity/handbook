@@ -22,5 +22,5 @@ Unofficial list of congregations and proto-congregations:
 * [Liminal Village](http://liminalvillage.com/)
 * [Future Thinkers](https://futurethinkers.org/)
 
-If you have more to add, please [contribute](contributing.md)
+If you have more to add, please [contribute](http://microsolidarity.cc/contributing)
 
