@@ -6,6 +6,7 @@
   * [Ako group guidelines](crewing/ako-group-guidelines.md)
 * [Congregating](congregating/README.md)
   * [Cults](congregating/cults.md)
+  * [Gathering Invite](congregating/gathering-invite.md)
 * [Discussing](discussing/README.md)
   * [Enspiral Summer Retreat 2019](discussing/enspiral-summer-retreat-2019.md)
   * [Research Questions](discussing/research-questions.md)
