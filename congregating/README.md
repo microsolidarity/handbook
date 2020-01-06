@@ -9,6 +9,7 @@ description: >-
 Resources:
 
 * [Congregation: How-To — 8 Design Patterns for a Transformative Event](https://medium.com/the-tuning-fork/congregation-how-to-ffe35c65d70). This story documents some lessons from hosting the big annual gathering of the Enspiral congregation.
+* [How to Run a Sharing Circle](https://docs.google.com/document/d/1d9RvLcremejPWHfLExOr4O7yEtT51R4x_xYYRmvq2rc/edit?usp=sharing) - a crucial piece of social technology, explained by Nati Lombardo from [TheHum.org](http://TheHum.org).
 * An example for [how to invite people to a gathering to initiate a new congregation](gathering-invite.md)
 * Notes on [how to avoid cults](cults.md)
 
