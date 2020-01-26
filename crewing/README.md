@@ -16,6 +16,7 @@ These are methods for people to support each other in small peer-to-peer mutual 
 * [Working Out Loud](https://workingoutloud.com/en/circle-guides): a guided 12-week process for peer support in small groups, suitable for workplaces: _what am I trying to do? who is related to that goal? how can I contribute to them to deepen our relationship?_
 * [Stewardship](https://loomio.coop/stewarding.html) peer support system for Partnerships.
 * [Ako Groups](ako-group-guidelines.md): peer support within a learning context, e.g. university
+* [How to give feedback in a small peer group](https://qualityswdev.com/2017/01/22/how-to-give-and-receive-feedback-in-an-agile-organization/). Written by Manuel Küblböck for a professional context, but the principles apply transcontextually.
 * If you have more to add to this list, please [contribute](../contributing.md) :\)
 
 
