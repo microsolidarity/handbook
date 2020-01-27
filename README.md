@@ -1,6 +1,6 @@
 # Microsolidarity
 
-In late 2018, Richard D. Bartlett published a [proposal](proposal.md) to start a "microsolidarity" community in Western Europe — a small group of people supporting each other to do more meaningful work. 
+In late 2018, Richard D. Bartlett published a [proposal](articles/proposal.md) to start a "microsolidarity" community in Western Europe — a small group of people supporting each other to do more meaningful work. 
 
 Reader reactions prompted him to start this website, to collect resources for the co-development of multiple such communities. 
 
@@ -18,11 +18,11 @@ The **Congregation** is a space for Crews to co-develop in the company of other 
 
 Many Congregations could form an **Assembly**. 
 
-_For more context on these definitions, read the original_ [_proposal_](proposal.md)_._
+_For more context on these definitions, read the original_ [_proposal_](articles/proposal.md)_._
 
 ### About this site
 
-This website is a resource for people practicing microsolidarity. You'll find [methods for cultivating Crews](crewing/), and [discussions](discussing/) about the proposal. If you have anything to add, please [contribute](contributing.md) :\)
+This website is a resource for people practicing microsolidarity. Read through the [articles](articles/) to understand the project. You'll find [methods for cultivating Crews](crewing/), and [discussions](discussing/) about the proposal. If you have anything to add, please [contribute](contributing.md) :\)
 
 All the content on this site is published with a [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license. So please use it however you like without asking permission: just give credit, and use the same license for derivative works. Unless stated otherwise, assume the author is Richard D. Bartlett.
 

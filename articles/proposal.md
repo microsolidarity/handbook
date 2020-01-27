@@ -4,13 +4,13 @@ description: >-
   Bartlett on December 2, 2018.
 ---
 
-# Proposal
+# \#1: Proposal
 
 ## Courage Before Hope: A Proposal to Weave Emotional and Economic Microsolidarity
 
 ### Or: What To Do in the Last Decade of the Anthropocene
 
-![Anatomical heart drawing](.gitbook/assets/anatomical-heart.png)
+![Anatomical heart drawing](../.gitbook/assets/anatomical-heart.png)
 
 I’ve spent most of the past 2 years travelling with my partner Nati, trying to discover what is the most strategic & wise action to take in a world that seems to be accelerating towards collapse. After an enormous amount of consideration, I have a strategy that feels good enough to engage my will and commitment. This document is a statement of intention. All going well, it’s where I want to invest my productive energy for the next 7 years or so.
 
@@ -63,7 +63,7 @@ So that brings us to my theory of groups, which you can read in Microsolidarity 
 
 ## Microsolidarity Part 2: a Theory of Groups and Groups of Groups
 
-![A fractal map of belonging](.gitbook/assets/fractal-map-of-belonging-edited.jpg)
+![A fractal map of belonging](../.gitbook/assets/fractal-map-of-belonging-edited.jpg)
 
 ### Definition of terms
 
@@ -117,7 +117,7 @@ Read all about it in Microsolidarity Part 3: The Reciprocity Game…
 
 ## Microsolidarity Part 3: The Reciprocity Game
 
-![Cartoon characters from &quot;Captain Planet &amp; The Planeteers&quot;](.gitbook/assets/captain-planet-and-the-planeteers.jpg)
+![Cartoon characters from &quot;Captain Planet &amp; The Planeteers&quot;](../.gitbook/assets/captain-planet-and-the-planeteers.jpg)
 
 _This is part 3 of a 4 part series about ‘microsolidarity’: a plan for people supporting each other to do more meaningful work. The other parts are here: 1, 2, 4_
 
@@ -196,7 +196,7 @@ On to Part 4. An Unorthodox Recipe For Social Change…
 
 ## Microsolidarity Part 4. An Unorthodox Recipe For Social Change
 
-![Burning of a Heretic by Sassetta](.gitbook/assets/burning-of-a-heretic-_sassetta-melburn_museum.jpg)
+![Burning of a Heretic by Sassetta](../.gitbook/assets/burning-of-a-heretic-_sassetta-melburn_museum.jpg)
 
 There are many components of the microsolidarity proposal that are out of step with the prevailing currents of progressive and radical thought. I’ll name five of those attributes here. I intend to acknowledge the risk of travelling _off piste_, and start the process of building accountability. This is a very exposing piece of writing, so please assume positive intent and check in with me if something triggers you.
 

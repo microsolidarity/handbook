@@ -19,13 +19,9 @@ These are methods for people to support each other in small peer-to-peer mutual 
 * [How to give feedback in a small peer group](https://qualityswdev.com/2017/01/22/how-to-give-and-receive-feedback-in-an-agile-organization/). Written by Manuel Küblböck for a professional context, but the principles apply transcontextually.
 * If you have more to add to this list, please [contribute](../contributing.md) :\)
 
-
-
-
-
 ## Forming
 
-How is Crew formed? We're not sure. Rich's original [proposal](../proposal.md) suggests the best way to meet your Crew-mates is in a Congregation: a larger gathering of people with some shared values and medium-high trust. The core patterns linked above may help, but there's many experiments to be done.
+How is Crew formed? We're not sure. Rich's original [proposal](../articles/proposal.md) suggests the best way to meet your Crew-mates is in a Congregation: a larger gathering of people with some shared values and medium-high trust. The core patterns linked above may help, but there's many experiments to be done.
 
 🔈[In this podcast](https://anchor.fm/emerge/episodes/Ria-Baeck---Emergent-Collective-Practice-and-Applied-Presence-e2qppp/a-a83fd7) with Daniel Thorson, Ria Baeck suggests the best place to start is at home, with a few guests gathered around a compelling question.
 
