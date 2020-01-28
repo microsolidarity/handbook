@@ -13,7 +13,7 @@ description: >-
 
 ![Weaving image by Wei Cheng Wu on Unsplash](../.gitbook/assets/weaving-image-by-wei-cheng-wu-on-unsplash-r7lswitk0le.jpg)
 
-I published [the Microsolidarity proposal](https://medium.com/enspiral-tales/courage-before-hope-a-proposal-to-weave-emotional-and-economic-microsolidarity-87bc81372a09) a year ago and really struck a chord with people. I’m overdue to give folks an update, and there’s really a lot of exciting news. So first I’ll give a quick recap, then I’ll share what’s happening in 2020.
+I published [the Microsolidarity proposal](https://www.microsolidarity.cc/articles/proposal) a year ago and really struck a chord with people. I’m overdue to give folks an update, and there’s really a lot of exciting news. So first I’ll give a quick recap, then I’ll share what’s happening in 2020.
 
 The essence of the original proposal was to start a small exclusive community, oriented towards a deep kind of mutual aid: where we support each other in our personal growth, generating health and prosperity for our collective, while producing significant benefits that ripple out into wider society. I explained that I have experienced this kind of community once before at [Enspiral](http://enspiral.com), and now I want to learn how to start more of them. I introduced some specific words, like “**congregation**” for a community like this \(&lt;200 people\) , and “**crew**” for a small densely connected group \(&lt;8 people\). The purpose of the crew to provide reciprocal peer-to-peer support for its members, who could be engaged in any kind of meaningful work: e.g. freelancer co-op, a learning club, activist collective. The purpose of the congregation is to make it easy for new crews to form and to support each other’s development.
 
@@ -103,9 +103,9 @@ When you start, agree to meet say 5 or 10 times and set a date for a review. Ref
 
 ### Weaving Social Fabric
 
-This is my hypothesis: these three pillars are my best guess for how you weave social fabric. Start with a great hosting team, have a first gathering, initiate a bunch of crews, and then come back for a second gathering 6 or 12 months later to celebrate and start the next cycle.
+This is my hypothesis: these three pillars are my best guess for how you weave social fabric. The objective is to cultivate a density of relationships, reciprocity, care, attention, and inspiration. We’re weaving a basket, a carpet, a platform for all kinds of other life-giving activities: people will start companies or they’ll build cohousing units or they’ll make babies or they’ll write great books or launch social movements. In my view, all of these activities go better when they are held by a generative community of mutual aid.
 
-The objective of focussing on these three pillars is to cultivate a density of relationships, reciprocity, care, attention, and inspiration. We’re weaving a basket, a carpet, a platform for all kinds of other life-giving activities: people will start companies or they'll build cohousing units or they'll make babies or they'll write great books or launch social movements. In my view, all of these activities go better when they are held by a generative community of mutual aid.
+Start with a great hosting team, have a first gathering, initiate a bunch of crews, and then come back for a second gathering 6 or 12 months later to celebrate and start the next cycle. If things go well, and you start thinking about what kind of organisational structure could suit your new community, check out the next chapter in this series: [People, Practices & Place](https://www.microsolidarity.cc/articles/3-congregation-scaffolding).
 
 If you’re reading this and you’re feeling inspired to action, here are some things you can do:
 
