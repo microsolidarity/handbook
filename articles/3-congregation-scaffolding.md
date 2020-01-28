@@ -14,7 +14,7 @@ description: >-
 
 Last week I published the latest story in my [Microsolidarity](http://microsolidarity.cc) series, explaining [how to start a new mutual aid community](https://medium.com/enspiral-tales/how-to-weave-social-fabric-9385a841559f) \(a “Congregation”\). That chapter was exclusively focussed on the initiation process: where do you start?
 
-For this chapter, I want to advance the clock a few months. Assume you’ve had one or two amazing gatherings, and there are 20 or 40 people ready to commit to supporting each other. What’s the minimum organisational structure needed to hold them together? I’m going to make a short sketch of a complete structure, as a first guess.
+For this chapter, I want to advance the clock a few months. Assume you’ve had one or two amazing gatherings, and there are 20 or 40 people ready to commit to supporting each other. What’s the minimum organisational structure needed to hold them together? I’m going to make a short sketch of a complete structure, as a first guess. The parts are all tried and tested, but I’ve never had a chance to launch a new community with this whole structure, so this is slightly speculative.
 
 I think it is important for a community to be aligned at the abstract level: having shared values, principles and purposes. However, I don’t think it is very interesting to create that alignment _by talking about it_. Instead, the focus is on finding alignment by _doing stuff together_. So the essence of this proposal is to organise primarily around three concrete elements: a small group of **People**, doing periodic **Practices** in a defined **Place**.
 
