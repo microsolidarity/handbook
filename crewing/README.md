@@ -17,6 +17,7 @@ These are methods for people to support each other in small peer-to-peer mutual 
 * [Stewardship](https://loomio.coop/stewarding.html) peer support system for Partnerships.
 * [Ako Groups](ako-group-guidelines.md): peer support within a learning context, e.g. university
 * [How to give feedback in a small peer group](https://qualityswdev.com/2017/01/22/how-to-give-and-receive-feedback-in-an-agile-organization/). Written by Manuel Küblböck for a professional context, but the principles apply transcontextually.
+* [How to host an Empathy Circle](http://cultureofempathy.com/Community/Handouts/How-To-Empathic-Listening.htm) - a simple group process to strengthen your empathy muscles.
 * If you have more to add to this list, please [contribute](../contributing.md) :\)
 
 ## Forming
