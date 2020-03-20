@@ -2,9 +2,9 @@
 
 In late 2018, Richard D. Bartlett published a [proposal](articles/proposal.md) to start a "microsolidarity" group — a small mutual aid community for people to do a kind of personal development, in good company, for social benefit.
 
-Since then, an open research network has been gradually self-organising around this concept and these practices. This website is the central hub to collect resources for the co-development of multiple such communities. 
+Since then, an open research network has been gradually self-organising around this concept and these practices. 
 
-This website is a resource for people practicing microsolidarity. Read through the [articles](articles/) to understand the project. You'll find [methods for cultivating Crews](crewing/) for peer-to-peer support in tiny groups.
+This website is the central hub to collect resources for the co-development of multiple such communities. Read through the [articles](articles/) to understand the project. You'll find [methods for cultivating Crews](crewing/) for peer-to-peer support in tiny groups.
 
 You can check out some recorded conversations on [this YouTube playlist](https://www.youtube.com/playlist?list=PLOjcWjpjOqzbV9T3tSR6O7z_eic-Puqaa) or [this podcast feed](https://anchor.fm/microsolidarity) and be sure to [join the Loomio group](http://loomio.org/microsolidarity) if you want to connect with other practitioners.
 
