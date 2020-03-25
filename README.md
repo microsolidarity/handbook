@@ -1,10 +1,16 @@
 # Microsolidarity
 
-In late 2018, Richard D. Bartlett published a [proposal](proposal.md) to start a "microsolidarity" community in Western Europe — a small group of people supporting each other to do more meaningful work. 
+In late 2018, Richard D. Bartlett published a [proposal](articles/proposal.md) to start a "microsolidarity" group — a small mutual aid community for people to do a kind of personal development, in good company, for social benefit.
 
-Reader reactions prompted him to start this website, to collect resources for the co-development of multiple such communities. 
+Since then, an open research network has been gradually self-organising around this concept and these practices. 
+
+This website is the central hub to collect resources for the co-development of multiple such communities. Read through the [articles](articles/) to understand the project. You'll find [methods for cultivating Crews](crewing/) for peer-to-peer support in tiny groups.
+
+You can check out some recorded conversations on [this YouTube playlist](https://www.youtube.com/playlist?list=PLOjcWjpjOqzbV9T3tSR6O7z_eic-Puqaa) or [this podcast feed](https://anchor.fm/microsolidarity) and be sure to [join the Loomio group](http://loomio.org/microsolidarity) if you want to connect with other practitioners. [Join Rich's newsletter](http://richdecibels.substack.com) for occasional updates on this project.
 
 ![A fractal view of belonging](.gitbook/assets/fractal-map-of-belonging-edited.jpg)
+
+
 
 ### Definition of terms
 
@@ -18,11 +24,9 @@ The **Congregation** is a space for Crews to co-develop in the company of other 
 
 Many Congregations could form an **Assembly**. 
 
-_For more context on these definitions, read the original_ [_proposal_](proposal.md)_._
+_For more context on these definitions, read the original_ [_proposal_](articles/proposal.md)_._
 
 ### About this site
-
-This website is a resource for people practicing microsolidarity. You'll find [methods for cultivating Crews](crewing/), and [discussions](discussing/) about the proposal. If you have anything to add, please [contribute](contributing.md) :\)
 
 All the content on this site is published with a [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license. So please use it however you like without asking permission: just give credit, and use the same license for derivative works. Unless stated otherwise, assume the author is Richard D. Bartlett.
 

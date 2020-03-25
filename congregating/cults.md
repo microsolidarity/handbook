@@ -1,7 +1,8 @@
 ---
-description: >-
-  How to protect yourself from starting or joining a cult.
+description: How to protect yourself from starting or joining a cult.
 ---
+
+# Cults
 
 A lot of the methods describe in this website are used by cults to do horrible things to people. If you're serious about this community-building work, it's a good idea to learn how cults work. Here are some starting points:
 

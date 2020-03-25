@@ -18,5 +18,3 @@ This page is regularly updates with links to recordings, articles and discussion
 * 📄There are interesting comment threads on each of the 4 Microsolidarity posts on Medium: [1](https://medium.com/enspiral-tales/courage-before-hope-a-proposal-to-weave-emotional-and-economic-microsolidarity-87bc81372a09) [2](https://medium.com/p/7c6e7ce63eda) [3](https://medium.com/p/4109e702a07d) [4](https://medium.com/p/a947d881f4b8)
 * 🦜See also: \#microsolidarity on [Twitter](https://twitter.com/search?f=tweets&vertical=default&q=%23microsolidarity&src=typd) and [Scuttlebutt](http://scuttlebutt.nz) 
 
-
-
