@@ -6,7 +6,7 @@ Since then, an open research network has been gradually self-organising around t
 
 This website is the central hub to collect resources for the co-development of multiple such communities. Read through the [articles](articles/) to understand the project. You'll find [methods for cultivating Crews](crewing/) for peer-to-peer support in tiny groups.
 
-The third **Microsolidarity Practice Program** is happening in September 2020, [details here](https://www.thehum.org/microsolidarity).
+The fifth **Microsolidarity Practice Program** is happening in September 2020, [register here](https://www.thehum.org/microsolidarity) if you would like to join the next practice group.
 
 You can check out some recorded conversations on [this YouTube playlist](https://www.youtube.com/playlist?list=PLOjcWjpjOqzbV9T3tSR6O7z_eic-Puqaa) or [this podcast feed](https://anchor.fm/microsolidarity) and be sure to [join the Loomio group](http://loomio.org/microsolidarity) if you want to connect with other practitioners. [Join Rich's newsletter](http://richdecibels.substack.com) for occasional updates on this project.
 
