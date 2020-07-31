@@ -26,6 +26,8 @@ Unofficial list of congregations and proto-congregations that match some of the 
 * [RatPark](https://ratpark.org/)
 * [Future Thinkers](https://futurethinkers.org/)
 * [P3 Berlin](https://www.eventbrite.com/e/p3-berlin-march-2020-tickets-83713773149)
+* [beta.gouv.fr](https://beta.gouv.fr/communaute/)
+* [Agile Open France](https://agile-france.org)
 
 If you have more to add, please [contribute](http://microsolidarity.cc/contributing)
 
