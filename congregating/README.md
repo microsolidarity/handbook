@@ -16,16 +16,20 @@ Resources:
 Unofficial list of congregations and proto-congregations that match some of the microsolidarity patterns:
 
 * [Enspiral](http://enspiral.com)
-* [Scuttlebutt](http://scuttlebutt.nz)
+* [Cultural Catalyst Network](http://culturalcatalystnetwork.org/)
+* [A New Republic of the Heart](https://newrepublicoftheheart.org/being-the-change/)
+* [Building Belonging](http://buildingbelonging.us)
 * [Terran Collective](https://www.terran.io/)
-* [Art / Earth / Tech](http://artearthtech.com/)
+* [Life Itself](http://lifeitself.us/) (formerly known as Art/Earth/Tech)
 * Community Weavers Guild \(private\)
-* [Totnes Convergence](https://autopia.co/a/totnes-convergence/apply)
+* [Pico Island Congregation](https://app.gitbook.com/@heymichal/s/pico/congregation)
 * [Blivande / Edgeryders](https://edgeryders.eu/t/a-template-for-microsolidarity/9277)
 * [Liminal Village](http://liminalvillage.com/)
 * [RatPark](https://ratpark.org/)
+* [Alter Ego Network](http://alterego.network)
 * [Future Thinkers](https://futurethinkers.org/)
 * [P3 Berlin](https://www.eventbrite.com/e/p3-berlin-march-2020-tickets-83713773149)
+* [Scuttlebutt](http://scuttlebutt.nz)
 
 If you have more to add, please [contribute](http://microsolidarity.cc/contributing)
 
