@@ -23,6 +23,7 @@ Unofficial list of congregations and proto-congregations that match some of the 
 * [Life Itself](http://lifeitself.us/) (formerly known as Art/Earth/Tech)
 * Community Weavers Guild \(private\)
 * [Pico Island Congregation](https://app.gitbook.com/@heymichal/s/pico/congregation)
+* [Regenerate Change: Social Alchemy Pods](https://www.regeneratechange.com/sap)
 * [Blivande / Edgeryders](https://edgeryders.eu/t/a-template-for-microsolidarity/9277)
 * [Liminal Village](http://liminalvillage.com/)
 * [RatPark](https://ratpark.org/)
