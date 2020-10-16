@@ -23,6 +23,10 @@ These are methods for people to support each other in small peer-to-peer mutual 
 * [Working Out Loud support circles](https://workingoutloud.com/en/circle-guides)
 * If you have more to add to this list, please [contribute](../contributing.md) :\)
 
+## Economics
+
+* [Sharing Money With Friends](https://medium.com/@richdecibels/sharing-money-with-friends-what-could-go-wrong-c4120b712396) -- a short blog on the technical aspect of managing profit-sharing agreements in a collective of freelancers.
+
 ## Forming
 
 How is Crew formed? We're not sure. Rich's original [proposal](../articles/proposal.md) suggests the best way to meet your Crew-mates is in a Congregation: a larger gathering of people with some shared values and medium-high trust. The core patterns linked above may help, but there's many experiments to be done.
