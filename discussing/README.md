@@ -4,6 +4,7 @@ If you want to join the \#microsolidarity conversation, the central location is 
 
 This page is regularly updates with links to recordings, articles and discussions from different parts of the web:
 
+* 🔈[Interview with Jim Rutt & Rich Bartlett](http://jimruttshow.com/rich-bartlett) about microsolidarity, especially focussed on the economic side.
 * 🔈[Discussion with Nati and john about pods at Enspiral](https://anchor.fm/Microsolidarity/episodes/Nati-and-john-talking-about-pods-at-Enspiral-e9giqj), sharing what they've learned about how to run a good crew, and how to support crews to form within an existing community.
 * 📄Teddy Taptiklis writes [Microattunement](https://medium.com/between-us/a-unity-of-unmerged-voices-a-proposal-to-synchronise-our-efforts-through-microattunement-870922e7082f): a pattern language for developing the art of belonging.
 * 🔈Jamie King interviewed Rich about the role of [his religious past](http://makeworld.io/episode/s01e04/) in his current community building efforts
