@@ -1,5 +1,5 @@
 ---
-description: Methods for people to support each other in small groups (less than 8)
+description: Methods for people to support each other in small groups (less than 8, although some work well with slightly larger groups too)
 ---
 
 # Crewing
