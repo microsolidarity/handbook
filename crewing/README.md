@@ -26,6 +26,7 @@ These are methods for people to support each other in small peer-to-peer mutual 
 ## Economics
 
 * [Sharing Money With Friends](https://medium.com/@richdecibels/sharing-money-with-friends-what-could-go-wrong-c4120b712396) -- a short blog on the technical aspect of managing profit-sharing agreements in a collective of freelancers.
+* [Squad Wealth](https://otherinter.net/squad-wealth/) - growing trust in small groups to collectively get free of meaningless employment and build shared prosperity
 
 ## Forming
 
