@@ -21,16 +21,17 @@ Unofficial list of congregations and proto-congregations that match some of the 
 * [Alter Ego Network](http://alterego.network)
 * [Building Belonging](http://buildingbelonging.us)
 * [Terran Collective](https://www.terran.io/)
+* [Pico Island Congregation](https://app.gitbook.com/@heymichal/s/pico/congregation)
+* [Rocky Mountain Mutual Aid Network](https://rmman.org/)
 * [Life Itself](http://lifeitself.us/) (formerly known as Art/Earth/Tech)
 * Community Weavers Guild \(private\)
-* [Pico Island Congregation](https://app.gitbook.com/@heymichal/s/pico/congregation)
 * [Regenerate Change: Social Alchemy Pods](https://www.regeneratechange.com/sap)
 * [Blivande / Edgeryders](https://edgeryders.eu/t/a-template-for-microsolidarity/9277)
 * [Liminal Village](http://liminalvillage.com/)
 * [RatPark](https://ratpark.org/)
 * [Future Thinkers](https://futurethinkers.org/)
 * [P3 Berlin](https://www.eventbrite.com/e/p3-berlin-march-2020-tickets-83713773149)
-* [Scuttlebutt](http://scuttlebutt.nz)
+
 
 If you have more to add, please [contribute](http://microsolidarity.cc/contributing)
 
