@@ -28,6 +28,7 @@ Unofficial list of congregations and proto-congregations that match some of the 
 * [Regenerate Change: Social Alchemy Pods](https://www.regeneratechange.com/sap)
 * [Blivande / Edgeryders](https://edgeryders.eu/t/a-template-for-microsolidarity/9277)
 * [Liminal Village](http://liminalvillage.com/)
+* [Intentional Society](https://www.intentionalsociety.org/)
 * [RatPark](https://ratpark.org/)
 * [Future Thinkers](https://futurethinkers.org/)
 * [P3 Berlin](https://www.eventbrite.com/e/p3-berlin-march-2020-tickets-83713773149)
