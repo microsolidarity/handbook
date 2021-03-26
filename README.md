@@ -10,7 +10,9 @@ This website is the central hub to collect resources for the co-development of m
 
 For a thorough understanding of the project, read through [these articles](articles/) in sequence. If you prefer video, you can watch a quick [overview of the project here](https://www.youtube.com/watch?v=yWyZmmJCrSA&feature=youtu.be&t=869).
 
-You can check out more recorded conversations on [this YouTube playlist](https://www.youtube.com/channel/UC6hicteAM1PrzfeWN5VT5dg/) or [this podcast feed](https://anchor.fm/microsolidarity) and be sure to [join the Loomio group](http://loomio.org/microsolidarity) if you want to connect with other practitioners. [Join Rich's newsletter](http://richdecibels.substack.com) for occasional updates on this project.
+[Join Rich's newsletter](http://richdecibels.substack.com) for occasional updates on this project. You can check out more recorded conversations on [this YouTube playlist](https://www.youtube.com/channel/UC6hicteAM1PrzfeWN5VT5dg/) or [this podcast feed](https://anchor.fm/microsolidarity) and be sure to [join the Loomio group](http://loomio.org/microsolidarity) if you want to connect with other practitioners. 
+
+If you want to join a microsolidarity practice group, Rich & his partner Nati periodically run an open program [which you can join here](https://www.thehum.org/microsolidarity).
 
 ## Definition of terms
 
