@@ -6,4 +6,4 @@ If you want to be involved: thank you for your enthusiasm! We occasionally run a
 
 My recommendation for now is to run your own experiments with [Crews](crewing/), and chat with me [on Twitter](http://twitter.com/richdecibels).
 
-We're planning to hold the first physical gathering in 2022, at which point the "decentralised network of microsolidarity communities" will likely be much more open and ready for diverse participants and contributions.
+We're planning to hold the first physical gathering in 2022 (Belgium), at which point the "decentralised network of microsolidarity communities" will likely be much more open and ready for diverse participants and contributions.
