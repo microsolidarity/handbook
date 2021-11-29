@@ -5,19 +5,19 @@ description: >-
   Congregation. Published Jan 21, 2020.
 ---
 
-# \#2: Update 2020
+# #2: Update 2020
 
 ## How To Weave Social Fabric
 
 ### 3 Essential Pillars For a New Mutual Aid Community
 
-![Weaving image by Wei Cheng Wu on Unsplash](../.gitbook/assets/weaving-image-by-wei-cheng-wu-on-unsplash-r7lswitk0le.jpg)
+![Weaving image by Wei Cheng Wu on Unsplash](../.gitbook/assets/weaving-image-by-wei-cheng-wu-on-unsplash-R7lSwItK0LE.jpg)
 
 I published [the Microsolidarity proposal](https://www.microsolidarity.cc/articles/proposal) a year ago and really struck a chord with people. I’m overdue to give folks an update, and there’s really a lot of exciting news. So first I’ll give a quick recap, then I’ll share what’s happening in 2020.
 
-The essence of the original proposal was to start a small exclusive community, oriented towards a deep kind of mutual aid: where we support each other in our personal growth, generating health and prosperity for our collective, while producing significant benefits that ripple out into wider society. I explained that I have experienced this kind of community once before at [Enspiral](http://enspiral.com), and now I want to learn how to start more of them. I introduced some specific words, like “**congregation**” for a community like this \(&lt;200 people\) , and “**crew**” for a small densely connected group \(&lt;8 people\). The purpose of the crew to provide reciprocal peer-to-peer support for its members, who could be engaged in any kind of meaningful work: e.g. freelancer co-op, a learning club, activist collective. The purpose of the congregation is to make it easy for new crews to form and to support each other’s development.
+The essence of the original proposal was to start a small exclusive community, oriented towards a deep kind of mutual aid: where we support each other in our personal growth, generating health and prosperity for our collective, while producing significant benefits that ripple out into wider society. I explained that I have experienced this kind of community once before at [Enspiral](http://enspiral.com), and now I want to learn how to start more of them. I introduced some specific words, like “**congregation**” for a community like this (<200 people) , and “**crew**” for a small densely connected group (<8 people). The purpose of the crew to provide reciprocal peer-to-peer support for its members, who could be engaged in any kind of meaningful work: e.g. freelancer co-op, a learning club, activist collective. The purpose of the congregation is to make it easy for new crews to form and to support each other’s development.
 
-The raw numbers tell some of the story: [the Medium post](https://medium.com/enspiral-tales/courage-before-hope-a-proposal-to-weave-emotional-and-economic-microsolidarity-87bc81372a09) was read about 10,000 times, [the website](https://www.microsolidarity.cc/) has been viewed by people in 71 countries, it spawned a handful of [podcast interviews and articles](https://www.microsolidarity.cc/discussing), and about 100 people have joined the [Loomio discussion group](http://microsolidarity.loomio.org/).
+The raw numbers tell some of the story: [the Medium post](https://medium.com/enspiral-tales/courage-before-hope-a-proposal-to-weave-emotional-and-economic-microsolidarity-87bc81372a09) was read about 10,000 times, [the website](https://www.microsolidarity.cc) has been viewed by people in 71 countries, it spawned a handful of [podcast interviews and articles](https://www.microsolidarity.cc/discussing), and about 100 people have joined the [Loomio discussion group](http://microsolidarity.loomio.org).
 
 I’ve written popular stories before, but there was something qualitatively different about the response I got to this one, something deeper than the numbers show. The response was so significant, it actually changed my sense of myself.
 
@@ -31,9 +31,9 @@ So in this post, I’ll tell you my plan for 2020, and then I’ll articulate my
 
 These are the “congregations” I’m directly involved with this year:
 
-* I’ve joined the Board at **Enspiral**, my home congregation. A small group of us are going to plant a seed for a new local Enspiral community in Europe, probably with a first gathering in August \([join the newsletter](http://enspiral.com) if you want updates\).
-* My company [**The Hum**](http://thehum.org) has partnered with [**AlterEgo**](http://alterego.network) to produce 3 gatherings for people at the intersection of politics and developmental culture. If that’s you, [apply here](http://alterego.network/apply). We’re able to do this with the generous support of [Guerrilla Foundation](https://guerrillafoundation.org/) & [Lunt Foundation](https://luntfoundation.org/).
-* I’m contributing to the **Totnes Convergence** in the UK in June \(you can [apply to join](https://autopia.co/a/totnes-convergence/apply) us\). One interesting aspect of this event is that it’s coordinated through [**Autopia**](http://autopia.co) a new social network developed by Enspiral contributor Stephen Reid, which may prove to be very useful for other congregations.
+* I’ve joined the Board at **Enspiral**, my home congregation. A small group of us are going to plant a seed for a new local Enspiral community in Europe, probably with a first gathering in August ([join the newsletter](http://enspiral.com) if you want updates).
+* My company [**The Hum**](http://thehum.org) has partnered with [**AlterEgo**](http://alterego.network) to produce 3 gatherings for people at the intersection of politics and developmental culture. If that’s you, [apply here](http://alterego.network/apply). We’re able to do this with the generous support of [Guerrilla Foundation](https://guerrillafoundation.org) & [Lunt Foundation](https://luntfoundation.org).
+* I’m contributing to the **Totnes Convergence** in the UK in June (you can [apply to join](https://autopia.co/a/totnes-convergence/apply) us). One interesting aspect of this event is that it’s coordinated through [**Autopia**](http://autopia.co) a new social network developed by Enspiral contributor Stephen Reid, which may prove to be very useful for other congregations.
 * I’m a contributing member of the **Community Weavers Guild**, a private network of about 50 people supporting each other to develop our facilitation and community-weaving skills. This is where I practice contributing without being in the centre of the action!
 
 So as you can see I'm involved in many community experiments in parallel. I’m looking for patterns that match across different contexts. I’ll keep prototyping methods and language, and reporting what I learn on the [Microsolidarity website](http://microsolidarity.cc).
@@ -46,11 +46,11 @@ As I’m in “starting out” mode with all of these groups, my current focus i
 
 Number one. Who is initiating this new congregation?
 
-People in the [Art of Hosting](https://www.artofhosting.org/) network talk about a “caller”, someone who senses some great potential and calls out to others: _Will you join me? Can we do something together?_ In the g0v community [they call them “diggers”](https://blog.loomio.org/2015/04/13/g0v-summit-2014-taiwan-and-the-future-of-democracy/), people who create a hole for other people to “fill up”. If you’re familiar with Peter Koenig’s work, you might call them the “[source](https://workwithsource.com/what-is-source/)”. I haven’t settled on a name, but I instinctively reach for “host” because I think “hospitality” is their main job.
+People in the [Art of Hosting](https://www.artofhosting.org) network talk about a “caller”, someone who senses some great potential and calls out to others: _Will you join me? Can we do something together?_ In the g0v community [they call them “diggers”](https://blog.loomio.org/2015/04/13/g0v-summit-2014-taiwan-and-the-future-of-democracy/), people who create a hole for other people to “fill up”. If you’re familiar with Peter Koenig’s work, you might call them the “[source](https://workwithsource.com/what-is-source/)”. I haven’t settled on a name, but I instinctively reach for “host” because I think “hospitality” is their main job.
 
 Whatever you call them, a new community starts with one or a few people. There are some initiators, who form the first seed for the community to crystallise around.
 
-Think about what qualities you want to see in your community \(generosity, care, courage, wisdom, etc\). The people who are going to initiate this community need to **already embody** some of those qualities. So you need to know what attributes you’re looking for. You need some kind of filtering and discernment so you can be confident that you are starting with some of the right ingredients.
+Think about what qualities you want to see in your community (generosity, care, courage, wisdom, etc). The people who are going to initiate this community need to **already embody** some of those qualities. So you need to know what attributes you’re looking for. You need some kind of filtering and discernment so you can be confident that you are starting with some of the right ingredients.
 
 When I’m looking for co-hosts, I want people with psychological and emotional depth, people with experience in conflict transformation, people who’ve sat in circle a hundred times before, people who have inherited some of the subtle interpersonal wisdom that comes from any multigenerational lineage of community practice. There are some administrative skills needed in the core too, people who are familiar with the practical work of organising events, pooling money, dealing with taxes, etc.
 
@@ -66,14 +66,14 @@ This first pillar, in my view, is the limiting factor to the spread of microsoli
 
 The second pillar. You need to host really good gatherings.
 
-I can’t describe it better than what Ria Baeck \(contributor to both the [Percolab](http://percolab.com) and Enspiral congregations\) wrote [in this blog](https://medium.com/@ria.baeck/pop-up-communities-the-importance-of-retreats-to-build-a-new-and-generative-working-organising-5258a33e8b0f): _“These retreats and gatherings aim to build an experience of community, pay a lot of attention to building relationships, seek the collective intelligence of all present and mostly support the commons in one way or another.”_
+I can’t describe it better than what Ria Baeck (contributor to both the [Percolab](http://percolab.com) and Enspiral congregations) wrote [in this blog](https://medium.com/@ria.baeck/pop-up-communities-the-importance-of-retreats-to-build-a-new-and-generative-working-organising-5258a33e8b0f): _“These retreats and gatherings aim to build an experience of community, pay a lot of attention to building relationships, seek the collective intelligence of all present and mostly support the commons in one way or another.”_
 
 I don't know exactly what are the crucial patterns here, but I think the gathering needs to be at least 3 days and nights. The size is important, it has to be big enough to work like a dating pool, but small enough that it's possible for everyone to feel reasonably comfortable with everyone else after a couple of days. I guess it needs to be more than 12 people and less than 40, something like that. I want a circle that's small enough so that I can listen to everyone speaking in turn, without overrunning my attention span. But it needs to be big enough to bring out a lot of archetypes so I can see myself reflected in others, and diverse enough for new collaborations to form from little knots of complementary skills and orientations.
 
 In those gatherings, you can do all kinds of stuff. But the really crucial thing is that you visit four spaces:
 
 1. Self: spend time in private reflection. This could be unstructured, like a solo walk in the forest. Or you could have a journaling session where someone asks good questions and everyone quietly writes their reflections.
-2. Pair: spend some time intentionally practicing the basics of 1-to-1 relationship: this could be anything from communication practice \(authentic speaking + active listening\) to cooking a meal or going for a walk together.
+2. Pair: spend some time intentionally practicing the basics of 1-to-1 relationship: this could be anything from communication practice (authentic speaking + active listening) to cooking a meal or going for a walk together.
 3. Subgroup: spend some time in small groups, probably 4-6 people is best, so it is easy for everyone to speak and listen. You could talk about a shared project, or talk about your experience of the day, or all respond to a provocative question, whatever.
 4. Whole: finally, you need to spend time as a whole group, probably in a circle. Don’t talk _about_ things, talk _with_ each other. The circle I’m thinking of gets progressively deeper and more intimate with each passing day. We’re heading towards shared presence, reverence, limitless acceptance, and extraordinary listening, the kind of listening that incubates a collective identity that is far greater than the sum of its parts.
 
@@ -97,7 +97,7 @@ I recommend starting with four or five people who have shared a peak experience.
 
 If you’re looking for some guidance for what to do in these meetings, see the [Crewing page](https://www.microsolidarity.cc/crewing) on the Microsolidarity website. You can coach each other through professional challenges, or talk about your goals, or make an open space for people to vent distressing emotions… whatever suits.
 
-The **rhythm** is important, it reduces the coordination overhead, and it elevates the priority that this group takes up in amongst all your other commitments. You could emulate other congregations like [Permalab](https://permalab.eu/en/events/) and [Liminal Village](http://liminalvillage.com/) and sync your rhythm to the moon.
+The **rhythm** is important, it reduces the coordination overhead, and it elevates the priority that this group takes up in amongst all your other commitments. You could emulate other congregations like [Permalab](https://permalab.eu/en/events/) and [Liminal Village](http://liminalvillage.com) and sync your rhythm to the moon.
 
 When you start, agree to meet say 5 or 10 times and set a date for a review. Reflect together: _what did we like about that experience? where is there room for improvement in how we meet? do we want to keep going together? should we try some different methods? should we disintegrate this crew and regroup with new members?_
 
@@ -109,14 +109,13 @@ Start with a great hosting team, have a first gathering, initiate a bunch of cre
 
 If you’re reading this and you’re feeling inspired to action, here are some things you can do:
 
-* **Contribute to the research**: If you know of more communities that match the patterns I’ve named here, I’d love to add them to [my list of congregations](https://www.microsolidarity.cc/congregating). If you have experience with any small-group modalities that suit crews \(e.g. any kind of peer-coaching method like [Case Clinic](https://www.presencing.org/resource/tools/case-clinic-desc)\), please let me know so I can add it to [the list](https://www.microsolidarity.cc/crewing). Leave me a comment or ping me [on Twitter](https://twitter.com/RichDecibels).
-* If you are involved in, say, a fellowship network, membership organisation, or an amazing conference, and **you want support** to make it more like a congregation, contact us at [**The Hum**](https://www.thehum.org/). We’re happy to help
-* If you want to be **notified of updates**, [join my newsletter](https://richdecibels.substack.com/).
+* **Contribute to the research**: If you know of more communities that match the patterns I’ve named here, I’d love to add them to [my list of congregations](https://www.microsolidarity.cc/congregating). If you have experience with any small-group modalities that suit crews (e.g. any kind of peer-coaching method like [Case Clinic](https://www.presencing.org/resource/tools/case-clinic-desc)), please let me know so I can add it to [the list](https://www.microsolidarity.cc/crewing). Leave me a comment or ping me [on Twitter](https://twitter.com/RichDecibels).
+* If you are involved in, say, a fellowship network, membership organisation, or an amazing conference, and **you want support** to make it more like a congregation, contact us at [**The Hum**](https://www.thehum.org). We’re happy to help
+* If you want to be **notified of updates**, [join my newsletter](https://richdecibels.substack.com).
 * If you want to **discuss Microsolidarity with others**, [join the Loomio group](https://www.loomio.org/d/OUV8X7Hv/).
 * If you want to **support my work** as an opinionated librarian/curator, you can [give me money on Patreon](https://www.patreon.com/richdecibels).
-* If you want to **contact me**, please see the [guidance on my website](http://richdecibels.com/#contact), as I am frequently overwhelmed by interesting strangers :\)
+* If you want to **contact me**, please see the [guidance on my website](http://richdecibels.com/#contact), as I am frequently overwhelmed by interesting strangers :)
 
-p.s. Grateful thanks to the many friends and Patreon supporters who gave feedback on the draft and greatly improved the story! [Ria Baeck](https://medium.com/@ria.baeck), [Manuel Küblböck](http://twitter.com/manuelkublbock), [Bernhard Resch](https://twitter.com/rebe), [Ronan Harrington](https://twitter.com/RonanHarrington), [Ulrich Schur](https://twitter.com/SchurUlrich), Patrick Campbell, [csageland](https://twitter.com/csageland), Abhayakara, [Pascal Hazeleger](https://twitter.com/PascalHazeleger), [drew hornbein](https://twitter.com/hornbein), [Matthew Bartlett](https://twitter.com/mhjb). These people are all great thinking partners so I recommend following them on Twitter or Medium :\)
+p.s. Grateful thanks to the many friends and Patreon supporters who gave feedback on the draft and greatly improved the story! [Ria Baeck](https://medium.com/@ria.baeck), [Manuel Küblböck](http://twitter.com/manuelkublbock), [Bernhard Resch](https://twitter.com/rebe), [Ronan Harrington](https://twitter.com/RonanHarrington), [Ulrich Schur](https://twitter.com/SchurUlrich), Patrick Campbell, [csageland](https://twitter.com/csageland), Abhayakara, [Pascal Hazeleger](https://twitter.com/PascalHazeleger), [drew hornbein](https://twitter.com/hornbein), [Matthew Bartlett](https://twitter.com/mhjb). These people are all great thinking partners so I recommend following them on Twitter or Medium :)
 
 p.p.s. This story is published by Richard D. Bartlett with no rights reserved. [My website has extra file formats](http://richdecibels.com/stories/microsolidarity-2020) for easy reproduction.
-
