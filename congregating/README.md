@@ -18,6 +18,7 @@ Unofficial list of congregations and proto-congregations that match some of the 
 * [Enspiral](http://enspiral.com)
 * [Cultural Catalyst Network](http://culturalcatalystnetwork.org)
 * [Pico Island Congregation](https://pico.microsolidarity.cc)
+* [Starter Cultures](https://www.startercultures.us/)
 * [Rocky Mountain Mutual Aid Network](https://rmman.org)
 * [A New Republic of the Heart](https://newrepublicoftheheart.org/being-the-change/)
 * [Blivande / Edgeryders](https://edgeryders.eu/t/a-template-for-microsolidarity/9277)
