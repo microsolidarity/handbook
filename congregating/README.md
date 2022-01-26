@@ -10,6 +10,7 @@ Resources:
 
 * [Congregation: How-To — 8 Design Patterns for a Transformative Event](https://medium.com/the-tuning-fork/congregation-how-to-ffe35c65d70). This story documents some lessons from hosting the big annual gathering of the Enspiral congregation.
 * [How to Run a Sharing Circle](https://docs.google.com/document/d/1d9RvLcremejPWHfLExOr4O7yEtT51R4x\_xYYRmvq2rc/edit?usp=sharing) - a crucial piece of social technology, explained by Nati Lombardo from [TheHum.org](http://thehum.org).
+* [Excellent documentation from the Pico Congregation](https://pico.microsolidarity.cc/resources/pico-gathering-fire-starter) on how they run their community gatherings
 * An example for [how to invite people to a gathering to initiate a new congregation](gathering-invite.md)
 * Notes on [how to avoid cults](cults.md)
 
@@ -18,7 +19,7 @@ Unofficial list of congregations and proto-congregations that match some of the 
 * [Enspiral](http://enspiral.com)
 * [Cultural Catalyst Network](http://culturalcatalystnetwork.org)
 * [Pico Island Congregation](https://pico.microsolidarity.cc)
-* [Starter Cultures](https://www.startercultures.us/)
+* [Starter Cultures](https://www.startercultures.us)
 * [Rocky Mountain Mutual Aid Network](https://rmman.org)
 * [A New Republic of the Heart](https://newrepublicoftheheart.org/being-the-change/)
 * [Blivande / Edgeryders](https://edgeryders.eu/t/a-template-for-microsolidarity/9277)
@@ -31,6 +32,7 @@ Unofficial list of congregations and proto-congregations that match some of the 
 * [Wild Seed Society](https://www.wildseedsociety.com)
 * [Emerging Leaders Project](https://emergingleaders.us)
 * [Intentional Society](https://www.intentionalsociety.org)
+* [Maastricht Congregation](https://www.notion.so/an-extremely-detailed-Process-Overview-70cae0766a9a43ec891017f65b50415e#aec2b4cb6578418ab1cd097468a8f885)
 * [RatPark](https://ratpark.org)
 * [Future Thinkers](https://futurethinkers.org)
 * [P3 Berlin](https://www.eventbrite.com/e/p3-berlin-march-2020-tickets-83713773149)
