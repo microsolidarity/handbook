@@ -1,36 +1,45 @@
 # Microsolidarity
 
-In late 2018, Richard D. Bartlett published a [proposal](articles/proposal.md) to start a "microsolidarity" group — a small mutual aid community for people to do a kind of personal development, in good company, for social benefit.
+### Microsolidarity is a community-building practice & a network of community builders.
 
-Since then, an open research network has been gradually self-organising around this concept and these practices.
+The first objective of microsolidarity is to create **structures for belonging**. We are weaving social fabric, stitching new kinship networks that can shift us out of isolated individualism into a more connected way of being. Why? Because **belonging is a superpower**: we’re more courageous & creative when we "find our people".
 
-This website is the central hub to collect resources for the co-development of multiple such communities. The most useful material is currently here: [methods for cultivating Crews](crewing/) for peer-to-peer support in tiny groups.
+The second objective is to support people into **meaningful work.** This is very broadly defined: you decide what is meaningful to you. It could be about your job, your family, or community volunteering. Generally, life is more meaningful when we are **being of benefit to others**, when we know how to contribute, when we can match our talents to the needs in the world.
+
+
 
 ![A fractal view of belonging](.gitbook/assets/fractal-map-of-belonging-edited.jpg)
 
-For a thorough understanding of the project, read through [these articles](articles/) in sequence. If you prefer video, you can watch a quick [overview of the project here](https://www.youtube.com/watch?v=yWyZmmJCrSA&feature=youtu.be&t=869).
+### Learn more
 
-[Join Rich's newsletter](http://richdecibels.substack.com) for occasional updates on this project. You can check out more recorded conversations on [this YouTube playlist](https://www.youtube.com/channel/UC6hicteAM1PrzfeWN5VT5dg/) or [this podcast feed](https://anchor.fm/microsolidarity) and be sure to [join the Loomio group](http://loomio.org/microsolidarity) if you want to connect with other practitioners. 
+This website is a resource hub for microsolidarity practitioners. For a thorough understanding of the project, read through the Essays in sequence. If you prefer not to read, you can watch a short intro video here in [this interview on Rebel Wisdom](https://www.youtube.com/watch?v=yWyZmmJCrSA\&feature=youtu.be\&t=869), or a longer interview with Rich on the Reach Truth Podcast ([audio](https://anchor.fm/tasshin-fogleman/episodes/Community-and-Uncertainty-with-Richard-Bartlett-e1afveu) / [video](https://www.youtube.com/watch?v=64ebRxcLce4\&feature=youtu.be)).
 
-If you want to join a microsolidarity practice group, Rich & his partner Nati periodically run an open program [which you can join here](https://www.thehum.org/microsolidarity).
+* [Background & Introduction](essays/background-and-introduction.md)
+* [Five Scales of Microsolidarity](essays/five-scales-of-microsolidarity.md)
+* [Leadership as Hospitality](essays/leadership-as-hospitality.md)
+* [A Developmental Pathway](essays/a-developmental-pathway.md)
+* [From Domination to Partnership](essays/from-domination-to-partnership.md)
 
-## Definition of terms
+One you've read a few of the essays, you might be ready to get started. Find out how in the [Practices section](practices/) of this site. If you're inspired, find out [how you can participate](participate/), or make a [financial contribution](participate/contributing-money.md).
 
-The proposal introduces some specific use of language:
+### Updates
 
-**Microsolidarity** is a set of practices for mutual support between peers. These methods bring us out of individualism and into a more relational way of being.
+Join [Rich's newsletter](http://richdecibels.substack.com) for occasional updates on this project. You can subscribe to [this YouTube channel](https://www.youtube.com/channel/UC6hicteAM1PrzfeWN5VT5dg/) or [podcast feed](https://anchor.fm/microsolidarity) to be notified when we release new conversations with microsolidarity practitioners. And be sure to [join the Discord](https://discord.gg/Kp2xVuSFAX) group if you want to connect with other practitioners.
 
-Most of this support happens in a **Crew**: a small group up to about 8 people growing trust in each other through emotional & economic reciprocity. Crews are always designed for intimacy, and may also produce an output \(e.g. a software product or an activist campaign\).
+### Upcoming Events
 
-The **Congregation** is a space for Crews to co-develop in the company of other Crews. Congregations have less than a few hundred people, so they can be primarily governed through trust and dialogue.
+In 2022 we have the first in-person gatherings for the microsolidarity network! We’ve confirmed Belgium for May 9-14th, and will probably also be in the northeast USA in November.
 
-Many Congregations could form an **Assembly**.
+👉  [Details & registration here](https://www.thehum.org/microsolidarity-gatherings).
 
-_For more context on these definitions, read the original_ [_proposal_](articles/proposal.md)_._
+
+
+
 
 ## About this site
+
+This site has recently had a major overhaul, with a lot of new content. Feedback is welcome! You can comment on the google doc version, tweet at [@richdecibels](http://twitter.com/richdecibels), or join in the conversation [on Discord](https://discord.gg/Kp2xVuSFAX).
 
 All the content on this site is published with a [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license. So please use it however you like without asking permission: just give credit, and use the same license for derivative works. Unless stated otherwise, assume the author is Richard D. Bartlett.
 
 ![](.gitbook/assets/image.png)
-
