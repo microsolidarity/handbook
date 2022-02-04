@@ -1,12 +1,6 @@
 # Background & introduction
 
-## The state of the network in 2022
-
-Microsolidarity was initiated by me, Richard D. Bartlett, when I published [the original proposal](../articles/proposal.md) in 2018, announcing my intentions to start a small mutual aid community for people to do a kind of personal development, in good company, for social benefit. The plan struck a chord with a surprisingly large audience, so in 2020 [I shifted focus](../articles/2-update-2020.md), to not just build one community but to support many communities to form.
-
 At a minimum, microsolidarity can be practiced with a small group of 3 or 4 people connecting regularly to get to know each other & support each other in pursuing their developmental goals. At the larger scale, many of these small groups can congregate into a larger body which can coordinate collective impact and manage shared infrastructure, like: amazing gatherings, co-working spaces, or experiments in collaborative finances.
-
-Over 2020 & 2021 my partner Nati Lombardo and I trained more than 200 people in the fundamentals of microsolidarity. I’ve also been working with about 15 community founders, accompanying them through the struggles and joys of establishing their own communities. The network has been developing mostly underground; I meet with community founders one at a time and occasionally publish [interviews on YouTube](https://www.youtube.com/playlist?list=PLhAtJq9uAnRHYyUKI4sX03FHLpCkclFDA). My intention for 2022 is to open up this network to be more public, so more people can come in and learn together and support each other directly without me being a bottleneck. To that end, I’ve published this new series of essays.
 
 ## Why practice microsolidarity?
 
@@ -29,6 +23,12 @@ There are many groups around the world practicing microsolidarity to create belo
 * [Tangerine](https://docs.google.com/presentation/d/1KZR6jkvMXfctr7C0uok4dvaIu04Njm3sdz7oYuKOkX0/edit#slide=id.p) is a network of young professionals employed at UNFPA, experimenting with more decentralised, self-managing ways of working within the hierarchy of the United Nations. They use microsolidarity practices to create the foundation of trust required for effective self-management in the network.
 * [WildSeed Society](https://www.wildseedsociety.com): is a BIPOC-led community, who use microsolidarity (and many other practices) to cultivate a spiritual, political, and economic community moving towards collective liberation.
 * [Intentional Society](https://www.intentionalsociety.org) is a community for people who want to grow. They draw from sources like Robert Kegan’s adult development theory & Ken Wilber’s Integral, and practices like Circling & Authentic Relating. (See their excellent [website](https://www.intentionalsociety.org) for more info about all these peculiar terms.)
+
+## The state of the network in 2022
+
+Microsolidarity was initiated by me, Richard D. Bartlett, when I published [the original proposal](../articles/proposal.md) in 2018, announcing my intentions to start a small mutual aid community for people to do a kind of personal development, in good company, for social benefit. The plan struck a chord with a surprisingly large audience, so in 2020 [I shifted focus](../articles/2-update-2020.md), to not just build one community but to support many communities to form.
+
+Over 2020 & 2021 my partner Nati Lombardo and I trained more than 200 people in the fundamentals of microsolidarity. I’ve also been working with about 15 community founders, accompanying them through the struggles and joys of establishing their own communities. The network has been developing mostly underground; I meet with community founders one at a time and occasionally publish [interviews on YouTube](https://www.youtube.com/playlist?list=PLhAtJq9uAnRHYyUKI4sX03FHLpCkclFDA). My intention for 2022 is to open up this network to be more public, so more people can come in and learn together and support each other directly without me being a bottleneck. To that end, I’ve published this new series of essays.
 
 ## What we have in common
 
