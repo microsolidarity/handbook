@@ -1,12 +1,8 @@
 # From Domination to Partnership
 
-In this article I describe how I think about power in groups, about the risk of authoritarianism and the promise of liberation. This is just a short primer. For a deeper dive into this way of thinking, see [_The Chalice & The Blade_](https://www.goodreads.com/book/show/470367.The\_Chalice\_and\_the\_Blade) by Riane Eisler, and [_The Dawn of Everything_](https://www.goodreads.com/book/show/56269264-the-dawn-of-everything) by David Graeber & David Wengrow, [_Emergent Strategy_](https://www.goodreads.com/book/show/29633913-emergent-strategy) by Adrienne Maree Brown, and [_The Authoritarians_](https://theauthoritarians.org) by Bob Altemeyer.
-
-### How do we work together if nobody is in charge?
-
 I’ve spent the last decade working in groups who organise without a traditional command-and-control hierarchy. My journey started with the Occupy Movement in 2011 and has taken me into many different groups since then: open source software projects, cooperative companies, social movements, DAOs, networks and associations. I’ve worked with everyone from anarchist collectives to the United Nations. All of these groups are striving for a way of working that decentralises power, authority & decision-making.
 
-A few of these groups have been beautiful, most of them struggle, and many of them fail. A more pessimistic person might conclude that we are fundamentally incapable of working together without a central authority, but I’ve seen enough evidence to know that’s not true. It’s not that people are _incapable_ of collaboration, it’s just that most of us lack tools, skills and role models. We’ve been trained and conditioned to relate to each other in hierarchies of domination, so becoming the kind of people that can thrive in egalitarian networks is "easier said than done".
+Some of these groups have been exquisite, most of them struggle, and many of them fail. A more pessimistic person might conclude that we are fundamentally incapable of working together without a central authority, but I’ve seen enough evidence to know that’s not true. It’s not that people are _incapable_ of collaboration, it’s just that most of us lack tools, skills and role models. We’ve been trained and conditioned to relate to each other in hierarchies of domination, so becoming the kind of people that can thrive in egalitarian networks is "easier said than done".
 
 Because of the over-use of hierarchies in contemporary society, many of us lack the techniques, behaviours, role models, ideas, tools, experiences, beliefs and values required to thrive in egalitarian groups. Many of us don’t really enjoy being in groups, because most of the groups we’ve been in are dysfunctional, with weird power dynamics, unwritten rules, slow decision-making, and unresolved conflict.
 
@@ -62,6 +58,10 @@ This fractal, radical, constructive framing of power dynamics creates a mission 
 We know a lot about hierarchy & domination; but the partnership end of the spectrum has not had so much attention. We’re thoroughly trained for domination: most of us have spent more than 15,000 hours in schools organised around the dominator principle. If you grew up in a WEIRD (Western Educated Industrialised Rich Democratic) country you’re steeped in the lineage of thousands of years of domination-based society.
 
 If we want to live in a world that has less domination at the large scale, it makes sense to me to start making headway at the small scale. This is one of the key objectives for microsolidarity: to help us grow out of domination and into partnership habits. We’re only focused on the small scale, up to 150 people. Even at the micro-scale, there’s a lot of work to do! I notice how I habitually dominate the parts of myself I’ve classified as shameful. Just practicing with one other person, or with 5 people, or with 50, at that small intimate scale I can pay attention to when am I being more like a partner, and when am I being more like a dictator. I can get curious, increase my awareness, and develop the fluency to move towards partnership.
+
+{% hint style="info" %}
+This essay is just a brief intro to a complex topic . For a deeper dive into this way of thinking, see [_The Chalice & The Blade_](https://www.goodreads.com/book/show/470367.The\_Chalice\_and\_the\_Blade) by Riane Eisler, and [_The Dawn of Everything_](https://www.goodreads.com/book/show/56269264-the-dawn-of-everything) by David Graeber & David Wengrow, [_Emergent Strategy_](https://www.goodreads.com/book/show/29633913-emergent-strategy) by Adrienne Maree Brown, and [_The Authoritarians_](https://theauthoritarians.org) by Bob Altemeyer.
+{% endhint %}
 
 ### Microsolidarity is an R\&D project
 
