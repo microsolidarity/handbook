@@ -12,7 +12,7 @@ The second objective is to support people into **meaningful work.** This is very
 
 ### Learn more
 
-This website is a resource hub for microsolidarity practitioners. For a thorough understanding of the project, read through the Essays in sequence. If you prefer not to read, you can watch a short intro video here in [this interview on Rebel Wisdom](https://www.youtube.com/watch?v=yWyZmmJCrSA\&feature=youtu.be\&t=869), or a longer interview with Rich on the Reach Truth Podcast ([audio](https://anchor.fm/tasshin-fogleman/episodes/Community-and-Uncertainty-with-Richard-Bartlett-e1afveu) / [video](https://www.youtube.com/watch?v=64ebRxcLce4\&feature=youtu.be)).
+This website is a resource hub for microsolidarity practitioners. For a thorough understanding of the project, read through the Essays in sequence:
 
 * [Background & Introduction](essays/background-and-introduction.md)
 * [Five Scales of Microsolidarity](essays/five-scales-of-microsolidarity.md)
@@ -21,6 +21,12 @@ This website is a resource hub for microsolidarity practitioners. For a thorough
 * [From Domination to Partnership](essays/from-domination-to-partnership.md)
 
 One you've read a few of the essays, you might be ready to get started. Find out how in the [Practices section](practices/) of this site. If you're inspired, find out [how you can participate](participate/), or make a [financial contribution](participate/contributing-money.md).
+
+{% hint style="info" %}
+If you prefer not to read, you can watch a short intro video here in [this interview on Rebel Wisdom](https://www.youtube.com/watch?v=yWyZmmJCrSA\&feature=youtu.be\&t=869), or a longer interview with Rich on the Reach Truth Podcast ([audio](https://anchor.fm/tasshin-fogleman/episodes/Community-and-Uncertainty-with-Richard-Bartlett-e1afveu) / [video](https://www.youtube.com/watch?v=64ebRxcLce4\&feature=youtu.be)).
+{% endhint %}
+
+
 
 ### Updates
 
