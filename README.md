@@ -1,6 +1,6 @@
 # Microsolidarity
 
-### Microsolidarity is a community-building practice, to weave social fabric, build shared infrastructure and decentralise power.
+### Microsolidarity is a practice to weave social fabric, build shared infrastructure and decentralise power.
 
 The first objective of microsolidarity is to create **structures for belonging**. We are stitching new kinship networks to shift us out of isolated individualism into a more connected way of being. Why? Because **belonging is a superpower**: we’re more courageous & creative when we "find our people".
 
