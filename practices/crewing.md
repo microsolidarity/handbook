@@ -23,7 +23,8 @@ description: Methods for people to support each other in small groups
 * [Working Out Loud support circles](https://workingoutloud.com/en/circle-guides)
 * [Future Conversations](https://futurescanning.org/future-conversations-programmes/) - a series of 6-8 guided conversations designed to build community resilience.
 * [Green Hollow: A team story-telling game](https://amble.studio/green-hollow-game/) that takes you back to an ancient village to spark insights about modern teamwork.
-* If you have more to add to this list, please [contribute](../articles/contributing.md) :)
+* [Asynchronous meetings](https://twitter.com/StefanMorales/status/1491535898957139971): group chat with audio messages
+* If you have more to add to this list, please [join the Discord](../participate/join-us-on-discord.md) and share :)
 
 ## Economics
 

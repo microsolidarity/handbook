@@ -28,9 +28,7 @@ If you prefer not to read, you can watch a short intro video here in [this inter
 
 
 
-### Updates
 
-Join [Rich's newsletter](http://richdecibels.substack.com) for occasional updates on this project. You can subscribe to [this YouTube channel](https://www.youtube.com/channel/UC6hicteAM1PrzfeWN5VT5dg/) or [podcast feed](https://anchor.fm/microsolidarity) to be notified when we release new conversations with microsolidarity practitioners. And be sure to [join the Discord](https://discord.gg/Kp2xVuSFAX) group if you want to connect with other practitioners.
 
 ### Upcoming Events
 
@@ -38,13 +36,15 @@ In 2022 we have the first in-person gatherings for the microsolidarity network! 
 
 👉  [Details & registration here](https://www.thehum.org/microsolidarity-gatherings).
 
+###
 
+### Updates
+
+Join [Rich's newsletter](http://richdecibels.substack.com) for occasional updates on this project. You can subscribe to [this YouTube channel](https://www.youtube.com/channel/UC6hicteAM1PrzfeWN5VT5dg/) or [podcast feed](https://anchor.fm/microsolidarity) to be notified when we release new conversations with microsolidarity practitioners. And be sure to [join the Discord](https://discord.gg/Kp2xVuSFAX) group if you want to connect with other practitioners.
 
 
 
 ## About this site
-
-This site has recently had a major overhaul, with a lot of new content. Feedback is welcome! You can comment on the google doc version, tweet at [@richdecibels](http://twitter.com/richdecibels), or join in the conversation [on Discord](https://discord.gg/Kp2xVuSFAX).
 
 All the content on this site is published with a [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license. So please use it however you like without asking permission: just give credit, and use the same license for derivative works. Unless stated otherwise, assume the author is Richard D. Bartlett.
 

@@ -11,7 +11,9 @@ If you’re on your own and you want to get started, you can check if any of the
 * Use the [Case Clinic method](https://www.presencing.org/files/tools/PI\_Tool\_CaseClinic.pdf) to support each member to get the group’s perspective on a challenge they are facing.
 * Wrap up the experiment with a retrospective meeting where everyone can review your time together, discuss what you liked, what could be improved, and decide if you want to keep meeting together.
 
-\[Coming soon: [Jarred Filmer’s post](https://drive.google.com/file/d/1ARn9wMkSeqzybVHmi0Abzv\_EtL763iAP/view) about starting his first crews.]
+{% hint style="info" %}
+See for example [this report from Jarred Filmer's experience starting crews](https://www.lesswrong.com/posts/qxJhtjBsKocrXdWmk/experiments-with-microsolidarity-crews) in the rationalist & Effective Altruist communities.
+{% endhint %}
 
 People usually enjoy the experience in a proto-crew (if they can overcome the friction of scheduling a regular time to meet). After the first sequence of meetings though, it’s common to decide to split. That’s normal, people have many competing commitments and packed schedules.
 

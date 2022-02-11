@@ -25,7 +25,6 @@
   * [Discussing](articles/discussing/README.md)
     * [Enspiral Summer Retreat 2019](articles/discussing/enspiral-summer-retreat-2019.md)
     * [Research Questions](articles/discussing/research-questions.md)
-  * [Contributing](articles/contributing.md)
   * [Todo](articles/todo.md)
   * [Unsorted](articles/unsorted.md)
   * [Ako group guidelines](articles/ako-group-guidelines.md)
