@@ -14,13 +14,19 @@ The second objective is to support people into **meaningful work.** This is very
 
 This website is a resource hub for microsolidarity practitioners. For a thorough understanding of the project, read through the Essays in sequence:
 
-* [Background & Introduction](essays/background-and-introduction.md)
-* [Five Scales of Microsolidarity](essays/five-scales-of-microsolidarity.md)
-* [Leadership as Hospitality](essays/leadership-as-hospitality.md)
-* [A Developmental Pathway](essays/a-developmental-pathway.md)
-* [From Domination to Partnership](essays/from-domination-to-partnership.md)
+1. [Background & Introduction](essays/background-and-introduction.md)\
+   What is microsolidarity? Who is using it? Why?
+2. [Five Scales of Microsolidarity](essays/five-scales-of-microsolidarity.md)\
+   The only theory you need to grasp: groups of different sizes are good for different things.
+3. [Leadership as Hospitality](essays/leadership-as-hospitality.md)\
+   A distinctive way of thinking about power, authority & hierarchy.
+4. [A Developmental Pathway](essays/a-developmental-pathway.md)\
+   How to cultivate the capacities of a mature practitioner.
+5. [From Domination to Partnership](essays/from-domination-to-partnership.md)\
+   A fractal, radical, constructive approach to transforming power dynamics in groups of any size.\
 
-One you've read a few of the essays, you might be ready to get started. Find out how in the [Practices section](practices/) of this site. If you're inspired, find out [how you can participate](participate/), or make a [financial contribution](participate/contributing-money.md).
+
+One you've read a few of the essays, you might be ready learn [how you can get started](practices/how-you-can-get-started.md). If you're inspired, find out [how you can participate](participate/), or make a [financial contribution](participate/contributing-money.md).
 
 {% hint style="info" %}
 If you prefer not to read, you can watch a short intro video here in [this interview on Rebel Wisdom](https://www.youtube.com/watch?v=yWyZmmJCrSA\&feature=youtu.be\&t=869), or a longer interview with Rich on the Reach Truth Podcast ([audio](https://anchor.fm/tasshin-fogleman/episodes/Community-and-Uncertainty-with-Richard-Bartlett-e1afveu) / [video](https://www.youtube.com/watch?v=64ebRxcLce4\&feature=youtu.be)).
