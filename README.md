@@ -12,7 +12,7 @@ The second objective is to support people into **meaningful work.** This is very
 
 ### Learn more
 
-This website is a resource hub for microsolidarity practitioners. For a thorough understanding of the project, read through the Essays in sequence:
+This website is a resource hub for microsolidarity practitioners. For a thorough understanding of the project, read through the Essays, here online, or download a [pdf](https://github.com/microsolidarity/handbook/raw/master/print%20export/Microsolidarity.pdf) or [ebook](print%20export/Microsolidarity.epub).
 
 1. [Background & Introduction](essays/background-and-introduction.md)\
    What is microsolidarity? Who is using it? Why?
