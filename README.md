@@ -14,16 +14,11 @@ The second objective is to support people into **meaningful work.** This is very
 
 This website is a resource hub for microsolidarity practitioners. For a thorough understanding of the project, read through the Essays, here online, or download a [pdf](https://github.com/microsolidarity/handbook/raw/master/print%20export/Microsolidarity.pdf) or [ebook](https://github.com/microsolidarity/handbook/raw/master/print%20export/Microsolidarity.epub).
 
-1. [Background & Introduction](essays/background-and-introduction.md)\
-   What is microsolidarity? Who is using it? Why?
-2. [Five Scales of Microsolidarity](essays/five-scales-of-microsolidarity.md)\
-   The only theory you need to grasp: groups of different sizes are good for different things.
-3. [Leadership as Hospitality](essays/leadership-as-hospitality.md)\
-   A distinctive way of thinking about power, authority & hierarchy.
-4. [A Developmental Pathway](essays/a-developmental-pathway.md)\
-   How to cultivate the capacities of a mature practitioner.
-5. [From Domination to Partnership](essays/from-domination-to-partnership.md)\
-   A fractal, radical, constructive approach to transforming power dynamics in groups of any size.\
+1. ****[**Background**](essays/background-and-introduction.md) – introducing Microsolidarity as a practice for cultivating communities of belonging & purpose.
+2. ****[**Five Scales of Microsolidarity**](essays/five-scales-of-microsolidarity.md) **** – the only theory you need to grasp: groups of different sizes are good for different things.
+3. ****[**Leadership as Hospitality**](essays/leadership-as-hospitality.md) **** – a distinctive way of thinking about power, authority & hierarchy.
+4. ****[**A Developmental Pathway**](essays/a-developmental-pathway.md)  ****  – one way to become a mature Microsolidarity practitioner: develop your skills at the small scale and gradually increase to larger groups.
+5. ****[**From Domination to Partnership**](essays/from-domination-to-partnership.md) **** – a fractal, radical, constructive approach to transforming power dynamics in groups of any size.\
 
 
 One you've read a few of the essays, you might be ready learn [how you can get started](practices/how-you-can-get-started.md). If you're inspired, find out [how you can participate](participate/), or make a [financial contribution](participate/contributing-money.md).
