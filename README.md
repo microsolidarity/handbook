@@ -23,17 +23,19 @@ This website is a resource hub for microsolidarity practitioners. For a thorough
 
 One you've read a few of the essays, you might be ready learn [how you can get started](practices/how-you-can-get-started.md). If you're inspired, find out [how you can participate](participate/), or make a [financial contribution](participate/contributing-money.md).
 
-{% hint style="info" %}
-If you prefer not to read, you can watch a short intro video here in [this interview on Rebel Wisdom](https://www.youtube.com/watch?v=yWyZmmJCrSA\&feature=youtu.be\&t=869), or a longer interview with Rich on the Reach Truth Podcast ([audio](https://anchor.fm/tasshin-fogleman/episodes/Community-and-Uncertainty-with-Richard-Bartlett-e1afveu) / [video](https://www.youtube.com/watch?v=64ebRxcLce4\&feature=youtu.be)).
-{% endhint %}
 
 
+### 10-min intro video
+
+{% embed url="https://www.youtube.com/watch?v=NfXfLa6dU6A" %}
 
 
 
 ### Upcoming Events
 
-In 2022 we have the first in-person gatherings for the microsolidarity network! We’ve confirmed Belgium for May 9-14th, and will probably also be in the northeast USA in November.
+In 2022 we have the first in-person gatherings for the microsolidarity network!&#x20;
+
+We had the first gathering in Belgium in May, here's what we learned ([video](https://www.youtube.com/watch?v=u-mgfPm6hsg) | [audio](https://anchor.fm/Microsolidarity/episodes/What-We-Learned-From-the-1st-Gathering-of-Microsolidarity-Practitioners-e1jnnmi)). We'll have the second gathering in the USA, probably in Denver in late October or early November.
 
 👉  [Details & registration here](https://www.thehum.org/microsolidarity-gatherings).
 
@@ -41,7 +43,7 @@ In 2022 we have the first in-person gatherings for the microsolidarity network! 
 
 ### Updates
 
-Join [Rich's newsletter](http://richdecibels.substack.com) for occasional updates on this project. You can subscribe to [this YouTube channel](https://www.youtube.com/channel/UC6hicteAM1PrzfeWN5VT5dg/) or [podcast feed](https://anchor.fm/microsolidarity) to be notified when we release new conversations with microsolidarity practitioners. And be sure to [join the Discord](https://discord.gg/Kp2xVuSFAX) group if you want to connect with other practitioners.
+You can subscribe to [this YouTube channel](https://www.youtube.com/channel/UC6hicteAM1PrzfeWN5VT5dg/) or [podcast feed](https://anchor.fm/microsolidarity) to be notified when we release new conversations with microsolidarity practitioners. Be sure to [join the Discord](https://discord.gg/Kp2xVuSFAX) group if you want to connect with other practitioners. And join [Rich's newsletter](http://richdecibels.substack.com/) for occasional updates on this project.&#x20;
 
 
 
