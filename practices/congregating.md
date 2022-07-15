@@ -23,7 +23,7 @@ Unofficial list of congregations and proto-congregations that match some of the 
 * [Cultural Catalyst Network](http://culturalcatalystnetwork.org) - occasionally open for new members
 * [Pico Island Congregation](https://pico.microsolidarity.cc)
 * [Intentional Society](https://www.intentionalsociety.org) - open for new members (online)
-* [Starter Cultures](https://www.startercultures.us)
+* [Starter Cultures](https://www.startercultures.us/)
 * [Rocky Mountain Mutual Aid Network](https://rmman.org)
 * [A New Republic of the Heart](https://newrepublicoftheheart.org/community/) - open for new members (online)
 * [Blivande / Edgeryders](https://edgeryders.eu/t/a-template-for-microsolidarity/9277) - open for new members (in Stockholm)

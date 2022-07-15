@@ -17,7 +17,7 @@ Microsolidarity practitioners take inspiration from many sources, we’re "stand
 **Bodies of Practice**
 
 * **Sociocracy**, e.g. see [_Many Voices One Song: Shared Power with Sociocracy_](https://www.sociocracyforall.org/many-voices-one-song/) by Jerry Koch-Gonzalez & Ted J. Rau, or listen to this interview with Ted on the podcast [Sowing the Seeds of Change](https://anchor.fm/roz-savage/episodes/Ted-Rau---Sociocracy-for-All-e1a718s)
-* ****[**Art of Hosting**](https://artofhosting.org)****
+* ****[**Art of Hosting**](https://artofhosting.org/)****
 * For communication practices like Authentic Relating, Circling, Collective Presencing, see the [resources section of the Intentional Society website.](https://www.intentionalsociety.org/resources)
 * Internal Family Systems
 * Transactional Analysis

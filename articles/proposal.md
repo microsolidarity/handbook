@@ -10,7 +10,7 @@ description: >-
 
 ### Or: What To Do in the Last Decade of the Anthropocene
 
-![Anatomical heart drawing](<../.gitbook/assets/anatomical heart.png>)
+![Anatomical heart drawing](../.gitbook/assets/anatomical-heart.png)
 
 I’ve spent most of the past 2 years travelling with my partner Nati, trying to discover what is the most strategic & wise action to take in a world that seems to be accelerating towards collapse. After an enormous amount of consideration, I have a strategy that feels good enough to engage my will and commitment. This document is a statement of intention. All going well, it’s where I want to invest my productive energy for the next 7 years or so.
 
@@ -93,7 +93,7 @@ A Crew is a group that is small enough to fit around a single dinner table, arou
 
 There’s another crucial size somewhere between 30 and 200 people: small enough that most of the members can know each other’s name, big enough to support many Crews to coalesce. Coordinated impact at this scale requires some formal rules & roles, but mostly you can hold coherence just by putting a bit of extra effort into the relationships. In my experience the best way to find your Crew is to spend some time in a Congregation. Coordination gets a lot more complicated beyond this point.
 
-If you use my language for a second, you can think of Enspiral as a Congregation of Crews. We fluctuate around 200 people, all supporting each other to do more meaningful work. We have a big annual gathering, a coworking space, a participatory budget, and many experiments in developing systems for mutual aid. Loomio is one of about 10 or 20 stable Crews in the network, each one focussed on a specific purpose, like [fixing the diversity problem in the tech sector](http://devacademy.co.nz), or [providing accounting services to social enterprises](https://fairground.co.nz/about-us/), or [building an intergalactic communications network](https://protozoa.nz).
+If you use my language for a second, you can think of Enspiral as a Congregation of Crews. We fluctuate around 200 people, all supporting each other to do more meaningful work. We have a big annual gathering, a coworking space, a participatory budget, and many experiments in developing systems for mutual aid. Loomio is one of about 10 or 20 stable Crews in the network, each one focussed on a specific purpose, like [fixing the diversity problem in the tech sector](http://devacademy.co.nz), or [providing accounting services to social enterprises](https://fairground.co.nz/about-us/), or [building an intergalactic communications network](https://protozoa.nz/).
 
 The Crews and Congregation are in reciprocal co-development. I can absolutely say Loomio wouldn’t exist without Enspiral, _and_ Loomio’s success has made major contributions to the development of other Crews. So my proposal is to work at both of these scales simultaneously.
 
@@ -196,7 +196,7 @@ On to Part 4. An Unorthodox Recipe For Social Change…
 
 ## Microsolidarity Part 4. An Unorthodox Recipe For Social Change
 
-![Burning of a Heretic by Sassetta](../.gitbook/assets/Burning-of-a-heretic--\_Sassetta--Melburn\_museum.jpg)
+![Burning of a Heretic by Sassetta](../.gitbook/assets/burning-of-a-heretic-\_sassetta-melburn\_museum.jpg)
 
 There are many components of the microsolidarity proposal that are out of step with the prevailing currents of progressive and radical thought. I’ll name five of those attributes here. I intend to acknowledge the risk of travelling _off piste_, and start the process of building accountability. This is a very exposing piece of writing, so please assume positive intent and check in with me if something triggers you.
 
@@ -230,7 +230,7 @@ A lot of political strategy aims to change people’s behaviour because it is th
 
 I’m more interested in strategies that can outcompete the “bad” option. I’m a feminist not because it’s the “good” thing to do, but because my quality of life improves as my relationships come out of patriarchal patterns. I absolutely believe we’ll all be better off without patriarchy, it’s not a tradeoff between winners and losers.
 
-So I propose to outcompete individualistic consumerism with microsolidarity. I mean, how hard can it be to do a better job of meeting people’s psychological and material needs than this shitty 21st century gig economy? How many people have I met in the past few years who lack meaning and stability in their work, or who lack a sense of belonging? That’s our opportunity! Belonging is not a binary, like “yes” you’re connected or “no” you’re isolated. Belonging is a fractal: I have distinct needs for connection at each scale, from my Self, to my Partnerships, up to my Crew, Congregation and beyond. So do like the [Emotional Anarchists](http://emotionalanarchism.com) do, and find freedom in the interpersonal.
+So I propose to outcompete individualistic consumerism with microsolidarity. I mean, how hard can it be to do a better job of meeting people’s psychological and material needs than this shitty 21st century gig economy? How many people have I met in the past few years who lack meaning and stability in their work, or who lack a sense of belonging? That’s our opportunity! Belonging is not a binary, like “yes” you’re connected or “no” you’re isolated. Belonging is a fractal: I have distinct needs for connection at each scale, from my Self, to my Partnerships, up to my Crew, Congregation and beyond. So do like the [Emotional Anarchists](http://emotionalanarchism.com/) do, and find freedom in the interpersonal.
 
 ### 4. Decentralised governance with not a blockchain in sight.
 
