@@ -8,7 +8,7 @@ To become a member, [contribute at least €3/month to our Open Collective](http
 
 ### Gatherings
 
-We hosted a week-long gathering **in Belgium, May 9-14th;** here's what we learned ([video](https://www.youtube.com/watch?v=u-mgfPm6hsg) | [audio](https://anchor.fm/Microsolidarity/episodes/What-We-Learned-From-the-1st-Gathering-of-Microsolidarity-Practitioners-e1jnnmi)).
+We had the first gathering in Belgium in May, here's what we learned ([video](https://www.youtube.com/watch?v=u-mgfPm6hsg) | [audio](https://anchor.fm/Microsolidarity/episodes/What-We-Learned-From-the-1st-Gathering-of-Microsolidarity-Practitioners-e1jnnmi)). We'll have the second gathering in the USA, probably in Denver in late October or November.
 
-The next gathering will be in Denver, Oct 26-29. [More details and registrations here.](https://www.thehum.org/microsolidarity-gatherings) ****&#x20;
+👉  [Details & registration here](https://www.thehum.org/microsolidarity-gatherings).
 
