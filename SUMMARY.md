@@ -15,7 +15,7 @@
 * [Participate](participate/README.md)
   * [Network Map](participate/network-map.md)
   * [Join us on Discord](participate/join-us-on-discord.md)
-  * [Events](participate/gatherings-in-2022.md)
+  * [Events](participate/events.md)
   * [Contributing Money](participate/contributing-money.md)
   * [Community Bookshelf](participate/community-bookshelf.md)
   * [Volunteers wanted](participate/volunteers-wanted.md)

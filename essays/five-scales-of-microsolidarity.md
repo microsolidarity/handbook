@@ -132,7 +132,7 @@ _Note: for now, a congregation is broadly defined as 15-150 people. It’s likel
 
 The Microsolidarity Network is a new addition in 2022. It’s the space for congregation hosts to get together, to learn & support each other through the ups and downs of community life.
 
-If you want to join, you’re welcome: there’s [an online space to chat](../participate/join-us-on-discord.md) with other practitioners, and we’re [hosting gatherings in Europe and the USA in 2022](http://thehum.org/microsolidarity-gatherings).
+If you want to join, you’re welcome: there’s [an online space to chat](../participate/join-us-on-discord.md) with other practitioners, and we’re [hosting gatherings in Europe and the USA in 2022](http://thehum.org/microsolidarity-gatherings). You'll find an [overview of the network here](../participate/network-map.md).
 
 Notice it’s "the network" not “a network”: there is currently no generic term for a collection of congregations. Maybe in future we’ll see congregations coming together to form their own “federations” or “assemblies”.
 
