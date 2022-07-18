@@ -23,12 +23,6 @@ This website is a resource hub for microsolidarity practitioners. For a thorough
 
 One you've read a few of the essays, you might be ready learn [how you can get started](practices/how-you-can-get-started.md). If you're inspired, find out [how you can participate](participate/), or make a [financial contribution](participate/contributing-money.md).
 
-### Network Overview
-
-[Explore the network map](https://www.figma.com/file/LjL10J1l2rzii0hsJWj6uU/Microsolidarity-Dreams-%26-Realities?node-id=306%3A127) for a better understanding of how you can participate.
-
-{% embed url="https://www.figma.com/file/LjL10J1l2rzii0hsJWj6uU/Microsolidarity-Dreams-%26-Realities?node-id=0:1" %}
-
 
 
 ### 10-min intro video

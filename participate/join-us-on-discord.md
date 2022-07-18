@@ -4,7 +4,7 @@
 
 You are welcome to join us on Discord to chat with other practitioners: [invite link](https://discord.gg/Kp2xVuSFAX).
 
-The Microsolidarity Network is open to anyone interested in microsolidarity, but the primary audience is for people who are hosting a congregation. This is a space for congregation hosts to meet and share lessons, get advice, exchange resources, and encourage each other. We have a strong bias to action: we mostly want to hear from people who are _doing_ microsolidarity, not so much from people who just want to talk about it.
+The Microsolidarity Network is open to anyone interested in microsolidarity, but we mostly want to hear from people who are _doing_ microsolidarity, not so much from people who just want to talk about it.
 
 Some guidelines to keep in mind:
 
