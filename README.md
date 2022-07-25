@@ -35,7 +35,7 @@ One you've read a few of the essays, you might be ready learn [how you can get s
 
 In 2022 we have the first in-person gatherings for the microsolidarity network!&#x20;
 
-We had the first gathering in Belgium in May, here's what we learned ([video](https://www.youtube.com/watch?v=u-mgfPm6hsg) | [audio](https://anchor.fm/Microsolidarity/episodes/What-We-Learned-From-the-1st-Gathering-of-Microsolidarity-Practitioners-e1jnnmi)). We'll have the second gathering in the USA, probably in Denver in late October or early November.
+We had the first gathering in Belgium in May, here's what we learned ([video](https://www.youtube.com/watch?v=u-mgfPm6hsg) | [audio](https://anchor.fm/Microsolidarity/episodes/What-We-Learned-From-the-1st-Gathering-of-Microsolidarity-Practitioners-e1jnnmi)). The second gathering is confirmed: Oct 26-29th at an incredible retreat center outside Denver, Colorado.
 
 👉  [Details & registration here](https://www.thehum.org/microsolidarity-gatherings).
 
