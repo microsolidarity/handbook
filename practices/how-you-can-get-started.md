@@ -8,7 +8,7 @@ If you’re on your own and you want to get started, you can check if any of the
 
 * Think of 3 or 4 people you know that might be interested in getting to know each other at a slightly deeper level.
 * Invite them to a **time-bounded experiment**: a sequence of peer-coaching meetings. Each meeting will focus on one group member.
-* Use the [Case Clinic method](https://www.presencing.org/files/tools/PI\_Tool\_CaseClinic.pdf) to support each member to get the group’s perspective on a challenge they are facing.
+* Use the [Case Clinic method](https://www.u-school.org/tools/case-clinic) to support each member to get the group’s perspective on a challenge they are facing.
 * Wrap up the experiment with a retrospective meeting where everyone can review your time together, discuss what you liked, what could be improved, and decide if you want to keep meeting together.
 
 {% hint style="info" %}
