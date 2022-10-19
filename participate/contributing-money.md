@@ -12,8 +12,8 @@ Initially, Richard Bartlett & Nati Lombardo used their private company [The Hum]
 
 Since October 2022, we've set up 2 accounts on Open Collective, an awesome legal & financial toolbox, perfectly suited for microsolidarity groups. If you want to contribute money to the network, there are two places you can donate:
 
-1. [Microsolidarity](https://opencollective.com/microsolidarity), sponsored by Open Collective Europe. These donations are transacted in Euros and are hosted by a non-profit organization based in Belgium.&#x20;
-2. [Microsolidarity Turtle Island](https://opencollective.com/microsolidarity-turtle-island), sponsored by Open Collective Foundation. These donations are transacted in US Dollars and are hosted by a non-profit organization based in the United States. They are tax-deductible under the US IRS 501(c)3 tax code.
+1. [Microsolidarity](https://opencollective.com/microsolidarity), sponsored by [Open Collective Europe](https://opencollective.com/europe). These donations are transacted in Euros and are hosted by a non-profit organization based in Belgium.&#x20;
+2. [Microsolidarity Turtle Island](https://opencollective.com/microsolidarity-turtle-island), sponsored by [Open Collective Foundation](https://opencollective.com/foundation). These donations are transacted in US Dollars and are hosted by a non-profit organization based in the United States. They are tax-deductible under the US IRS 501(c)3 tax code.
 
 Supporting us on Open Collective with at least €3 or $3 per month will give you access to the monthly members-only calls where you can meet other practitioners.
 
