@@ -1,3 +1,9 @@
+---
+description: >-
+  raising money to support the Microsolidarity commons & deciding together how
+  we spend it
+---
+
 # Contributing Money
 
 Ideally the Microsolidarity Network will grow into a self-sustaining commons, governed by its participants, not for private profit nor under private control.
