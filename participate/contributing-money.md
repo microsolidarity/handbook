@@ -1,15 +1,15 @@
 # Contributing Money
 
-The intention is for Microsolidarity to grow into a self-sustaining commons, governed by its participants, not for private profit nor under private control.
+The intention is for the Microsolidarity Network to grow into a self-sustaining commons, governed by its participants, not for private profit nor under private control.
 
 Initially, Richard Bartlett & Nati Lombardo used their private company [The Hum](http://thehum.org) as the legal & financial vehicle for running paid Microsolidarity events. As the network has matured, we've decided to create a clearer separation between Microsolidarity & The Hum.&#x20;
 
 Since October 2022, we've set up 2 pages on Open Collective, an awesome legal & financial toolbox for grassroots groups. If you want to contribute money, there are two places you can donate:
 
-1. [ Microsolidarity](https://opencollective.com/microsolidarity), sponsored by Open Collective Europe. These donations are transacted in Euros and are hosted by a non-profit organization based in Belgium.&#x20;
+1. [Microsolidarity](https://opencollective.com/microsolidarity), sponsored by Open Collective Europe. These donations are transacted in Euros and are hosted by a non-profit organization based in Belgium.&#x20;
 2. [Microsolidarity Turtle Island](https://opencollective.com/microsolidarity-turtle-island), sponsored by Open Collective Foundation. These donations are transacted in US Dollars and are hosted by a non-profit organization based in the United States. They are tax-deductible under the US IRS 501(c)3 tax code.
 
-Supporting us on Open Collective will give you access to the monthly members-only calls where you can meet other practitioners.
+Supporting us on Open Collective with at least €3 or $3 per month will give you access to the monthly members-only calls where you can meet other practitioners.
 
 ### Fundraising Goals
 
