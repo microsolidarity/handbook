@@ -21,9 +21,24 @@ Our intention to grow a common fund that can be used for anything that supports 
 * to pay for a "community coach" who can support a cohort of many microsolidarity community hosts
 * to buy a retreat centre where communities can go for trainings & retreats.
 
+### Decision-Making
+
+The network is currently governed informally, with Richard Bartlett playing the role of "[benevolent dictator](https://communityrule.info/create/?r=1619810752488)". As we start to collect common resources, it seems natural that decision-making power should be shared with more people. Here's a proposed approach to get us started in that direction:
+
+* all future paid events will be run through Open Collective
+* all paid events that generate a surplus should contribute a percentage to the common fund
+* anyone who has contributed money to the network is entitled to have a say about how the common fund is governed _(if you have contributed money, you should have access to the private #contributors channel on Discord - reach out to one of the admins if this is not the case)_
+* "having a say" means you can make proposals for how we spend the collective money, and share your advice on other people's proposals
+* final decisions are made by the administrators of the two Open Collective pages&#x20;
+  * in Europe: Ulrich Schur, Michal Korzonek, Richard Bartlett
+  * in the US: Alex Rodríguez, Drew Horbein, Richard Bartlett
+* anyone can become an OC admin, by the approval of the existing admins
+* for the time being, Richard Bartlett holds veto power, as a backstop in case of emergencies (e.g. irreconcilable conflict)
+* we'll review this once or twice a year to ensure the system evolves to match the needs of the network
+
 ### Historical Financial Data
 
-We've run numerous paid events through [The Hum](http://thehum.org). For transparency, the financial performance of these events is shared below:
+We've run six paid events through [The Hum](http://thehum.org). For transparency, the financial performance of these events is shared below:
 
 #### **Online Courses**
 
@@ -36,19 +51,9 @@ We've run numerous paid events through [The Hum](http://thehum.org). For transpa
 
 #### Residential Gatherings
 
-| Event             | Donations | Ticket Income | Venue & Catering | Staff Transport & Accom | Fees & Taxes | Surplus |
-| ----------------- | --------- | ------------- | ---------------- | ----------------------- | ------------ | ------- |
-| Belgium, May 2022 |           | €27,130       | €19,044          | €1,607                  | €948         | €5,531  |
-| Denver, Oct 2022  | $5,000    | $20,710       | $16,288          | $3,373                  | $1,271       | $4,778  |
-
-### Decision-Making
-
-_WIP_
-
-* all financial contributors are welcome to discuss financial proposals, propose expenses etc
-* final decisions are made by the OC admins
-* anyone can become an OC admin, by the approval of the existing admins
-* I'll hold veto power for the time being (backstop in case of emergencies)
-* we'll review this once or twice a year to ensure the system evolves to match the needs of the network
+| Event                 | Donations | Ticket Income | Venue & Catering | Staff Transit & Accom | Fees & Taxes | Surplus |
+| --------------------- | --------- | ------------- | ---------------- | --------------------- | ------------ | ------- |
+| **Belgium, May 2022** |           | €27,130       | €19,044          | €1,607                | €948         | €5,531  |
+| **Denver, Oct 2022**  | $5,000    | $20,710       | $16,288          | $3,373                | $1,271       | $4,778  |
 
 p.s. If you’re interested in contributing with cryptocurrency, or you want to make a more substantial contribution, or you have fundraising ideas (e.g. grants to apply for) please get in touch!
