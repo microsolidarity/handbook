@@ -1,13 +1,54 @@
 # Contributing Money
 
-You can support the Microsolidarity Network by contributing on [Open Collective](https://opencollective.com/microsolidarity/).
+The intention is for Microsolidarity to grow into a self-sustaining commons, governed by its participants, not for private profit nor under private control.
 
-Our fundraising goals are:
+Initially, Richard Bartlett & Nati Lombardo used their private company [The Hum](http://thehum.org) as the legal & financial vehicle for running paid Microsolidarity events. As the network has matured, we've decided to create a clearer separation between Microsolidarity & The Hum.&#x20;
 
-* to pay the facilitator for organising and hosting the monthly calls;
-* to provide scholarships to make the paid events more accessible;
-* to grow a common fund that can be used for anything that supports the network (e.g. editing the podcast or writing a book).
+Since October 2022, we've set up 2 pages on Open Collective, an awesome legal & financial toolbox for grassroots groups. If you want to contribute money, there are two places you can donate:
 
-[Supporting us on Open Collective](https://opencollective.com/microsolidarity) will give you access to the monthly members-only calls where you can meet other practitioners.
+1. [ Microsolidarity](https://opencollective.com/microsolidarity), sponsored by Open Collective Europe. These donations are transacted in Euros and are hosted by a non-profit organization based in Belgium.&#x20;
+2. [Microsolidarity Turtle Island](https://opencollective.com/microsolidarity-turtle-island), sponsored by Open Collective Foundation. These donations are transacted in US Dollars and are hosted by a non-profit organization based in the United States. They are tax-deductible under the US IRS 501(c)3 tax code.
+
+Supporting us on Open Collective will give you access to the monthly members-only calls where you can meet other practitioners.
+
+### Fundraising Goals
+
+Our intention to grow a common fund that can be used for anything that supports the network. Here's some of our fundraising goals:
+
+* to pay the facilitator for organising & hosting our monthly calls
+* to provide scholarships to make paid events more accessible
+* to produce media that supports the network & educates the wider public (e.g. editing the podcast, writing a book, making a Netflix series...)
+* to pay for a "community coach" who can support a cohort of many microsolidarity community hosts
+* to buy a retreat centre where communities can go for trainings & retreats.
+
+### Historical Financial Data
+
+We've run numerous paid events through [The Hum](http://thehum.org). For transparency, the financial performance of these events is shared below:
+
+#### **Online Courses**
+
+| Date          | Income | Fees & Taxes | Surplus |
+| ------------- | ------ | ------------ | ------- |
+| **May 2020**  | €3,790 | €872         | €2,918  |
+| **July 2020** | €4,057 | €933         | €3,124  |
+| **Sept 2020** | €3,840 | €883         | €2,957  |
+| **Sept 2021** | €8,116 | €1,867       | €6,249  |
+
+#### Residential Gatherings
+
+| Event             | Donations | Ticket Income | Venue & Catering | Staff Transport & Accom | Fees & Taxes | Surplus |
+| ----------------- | --------- | ------------- | ---------------- | ----------------------- | ------------ | ------- |
+| Belgium, May 2022 |           | €27,130       | €19,044          | €1,607                  | €948         | €5,531  |
+| Denver, Oct 2022  | $5,000    | $20,710       | $16,288          | $3,373                  | $1,271       | $4,778  |
+
+### Decision-Making
+
+_WIP_
+
+* all financial contributors are welcome to discuss financial proposals, propose expenses etc
+* final decisions are made by the OC admins
+* anyone can become an OC admin, by the approval of the existing admins
+* I'll hold veto power for the time being (backstop in case of emergencies)
+* we'll review this once or twice a year to ensure the system evolves to match the needs of the network
 
 p.s. If you’re interested in contributing with cryptocurrency, or you want to make a more substantial contribution, or you have fundraising ideas (e.g. grants to apply for) please get in touch!
