@@ -43,7 +43,7 @@ We had the first gathering in Belgium in May, here's what we learned ([video](ht
 
 ### Updates
 
-You can subscribe to [this YouTube channel](https://www.youtube.com/channel/UC6hicteAM1PrzfeWN5VT5dg/) or [podcast feed](https://anchor.fm/microsolidarity) to be notified when we release new conversations with microsolidarity practitioners. Be sure to [join the Discord](https://discord.gg/Kp2xVuSFAX) group if you want to connect with other practitioners. And join [Rich's newsletter](http://richdecibels.substack.com/) for occasional updates on this project.&#x20;
+You can subscribe to [this YouTube channel](https://www.youtube.com/channel/UC6hicteAM1PrzfeWN5VT5dg/) or [podcast feed](https://anchor.fm/microsolidarity) to be notified when we release new conversations with microsolidarity practitioners. Be sure to [join the Discord](https://discord.gg/Kp2xVuSFAX) group if you want to connect with other practitioners. And join the [Microsolidarity newsletter](http://microsolidarity.substack.com) for occasional updates on this project.&#x20;
 
 
 
