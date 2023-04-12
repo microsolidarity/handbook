@@ -14,11 +14,11 @@ The second objective is to support people into **meaningful work.** This is very
 
 This website is a resource hub for microsolidarity practitioners. For a thorough understanding of the project, read through the Essays, here online, or download a [pdf](https://github.com/microsolidarity/handbook/raw/master/print%20export/Microsolidarity.pdf) or [ebook](https://github.com/microsolidarity/handbook/raw/master/print%20export/Microsolidarity.epub).
 
-1. ****[**Background**](essays/background-and-introduction.md) – introducing Microsolidarity as a practice for cultivating communities of belonging & purpose.
-2. ****[**Five Scales of Microsolidarity**](essays/five-scales-of-microsolidarity.md) **** – the only theory you need to grasp: groups of different sizes are good for different things.
-3. ****[**Leadership as Hospitality**](essays/leadership-as-hospitality.md) **** – a distinctive way of thinking about power, authority & hierarchy.
-4. ****[**A Developmental Pathway**](essays/a-developmental-pathway.md)  ****  – one way to become a mature Microsolidarity practitioner: develop your skills at the small scale and gradually increase to larger groups.
-5. ****[**From Domination to Partnership**](essays/from-domination-to-partnership.md) **** – a fractal, radical, constructive approach to transforming power dynamics in groups of any size.\
+1. [**Background**](essays/background-and-introduction.md) – introducing Microsolidarity as a practice for cultivating communities of belonging & purpose.
+2. [**Five Scales of Microsolidarity**](essays/five-scales-of-microsolidarity.md) – the only theory you need to grasp: groups of different sizes are good for different things.
+3. [**Leadership as Hospitality**](essays/leadership-as-hospitality.md) – a distinctive way of thinking about power, authority & hierarchy.
+4. [**A Developmental Pathway**](essays/a-developmental-pathway.md)  – one way to become a mature Microsolidarity practitioner: develop your skills at the small scale and gradually increase to larger groups.
+5. [**From Domination to Partnership**](essays/from-domination-to-partnership.md) – a fractal, radical, constructive approach to transforming power dynamics in groups of any size.\
 
 
 One you've read a few of the essays, you might be ready learn [how you can get started](practices/how-you-can-get-started.md). If you're inspired, find out [how you can participate](participate/), or make a [financial contribution](participate/contributing-money.md).
@@ -33,12 +33,7 @@ One you've read a few of the essays, you might be ready learn [how you can get s
 
 ### Upcoming Events
 
-In 2022 we had the first in-person gatherings for the microsolidarity network:
-
-1. We had the first gathering in Belgium in May, here's what we learned ([video](https://www.youtube.com/watch?v=u-mgfPm6hsg) | [audio](https://anchor.fm/Microsolidarity/episodes/What-We-Learned-From-the-1st-Gathering-of-Microsolidarity-Practitioners-e1jnnmi)).&#x20;
-2. The second gathering was outside Denver, Colorado. We debriefed here ([video](https://www.youtube.com/watch?v=p0y4qGz0pXQ\&t=15s) | [audio](https://podcasters.spotify.com/pod/show/Microsolidarity/episodes/Reflecting-on-our-Denver-Microsolidarity-Gathering-in-October-2022-e1t5o66/a-a951ejl))
-
-In 2023 there are unconfirmed plans for two Summer Camps, one in Europe and the other in the US around mid July. Stay tuned for more info - or ask for updates [in the Discord](https://discord.gg/Kp2xVuSFAX).
+Find out about [upcoming Microsolidarity events here.](participate/events.md)
 
 ###
 
