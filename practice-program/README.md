@@ -57,6 +57,8 @@ To make the program accessible we have a tiered ticket price from €75 to €15
 * ### [**Register for Timezone A**](https://opencollective.com/microsolidarity/events/microsolidarity-practice-program-a-c8f1132e)
 * ### [**Register for Timezone B**](https://opencollective.com/microsolidarity/events/microsolidarity-practice-program-timezone-b-2be8ca1e)
 
+If you're a returning student from previous Practice Programs, you're welcome to join us for free. Just ask in the [#practice-program](https://discord.gg/u9dfEkcpmY) channel on Discord and we'll add you to the list.
+
 
 
 ### **Your Hosts**
@@ -68,4 +70,10 @@ This program was originally developed by Nati Lombardo & Rich Bartlett. They hos
 ### **Financial Transparency**
 
 Finances for this program are run through our common fund on Open Collective (rather than Nati & Rich's private company The Hum which has been used for prior events). Income from ticket sales will be used to pay the hosting team, and we'll share 10% of the income with the [Microsolidarity common fund](../participate/contributing-money.md).
+
+
+
+### Other Questions?
+
+Please ask in the [#practice-program](https://discord.gg/u9dfEkcpmY) channel on Discord and we'll try to help :)
 
