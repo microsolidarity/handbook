@@ -1,8 +1,16 @@
 # Events
 
-### Microsolidarity Summer Camp
+### Microsolidarity Practice Program (online, June)
+
+In the first 2 weeks of June we're running a short cohort-based course to practice Microsolidarity and connect with other community builders. Registration is essential. [Find out more here.](../practice-program/)
+
+
+
+### Microsolidarity Summer Camp (July)
 
 In 2023 there will be two big gatherings for the Microsolidarity Network: **July 15-21 in USA**, and **July 17-23 in Europe**. [Register your interest here](https://microsolidarity.substack.com/p/save-the-date-microsolidarity-summer).
+
+
 
 ### Online Monthly Network Meeting
 
@@ -13,6 +21,8 @@ We meet 7.30-9pm CET on the first Thursday of every month. Here's a sample of wh
 This is a members-only meeting where you can connect with other practitioners, to give and receive support in your community-building journey.
 
 To become a member, [contribute at least €3/month to our Open Collective](http://opencollective.com/microsolidarity).
+
+
 
 ### Previous Gatherings
 

@@ -8,7 +8,7 @@ description: >-
 
 Ideally the Microsolidarity Network will grow into a self-sustaining commons, governed by its participants, not for private profit nor under private control.
 
-Initially, Richard Bartlett & Nati Lombardo used their private company [The Hum](http://thehum.org) as the legal & financial vehicle for running paid Microsolidarity events. As the network has matured, we've decided to create a clearer separation between Microsolidarity & The Hum.&#x20;
+Initially, Richard Bartlett & Nati Lombardo used their private company [The Hum](http://thehum.org) as the legal & financial vehicle for running paid Microsolidarity events. As the network has matured, we've decided to create a clean separation between Microsolidarity & The Hum.&#x20;
 
 Since October 2022, we've set up 2 accounts on Open Collective, an awesome legal & financial toolbox, perfectly suited for microsolidarity groups. If you want to contribute money to the network, there are two places you can donate:
 
@@ -21,7 +21,7 @@ Supporting us on Open Collective with at least €3 or $3 per month will give yo
 
 Our intention to grow a common fund that can be used for anything that supports the network. Here's some of our fundraising goals:
 
-* to pay the facilitator for organising & hosting our monthly calls
+* to pay the facilitators for organising & hosting our monthly calls
 * to provide scholarships to make paid events more accessible
 * to produce media that supports the network & educates the wider public (e.g. editing the podcast, writing a book, making a Netflix series...)
 * to pay for a "community coach" who can support a cohort of many microsolidarity community hosts
@@ -35,7 +35,6 @@ The network is currently governed informally, with Richard Bartlett playing the 
 * all paid events that generate a surplus should contribute a percentage to the common fund
 * anyone who has contributed money to the network is entitled to have a say about how the common fund is governed&#x20;
 * "having a say" means you can make proposals for how we spend the collective money, and share your advice on other people's proposals
-* _note: if you have contributed money, you should have access to the private #contributors channel on Discord - reach out to one of the admins if this is not the case_
 * final decisions are made by the administrators of the two Open Collective pages&#x20;
   * in Europe: Ulrich Schur, Michal Korzonek, Richard Bartlett
   * in the US: Alex Rodríguez, Drew Horbein, Richard Bartlett
@@ -47,7 +46,7 @@ This is a rather rough first sketch, if you have opinions about how it could be 
 
 ### Historical Financial Data
 
-In future, you will see all income and expenses automatically documented transparently on the Open Collective pages.&#x20;
+Since we moved to Open Collective in October 2022, you can see all income and expenses documented transparently on our page.
 
 For transparency, we share the financial performance of the 6 paid events that we ran through [The Hum](http://thehum.org) between May 2020 and Oct 2022:
 
@@ -73,5 +72,5 @@ Note: the "surplus" is calculated before any payments are made to staff.
 
 #### Monthly Members Calls
 
-Jocelyn Ames has facilitated the Monthly Member Calls in July, August, September and October 2022. She has been paid €100/month from The Hum for the first two, and will be paid for subsequent events from the Open Collective funds.
+Jocelyn Ames has facilitated the Monthly Member Calls in since July 2022. She was paid €100/month from The Hum for the first two, and has been paid for subsequent events from the Open Collective funds.
 

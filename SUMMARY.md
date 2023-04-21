@@ -19,6 +19,8 @@
   * [Contributing Money](participate/contributing-money.md)
   * [Community Bookshelf](participate/community-bookshelf.md)
   * [Volunteers wanted](participate/volunteers-wanted.md)
+* [Practice Program](practice-program/README.md)
+  * [Course Content](practice-program/course-content.md)
 * [Archive](articles/README.md)
   * [#1: Proposal](articles/proposal.md)
   * [#2: Update 2020](articles/2-update-2020.md)
