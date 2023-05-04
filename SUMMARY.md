@@ -26,6 +26,7 @@
   * [3. Congregations](practice-program/3.-congregations.md)
   * [4. Leadership & Engagement](practice-program/4.-leadership-and-engagement.md)
   * [5. Resources & Practices](practice-program/5.-resources-and-practices.md)
+* [EU Summer Camp 2023](eu-summer-camp-2023.md)
 * [Archive](articles/README.md)
   * [#1: Proposal](articles/proposal.md)
   * [#2: Update 2020](articles/2-update-2020.md)
