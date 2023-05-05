@@ -114,7 +114,7 @@ In addition to the minimum purpose of supporting crews, the congregation can als
 
 While a crew can develop high coordination with little more than "vibes" (high trust & implicit shared understanding), coordinating a congregation requires more physical, financial and legal infrastructure. Successfully managing this shared infrastructure requires mechanisms for [commons governance](https://coopworkdesign.wordpress.com/2015/02/06/design-principles-for-collaborative-management/), including the ability to create and adjust rules, resolve disputes, and sanction antisocial behaviour.
 
-![The effect of group size on relationships](<../.gitbook/assets/image (1).png>)
+![The effect of group size on relationships](<../.gitbook/assets/image (1) (1).png>)
 
 Coordination costs scale nonlinearly with group size: a group of 5 people has 10 relationships, but a group of 50 has 1225. That’s 1225 possibilities for interpersonal tension, conflict & mistrust. So the bigger the group, the more difficult the governance challenges. ​​Anthropologist Robin Dunbar suggests there’s a threshold, somewhere around the 150-person scale ("Dunbar’s number"), which is about the limit of how many relationships one person can keep track of. This is why the maximum size for a congregation is around 150 people. Up to this size, the coordination can be fairly informal & efficient, especially in a group that puts extra effort into cultivating high trust relationships, so everybody knows a bit about everyone else. But in a group of 100,000, most people are strangers to each other, so it becomes a very different kind of organisation, with governance challenges that are out of scope for the microsolidarity practice.
 

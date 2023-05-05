@@ -43,7 +43,7 @@ This is a 2-week program. You can access [this short curriculum of videos & text
 
 ### Times & Dates
 
-We meet for live calls on Tuesdays & Thursdays. You can choose which group you join, according to your timezone:&#x20;
+We meet for live calls on Tuesdays & Thursdays, for 2 weeks from June 6 to 15. You can choose which group you join, according to your timezone:&#x20;
 
 * **Timezone A** meets at 9-10.30am CET (3pm Singapore, 7pm Auckland)
 * **Timezone B** meets at 6-7.30pm CET (9am Los Angeles, 1pm Rio)

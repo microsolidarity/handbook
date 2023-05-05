@@ -1,12 +1,12 @@
 ---
-description: Germany, July 18-23
+description: Just outside Berlin, July 18-23
 ---
 
 # EU Summer Camp 2023
 
 _Microsolidarity is a community-building practice. We're weaving the social fabric that underpins shared infrastructure. Come practice with us!_&#x20;
 
-
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 It’s been a year since the microsolidarity network had an [in-person gathering in Europe](https://www.youtube.com/watch?v=u-mgfPm6hsg). Time to have another one! Between 18 - 23 July, we will come together for a week of community-building geekery, relaxation, peer learning, meeting old and new friends, and other kinds of meaningful fun.&#x20;
 
@@ -22,6 +22,8 @@ In the spirit of microsolidarity, the purpose of this event is for the network t
 
 \
 The hosting team (Jocelyn Ames, Uta Sievers, Richard D. Bartlett, Jonas Gröner, and Dan Lewis) are taking care of logistics and will set up some minimum-viable structures, like a collective opening and closing. The rest of our time will be powered by the contributions from all of us, through the magic of a co-created [open-space agenda](https://en.wikipedia.org/wiki/Open\_Space\_Technology).
+
+<figure><img src=".gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
 
 To facilitate all of this juicy goodness in the most accessible way possible there will be two entry points to the gathering:\
 
@@ -39,7 +41,7 @@ If you are just getting familiar with microsolidarity, we recommend you particip
 
 You can read more about the principles and practices of microsolidarity [here](https://www.microsolidarity.cc/).
 
-
+<figure><img src=".gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Venue & Accommodation
 
@@ -47,12 +49,20 @@ We will be staying at [Coconat](https://coconat-space.com/), a creative communit
 
 If you want to rent camping equipment, or you want to stay in a bed, you can book that through the [Coconat website](https://coconat-space.com/inquiry/), which will incur extra costs on top of your entry ticket (paid directly to Coconat: please mention Microsolidarity in the text field).
 
-\
+
+
+<figure><img src=".gitbook/assets/image (1).png" alt="" width="350"><figcaption></figcaption></figure>
+
 
 
 ## Food
 
 In an effort to keep costs low, we’ll be cooking for ourselves. This means we’ll need a handful of volunteers to help out for a few hours in the kitchen every day. The hosting team will take care of shopping and coming up with a menu plan. Huge thanks to Dan Lewis who has volunteered to coordinate the kitchen!
+
+\
+
+
+<figure><img src=".gitbook/assets/image (3).png" alt="" width="350"><figcaption></figcaption></figure>
 
 
 
@@ -105,14 +115,12 @@ There will be a gathering happening in the US July 15th - 21st with a similar co
 
 ## Any Questions?
 
-Contact utasievers@gmail.com and she'll be happy to help :)\
+Contact utasievers@gmail.com and she'll be happy to help :)
+
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+\
 
 
 \
-\
-\
-
-
-
-
 \
