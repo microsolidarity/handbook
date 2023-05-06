@@ -8,7 +8,7 @@ In the first 2 weeks of June we're running a short cohort-based course to practi
 
 ### Microsolidarity Summer Camp (July)
 
-In 2023 there will be two big gatherings for the Microsolidarity Network: **July 15-21 in USA**, and **July 17-23 in Europe**. [Register your interest here](https://microsolidarity.substack.com/p/save-the-date-microsolidarity-summer).
+In 2023 there will be two big gatherings for the Microsolidarity Network: [**July 15-21 in USA**](https://dandelion.earth/events/6441dc5e443b170002452172), and [**July 18-23 in Europe**](../eu-summer-camp-2023.md).
 
 
 

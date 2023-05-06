@@ -39,3 +39,4 @@
   * [Ako group guidelines](articles/ako-group-guidelines.md)
   * [Cults](articles/cults.md)
   * [Gathering Invite](articles/gathering-invite.md)
+* [USA Summer Camp 2023](https://dandelion.earth/events/6441dc5e443b170002452172)
