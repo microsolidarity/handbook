@@ -27,6 +27,7 @@
   * [4. Leadership & Engagement](practice-program/4.-leadership-and-engagement.md)
   * [5. Resources & Practices](practice-program/5.-resources-and-practices.md)
 * [EU Summer Camp 2023](eu-summer-camp-2023.md)
+* [USA Summer Camp 2023](https://dandelion.earth/events/6441dc5e443b170002452172)
 * [Archive](articles/README.md)
   * [#1: Proposal](articles/proposal.md)
   * [#2: Update 2020](articles/2-update-2020.md)
@@ -39,4 +40,3 @@
   * [Ako group guidelines](articles/ako-group-guidelines.md)
   * [Cults](articles/cults.md)
   * [Gathering Invite](articles/gathering-invite.md)
-* [USA Summer Camp 2023](https://dandelion.earth/events/6441dc5e443b170002452172)
