@@ -119,7 +119,13 @@ There will be a gathering happening in the US July 15th - 21st with a similar co
 
 <summary>Does the price include food, or is it just for programming?</summary>
 
-The price includes: all programming camping or campervan site three meals per day (cooked by our group) Coconat fee per person for our kitchen use reduced Coconat fee per person for use of coworking facilities with unlimited coffee, tea, and snacks
+The price includes:&#x20;
+
+* all programming&#x20;
+* camping or campervan site&#x20;
+* three meals per day (cooked by our group)&#x20;
+* Coconat kitchen fee per person
+* reduced Coconat coworking fee per person with unlimited coffee, tea, and snacks
 
 </details>
 
