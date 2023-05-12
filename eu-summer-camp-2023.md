@@ -113,7 +113,71 @@ There will be a gathering happening in the US July 15th - 21st with a similar co
 
 
 
-## Any Questions?
+## FAQ
+
+<details>
+
+<summary>Does the price include food, or is it just for programming?</summary>
+
+The price includes: all programming camping or campervan site three meals per day (cooked by our group) Coconat fee per person for our kitchen use reduced Coconat fee per person for use of coworking facilities with unlimited coffee, tea, and snacks
+
+</details>
+
+<details>
+
+<summary>Is there a deadline for applications?</summary>
+
+There is no deadline but we expect the event will be fully booked by early July. Remember, you can pay a €50 non-refundable deposit to guarantee your spot now.
+
+</details>
+
+<details>
+
+<summary>Is this going to be a Microsolidarity training?</summary>
+
+Nope, the gathering is not organised like a traditional training. Whoever shows up will bring discussion topics, workshop ideas, and whatever activities they want to contribute.&#x20;
+
+If you're new to Microsolidarity and you want an intro to the theories and practices, read the material on this website or join the upcoming short course: [Microsolidarity Practice Program](practice-program/).
+
+</details>
+
+<details>
+
+<summary>Will we have access to all the amenities at Coconat like the coworking space, or are there any restrictions?</summary>
+
+As far as we know now, there are no restrictions to the use of the entire space. Please keep in mind that we are aiming for a relaxed Summer Camp vibe and not a workation :)
+
+</details>
+
+<details>
+
+<summary>What about Coconat facilities like sauna etc.?</summary>
+
+Wellness offers at COCONAT for small groups:\
+(please find other people and request in advance)
+
+COCONAT-YOGA
+
+Together with our yoga teacher, activate your body and mind in the morning or relax in the evening. Group lesson: 95,20 EUR&#x20;
+
+COCONAT-MASSAGE \
+(for group bookings of at least 90 minutes total)
+
+Price example: Wellness oil massage\
+½ hour 33 Euro\
+1 hour 66 Euro\
+1 ½ hour 90 Euro\
+2 hours 120 Euro &#x20;
+
+COCONAT-SAUNA\
+for groups
+
+2 hours: €15 + €5 per person \
+Extra towel €5
+
+</details>
+
+## More Questions?
 
 Contact utasievers@gmail.com and she'll be happy to help :)
 
