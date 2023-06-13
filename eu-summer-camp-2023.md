@@ -35,11 +35,9 @@ To facilitate all of this juicy goodness in the most accessible way possible the
 
 **What not to expect**
 
-This is not going to be a training, nor a curated experience. There might be some skill-share sessions or workshops on microsolidarity or related frameworks on the open-space agenda. This depends entirely on who shows up and what they want to offer.&#x20;
+This is not going to be a training, nor a curated experience. There will probably be some skill-share sessions or workshops on microsolidarity or related frameworks on the open-space agenda. This depends entirely on who shows up and what they want to offer.&#x20;
 
-If you are just getting familiar with microsolidarity, we recommend you participate in the [4-session practice program](https://www.microsolidarity.cc/practice-program) that we run in June. There, you will get a chance to familiarise yourself with the principles and practices behind microsolidarity and catch a first whiff of the vibe.&#x20;
-
-You can read more about the principles and practices of microsolidarity [here](https://www.microsolidarity.cc/).
+If you are just getting familiar with microsolidarity, we recommend you take a look at the course materials from the [Microsolidarity practice program](https://www.microsolidarity.cc/practice-program) that we ran in June. You can also find a lot of additional reading material on this website.&#x20;
 
 <figure><img src=".gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -131,9 +129,30 @@ The price includes:&#x20;
 
 <details>
 
+<summary>How do deposits work?</summary>
+
+You can pay a €50 deposit to confirm your place. Deposits are non-refundable.
+
+If you have put down a deposit, please pay the rest of your ticket by June 27th. You can pay through the ["Flexible Contribution" button](https://opencollective.com/microsolidarity/events/microsolidarity-summer-camp-eu-74950d99) on Open Collective.&#x20;
+
+If you have not confirmed by June 27th, your ticket may be sold to someone else.\
+
+
+</details>
+
+<details>
+
 <summary>Is there a deadline for applications?</summary>
 
-There is no deadline but we expect the event will be fully booked by early July. Remember, you can pay a €50 non-refundable deposit to guarantee your spot now.
+Ticket sales will close on July 5th, or sooner if we run out of space to host you all. So tell your friends to book soon! :)
+
+</details>
+
+<details>
+
+<summary>What's your refund policy?</summary>
+
+Deposits are non-refundable. Tickets are 100% refundable until June 27th, and 50% refunds are offered until July 5th. No refunds will be given after July 5th, except in emergencies, at our discretion.
 
 </details>
 
@@ -143,7 +162,7 @@ There is no deadline but we expect the event will be fully booked by early July.
 
 Nope, the gathering is not organised like a traditional training. Whoever shows up will bring discussion topics, workshop ideas, and whatever activities they want to contribute.&#x20;
 
-If you're new to Microsolidarity and you want an intro to the theories and practices, read the material on this website or join the upcoming short course: [Microsolidarity Practice Program](practice-program/).
+If you're new to Microsolidarity and you want an intro to the theories and practices, read the material on this website or see the videos from this short online course: [Microsolidarity Practice Program](practice-program/).
 
 </details>
 
@@ -180,6 +199,14 @@ for groups
 
 2 hours: €15 + €5 per person \
 Extra towel €5
+
+</details>
+
+<details>
+
+<summary>Do I have to stay in a tent?</summary>
+
+We certainly encourage you to come camping with us! But if you want to stay in a bed, you can book that through the [Coconat website](https://coconat-space.com/inquiry/). This will incur extra costs on top of your entry ticket (paid directly to Coconat: please mention Microsolidarity in the text field). To guarantee a spot in one of the rooms you'll need to book by June 21st.
 
 </details>
 
