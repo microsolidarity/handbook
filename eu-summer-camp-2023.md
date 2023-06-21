@@ -158,6 +158,18 @@ Deposits are non-refundable. Tickets are 100% refundable until June 27th, and 50
 
 <details>
 
+<summary>What time should I arrive &#x26; depart?</summary>
+
+If you're coming for the week, you're welcome to join us anytime after 10am on Tuesday. Please be there by 3pm so you have time to setup camp before the orientation tours will run at 4pm and 5pm, then we have dinner at 6pm, and opening circle at 7.30pm.
+
+If you're coming for the weekend, join us anytime on Friday. Ideally you can join us for dinner (6pm) and we'll have a welcome session for weekend joiners around 8pm.
+
+On Sunday, we'll have a closing session from 10.30-12.00, so if you need to leave early, aim to depart at noon. But if you can stay, join us for lunch at 1pm. Sessions will continue until 4pm.
+
+</details>
+
+<details>
+
 <summary>Is this going to be a Microsolidarity training?</summary>
 
 Nope, the gathering is not organised like a traditional training. Whoever shows up will bring discussion topics, workshop ideas, and whatever activities they want to contribute.&#x20;
@@ -207,6 +219,22 @@ Extra towel €5
 <summary>Do I have to stay in a tent?</summary>
 
 We certainly encourage you to come camping with us! But if you want to stay in a bed, you can book that through the [Coconat website](https://coconat-space.com/inquiry/). This will incur extra costs on top of your entry ticket (paid directly to Coconat: please mention Microsolidarity in the text field). To guarantee a spot in one of the rooms you'll need to book by June 21st.
+
+</details>
+
+<details>
+
+<summary>Can I bring my dog?</summary>
+
+Yes! Dogs are welcome :)
+
+</details>
+
+<details>
+
+<summary>What's your alcohol policy?</summary>
+
+The venue requires that all soft drinks and alcohol are to be bought from them. So you're welcome to have a drink, but you can't bring your own. Please enjoy yourself in moderation :)
 
 </details>
 
