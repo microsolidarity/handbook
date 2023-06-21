@@ -85,11 +85,7 @@ It is our goal to make this event as accessible as possible while also covering 
 
 0-6-year-olds can attend for free, under 14 years kids are priced at 50% off the lowest tier, i.e. €150 for the week, €75 for the weekend.
 
-#### Deposit
 
-If you know you’re coming but you’re not ready to pay immediately, you can pay a €50 non-refundable deposit to guarantee your spot. You will see the option to buy a deposit on the ticketing page.
-
-The rest of the ticket price is to be paid within 3 weeks of the event (by June 27). You can make this payment using the “flexible contribution” option on the ticket page.
 
 #### Scholarships
 
@@ -131,7 +127,7 @@ The price includes:&#x20;
 
 <summary>How do deposits work?</summary>
 
-You can pay a €50 deposit to confirm your place. Deposits are non-refundable.
+Deposits are non-refundable.
 
 If you have put down a deposit, please pay the rest of your ticket by June 27th. You can pay through the ["Flexible Contribution" button](https://opencollective.com/microsolidarity/events/microsolidarity-summer-camp-eu-74950d99) on Open Collective.&#x20;
 
