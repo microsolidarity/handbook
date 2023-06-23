@@ -1,10 +1,6 @@
 # Events
 
-### Microsolidarity Practice Program (online, June)
-
-In the first 2 weeks of June we're running a short cohort-based course to practice Microsolidarity and connect with other community builders. Registration is essential. [Find out more here.](../practice-program/)
-
-
+###
 
 ### Microsolidarity Summer Camp (July)
 
