@@ -87,12 +87,6 @@ It is our goal to make this event as accessible as possible while also covering 
 
 
 
-#### Scholarships
-
-If none of these tiers are accessible to you but you feel like you’d really benefit from coming, please [reach out through this form](https://docs.google.com/forms/d/e/1FAIpQLSd0U4lOD-gkhSqnn3y41Fic8xkfQRtnOQfm3MDckOgl4BSYfg/viewform?usp=sf\_link). Depending on how many people pay a higher ticket price, we can offer additionally discounted tickets or full scholarships.
-
-
-
 ### Financial transparency
 
 Income from ticket sales will be used to cover venue rental and food. The hosting team is donating their time, so we’ll also use ticket income to cover their expenses. Any surplus that is left after the event will go towards the microsolidarity commons fund on [Open Collective](https://opencollective.com/microsolidarity), building a pool of funds to develop the network and organise future events like this one.&#x20;
@@ -140,7 +134,7 @@ If you have not confirmed by June 27th, your ticket may be sold to someone else.
 
 <summary>Is there a deadline for applications?</summary>
 
-Ticket sales will close on July 5th, or sooner if we run out of space to host you all. So tell your friends to book soon! :)
+Ticket sales will close on July 6th, or sooner if we run out of space to host you all. So tell your friends to book soon! :)
 
 </details>
 
