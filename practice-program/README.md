@@ -1,18 +1,16 @@
 ---
-description: Online, June 6-15, 2023
+description: Online, Oct 3-12, 2023
 ---
 
 # Practice Program
 
-In the first 2 weeks of June we're running a short cohort-based course to practice Microsolidarity and connect with other community builders.
+In the first 2 weeks of October we're running a short cohort-based course to practice Microsolidarity and connect with other community builders.
 
 **Join us** for this Practice Program if you want...
 
 * to cultivate deeper connections and more collaboration within a network
 * to initiate more learning, mutual aid, and a sense of belonging within your community
 * to develop a work culture where people care about each other's wellbeing and growth
-
-If you're coming to [Microsolidarity Summer Camp in July](https://microsolidarity.substack.com/p/save-the-date-microsolidarity-summer), this will be the perfect opportunity to get to know some of the other campers beforehand, and get some more context about Microsolidarity theory and practice.
 
 
 
@@ -43,33 +41,29 @@ This is a 2-week program. You can access [this short curriculum of videos & text
 
 ### Times & Dates
 
-We meet for live calls on Tuesdays & Thursdays, for 2 weeks from June 6 to 15. You can choose which group you join, according to your timezone:&#x20;
+We meet for live calls on Tuesdays & Thursdays, for 2 weeks from Oct 3 to 12. You can choose which group you join, according to your timezone:&#x20;
 
-* **Timezone A** meets at 9-10.30am CET (3pm Singapore, 7pm Auckland)
-* **Timezone B** meets at 6-7.30pm CET (9am Los Angeles, 1pm Rio)
+* **Timezone A** meets at 9-10.30am CEST (3pm Singapore, 8pm Auckland)
+* **Timezone B** meets at 6-7.30pm CEST (9am Los Angeles, 1pm Rio)
 
 
 
 ### Tickets&#x20;
 
-To make the program accessible we have a tiered ticket price from €75 to €155. We have limited availability, please choose the ticket price according to your circumstances.
+Tickets are available for €140. Income from ticket sales will be used to pay the hosting team, and we'll share 10% of the income with the [Microsolidarity common fund](../participate/contributing-money.md).
 
-* ### [**Register for Timezone A**](https://opencollective.com/microsolidarity/events/microsolidarity-practice-program-a-c8f1132e)
-* ### [**Register for Timezone B**](https://opencollective.com/microsolidarity/events/microsolidarity-practice-program-timezone-b-2be8ca1e)
+* ### [**Register for Timezone A**](https://opencollective.com/microsolidarity/events/microsolidarity-practcie-program-fall-2023-timezone-a-28b39d7e)
+* ### [**Register for Timezone B**](https://opencollective.com/microsolidarity/events/microsolidarity-practice-program-fall-2023-timezone-b-b3ca49a9)
 
 If you're a returning student from previous Practice Programs, you're welcome to join us for free. Just ask in the [#practice-program](https://discord.gg/u9dfEkcpmY) channel on Discord and we'll add you to the list.
+
+If you want to join but money is a barrier to you participating, you can [apply for a scholarship](https://docs.google.com/forms/d/e/1FAIpQLScKCBAvBYG422nehgBu\_O6IjAk9VZuleqkD7\_8FiIWyiS\_Xhg/viewform?usp=sf\_link).
 
 
 
 ### **Your Hosts**
 
-This program was originally developed by Nati Lombardo & Rich Bartlett. They hosted it 4 times through 2020-2022. Now in 2023 the program is being run for the first time as a community-organised event. Facilitation is lead by: Jocelyn Ames, Sara Bajor and Jonas Gröner, with contributions from Ioan Mitrea, Abigail Oulton and Rich Bartlett.
-
-
-
-### **Financial Transparency**
-
-Finances for this program are run through our common fund on Open Collective (rather than Nati & Rich's private company The Hum which has been used for prior events). Income from ticket sales will be used to pay the hosting team, and we'll share 10% of the income with the [Microsolidarity common fund](../participate/contributing-money.md).
+This program was originally developed by Nati Lombardo & Rich Bartlett. They hosted it 4 times through 2020-2022. Now in 2023 the program is being run as a community-organised event. Facilitation is lead by: Jocelyn Ames, Sara Bajor, Jonas Gröner, and Gui Trevisan.
 
 
 

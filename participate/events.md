@@ -2,9 +2,9 @@
 
 ###
 
-### Microsolidarity Summer Camp (July)
+### Micrsolidarity Practice Program (Oct 2023)
 
-In 2023 there will be two big gatherings for the Microsolidarity Network: [**July 15-21 in USA**](https://dandelion.earth/events/6441dc5e443b170002452172), and [**July 18-23 in Europe**](../eu-summer-camp-2023.md).
+A short cohort-based course to practice Microsolidarity and connect with other community builders: October 3-12. [Find out more here](events.md#micrsolidarity-practice-program-oct)
 
 
 
@@ -22,10 +22,9 @@ To become a member, [contribute at least €3/month to our Open Collective](http
 
 ### Previous Gatherings
 
-In 2022 we had the first in-person gatherings for the microsolidarity network:
+* We had the first gathering in Belgium in May 2023, here's what we learned ([video](https://www.youtube.com/watch?v=u-mgfPm6hsg) | [audio](https://anchor.fm/Microsolidarity/episodes/What-We-Learned-From-the-1st-Gathering-of-Microsolidarity-Practitioners-e1jnnmi)).&#x20;
+* The second gathering in 2023 was outside Denver, Colorado. We debriefed here ([video](https://www.youtube.com/watch?v=p0y4qGz0pXQ\&t=15s) | [audio](https://podcasters.spotify.com/pod/show/Microsolidarity/episodes/Reflecting-on-our-Denver-Microsolidarity-Gathering-in-October-2022-e1t5o66/a-a951ejl))
+* We had 2 gatherings in the northern summer 2023, one in Germany and one in the States.  Stay tuned for documentation from these events.
 
-1. We had the first gathering in Belgium in May, here's what we learned ([video](https://www.youtube.com/watch?v=u-mgfPm6hsg) | [audio](https://anchor.fm/Microsolidarity/episodes/What-We-Learned-From-the-1st-Gathering-of-Microsolidarity-Practitioners-e1jnnmi)).&#x20;
-2. The second gathering was outside Denver, Colorado. We debriefed here ([video](https://www.youtube.com/watch?v=p0y4qGz0pXQ\&t=15s) | [audio](https://podcasters.spotify.com/pod/show/Microsolidarity/episodes/Reflecting-on-our-Denver-Microsolidarity-Gathering-in-October-2022-e1t5o66/a-a951ejl))
 
-In 2023 there are unconfirmed plans for two Summer Camps, one in Europe and the other in the US around mid July. Stay tuned for more info - or ask for updates [in the Discord](https://discord.gg/Kp2xVuSFAX).
 
