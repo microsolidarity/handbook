@@ -29,13 +29,11 @@ This is a 2-week program. You can access [this short curriculum of videos & text
 * **Leadership & engagement**: how to encourage participation, engagement and co-leadership.
 * **Reflection & learning**: how to get into the habit of reflection & continuous improvement, at a personal and collective level
 
-
-
 ### Time Commitment
 
 * ​There are **four 90-minute live calls** where we’ll practice together
-* We’ll send the video content at the beginning of each week so you can follow it at your own time. You can expect to spend around 30 minutes in preparation for each topic of the content.
-* There will be a digital forum for connection, interaction, and Q\&A.
+* You follow the course content in your own time. You can expect to spend around 30 minutes in preparation for each of the weekly topics.
+* There is a digital forum for connection, interaction, and Q\&A.
 
 
 
@@ -55,9 +53,29 @@ Tickets are available for €140. Income from ticket sales will be used to pay t
 * ### [**Register for Timezone A**](https://opencollective.com/microsolidarity/events/microsolidarity-practcie-program-fall-2023-timezone-a-28b39d7e)
 * ### [**Register for Timezone B**](https://opencollective.com/microsolidarity/events/microsolidarity-practice-program-fall-2023-timezone-b-b3ca49a9)
 
-If you're a returning student from previous Practice Programs, you're welcome to join us for free. Just ask in the [#practice-program](https://discord.gg/u9dfEkcpmY) channel on Discord and we'll add you to the list.
+If you're a returning student from previous Practice Programs, you're welcome to join us for free. You'll see the free registration link on the ticketing page.
 
 If you want to join but money is a barrier to you participating, you can [apply for a scholarship](https://docs.google.com/forms/d/e/1FAIpQLScKCBAvBYG422nehgBu\_O6IjAk9VZuleqkD7\_8FiIWyiS\_Xhg/viewform?usp=sf\_link).
+
+
+
+### Testimonials
+
+Here are some quotes from previous participants
+
+"It was mindblowing how quickly you can develop trust and belonging - I wouldn't have believed it if I hadn't experienced it. We created a feeling of trust and safety within a few minutes, it's bonkers!"
+
+"I only spoke to 3 people and already I got such a strong feeling that I want to get to know everyone here - I don't often feel that in a random group of people."
+
+"It’s so helpful to do these peer-support processes with people who are outside my community - it’s so valuable to get the perspective of someone who cares but is not involved. It's usually hard to find. it takes a lot of scene-setting, and a specific social contract, which is what the Microsolidarity Network is creating."
+
+"It felt like there's a large pool of wisdom that I can enter, and I don't have to be reluctant about it. I can share my problem even when I can't explain it very well, and people are open to listen to me and give me their thoughts."
+
+"In this process I felt like how it feels when I confide in one of my close friends. These two people I had only just met, they were so focussed on listening to what I needed, and putting their best efforts into helping me... that's a very powerful feeling. They were there for me."
+
+\
+\
+
 
 
 
