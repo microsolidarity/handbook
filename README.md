@@ -47,4 +47,8 @@ You can subscribe to [this YouTube channel](https://www.youtube.com/channel/UC6h
 
 All the content on this site is published with a [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license. So please use it however you like without asking permission: just give credit, and use the same license for derivative works. Unless stated otherwise, assume the author is Richard D. Bartlett.
 
-![](<.gitbook/assets/image (2).png>)
+<div align="left">
+
+<img src=".gitbook/assets/image (2).png" alt="">
+
+</div>
