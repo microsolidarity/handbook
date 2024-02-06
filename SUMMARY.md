@@ -27,7 +27,7 @@
     * [3. Congregations](practice-program/3.-congregations.md)
     * [4. Leadership & Engagement](practice-program/4.-leadership-and-engagement.md)
     * [5. Resources & Practices](practice-program/5.-resources-and-practices.md)
-  * [Interdmediate Program](practice-program/intermediate-program/README.md)
+  * [Intermediate Program](practice-program/intermediate-program/README.md)
 * [EU Summer Camp 2023](eu-summer-camp-2023.md)
 * [USA Summer Camp 2023](https://dandelion.earth/events/6441dc5e443b170002452172)
 * [Archive](articles/README.md)
