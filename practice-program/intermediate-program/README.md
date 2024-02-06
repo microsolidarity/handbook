@@ -24,3 +24,8 @@ To make the most out of this program we ask that you attend the introductory pra
 Tickets are available for €140. Income from ticket sales will be used to pay the hosting team, and we'll share 10% of the income with the Microsolidarity common fund.
 - **[Register for Timezone A](https://opencollective.com/dashboard/intermediate-practice-program-timezone-a-2743ecf8)**
 - **[Register for Timezone B](https://opencollective.com/microsolidarity/events/intermediate-practice-program-timezone-b-461e9add)**
+
+If you want to join but money is a barrier to you participating, you can [apply for a scholarship](https://forms.gle/kSzWTDJCvxMYiTJf8).
+
+### Your Hosts
+This program was designed and is hosted by Jocelyn Ames, Jonas Gröner, Gui Trevisan and Sara Bajor. They've been hosting the last two iterations of the introductory practice program. After hearing participants longing for more applied practice at the end of the introductory program they decided to create this next offering in response to this longing.
