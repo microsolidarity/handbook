@@ -1,4 +1,5 @@
 ## Intermediate Practice Program: Crewing, Facilitation & Leadership
+#### Mar 19th - 29th 2024
 
 This program is a continuation of the Introductory Practice Program. We’ll dive deeper in to the why, what and how around crewing and practicing essential facilitation and leadership skills. Where the introductory program was all about experiencing what microsolidarity is about and practicing some basic relational building blocks, this program aims to answer questions like: 
 - “How do I create the vibe I experienced at the Practice Program in my own crew?”
