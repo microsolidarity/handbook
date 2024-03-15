@@ -2,7 +2,7 @@
 description: Online, Oct 3-12, 2023
 ---
 
-# Introductory Program
+# Practice Program
 
 In the first 2 weeks of October we're running a short cohort-based course to practice Microsolidarity and connect with other community builders.
 
@@ -41,16 +41,16 @@ This is a 2-week program. You can access [this short curriculum of videos & text
 
 We meet for live calls on Tuesdays & Thursdays, for 2 weeks from Oct 3 to 12. You can choose which group you join, according to your timezone:&#x20;
 
-* ~~**Timezone A** meets at 9am CET~~ closed
-* **Timezone B** meets at 6-7.30pm CET (10am Los Angeles, 2pm Rio)
+* **Timezone A** meets at 9-10.30am CEST (3pm Singapore, 8pm Auckland)
+* **Timezone B** meets at 6-7.30pm CEST (9am Los Angeles, 1pm Rio)
 
 
 
 ### Tickets&#x20;
 
-Tickets are available for €140. Income from ticket sales will be used to pay the hosting team, and we'll share 10% of the income with the [Microsolidarity common fund](../../participate/contributing-money.md).
+Tickets are available for €140. Income from ticket sales will be used to pay the hosting team, and we'll share 10% of the income with the [Microsolidarity common fund](../participate/contributing-money.md).
 
-* ### ~~**Register for Timezone A**~~
+* ### [**Register for Timezone A**](https://opencollective.com/microsolidarity/events/microsolidarity-practcie-program-fall-2023-timezone-a-28b39d7e)
 * ### [**Register for Timezone B**](https://opencollective.com/microsolidarity/events/microsolidarity-practice-program-fall-2023-timezone-b-b3ca49a9)
 
 If you're a returning student from previous Practice Programs, you're welcome to join us for free. You'll see the free registration link on the ticketing page.
