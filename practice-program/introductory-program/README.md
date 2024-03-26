@@ -1,10 +1,6 @@
----
-description: Online, Apr 16-25, 2024
----
-
 # Introductory Program
 
-This April we're running a short cohort-based course to practice Microsolidarity and connect with other community builders.
+A short cohort-based course to practice Microsolidarity and connect with other community builders.
 
 **Join us** for this Practice Program if you want...
 
@@ -39,23 +35,18 @@ This is a 2-week program. You can access [this short curriculum of videos & text
 
 ### Times & Dates
 
-We meet for live calls on Tuesdays & Thursdays, for 2 weeks from Oct 3 to 12. You can choose which group you join, according to your timezone:&#x20;
+We meet for 4 live calls over 2 weeks, on Tuesdays & Thursdays. You can choose which group you join, according to your timezone:&#x20;
 
-* **Timezone A** meets at 9-10.30am CET
-* **Timezone B** meets at 6-7.30pm CET&#x20;
+* **Timezone A** meets at 9-10.30am Central Europe Time
+* **Timezone B** meets at 6-7.30pm Central Europe Time
+
+The next cohort will begin when we have a critical mass of registered participants. To confirm your interest, [**fill in this short form**](https://docs.google.com/forms/d/e/1FAIpQLScBPbM57fhX5LNtz2ag1GthTfz4Nfae95eJyzQlQPBepMt0MA/viewform?usp=sf\_link) and we will let you know when the cohort is ready to launch. You will have an opportunity to confirm your commitment after the dates are finalised.
 
 
 
 ### Tickets&#x20;
 
-Tickets are available for €140. Income from ticket sales will be used to pay the hosting team, and we'll share 10% of the income with the [Microsolidarity common fund](../../participate/contributing-money.md).
-
-* ### [**Register for Timezone A**](https://opencollective.com/microsolidarity/events/introductory-practice-program-spring-2024-timezone-a-7edaf676)
-* ### [**Register for Timezone B**](https://opencollective.com/microsolidarity/events/introductory-practice-program-spring-2024-timezone-b-be13fb92)
-
-If you're a returning student from previous Practice Programs, you're welcome to join us for free. You'll see the free registration link on the ticketing page.
-
-If you want to join but money is a barrier to you participating, you can [apply for a scholarship](https://docs.google.com/forms/d/e/1FAIpQLSdywD\_jNRiqGyOjOT-liyxQkzGRtxsDc1vSK9X2rIUOJi6Xcg/viewform?usp=sf\_link).
+When we finalise the dates, tickets will be available for €140. Income from ticket sales will be used to pay the hosting team, and we'll share 10% of the income with the [Microsolidarity common fund](../../participate/contributing-money.md). If you want to join but money is a barrier to you participating, you can apply for a scholarship.
 
 
 
