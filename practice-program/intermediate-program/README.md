@@ -1,8 +1,8 @@
-# Intermediate Program
+# Crewing Program
 
 ### Mar 19th - 28th 2024
 
-This program is a continuation of the Introductory Practice Program. We’ll dive deeper in to the why, what and how around crewing and practicing essential facilitation and leadership skills. Where the introductory program was all about experiencing what microsolidarity is about and practicing some basic relational building blocks, this program aims to answer questions like:
+This program is a continuation of the Vibes Practice Program. We’ll dive deeper in to the why, what and how around crewing and practicing essential facilitation and leadership skills. Where the introductory program was all about experiencing what microsolidarity is about and practicing some basic relational building blocks, this program aims to answer questions like:
 
 * “How do I create the vibe I experienced at the Practice Program in my own crew?”
 * “I resonate with the theory of microsolidarity but how do I actually apply it?”
@@ -20,25 +20,22 @@ We’ll specifically look at crewing as a core practice of microsolidarity and p
 
 At the end of this program you’ll have everything you need to practice your hosting and community building skills through crewing.
 
-## Prerequisites
-
-To make the most out of this program we ask that you attend the introductory practice program or an in-person microsolidarity event first.
-
 ## Times and Dates
 
-We meet for live calls on Tuesdays & Thursdays, for 2 weeks from Mar 19 to 28. You can choose which group you join, according to your timezone:
+We meet for 4 live calls over 2 weeks, on Tuesdays & Thursdays. You can choose which group you join, according to your timezone: 
 
-* ~~**Timezone A** meets at 9-10.30am CEST~~ (closed)
-* **Timezone B** meets at 6-7.30pm CEST (10am Los Angeles, 2pm Rio)
+Timezone A meets at 9-10.30am Central Europe Time
+
+Timezone B meets at 6-7.30pm Central Europe Time
+
+The next cohort will begin when we have a critical mass of registered participants. To confirm your interest, fill in this [short form](https://forms.gle/KZ6QKk2VhDRdfG3u6) and we will let you know when the cohort is ready to launch. You will have an opportunity to confirm your commitment after the dates are finalised.
+
+
 
 ## Tickets
 
-Tickets are available for €140. Income from ticket sales will be used to pay the hosting team, and we'll share 10% of the income with the Microsolidarity common fund.
+Tickets are available for €140. Income from ticket sales will be used to pay the hosting team, and we'll share 10% of the income with the Microsolidarity common fund. Let us know through the form how much you can contribute and we'll send you a link to buy your ticket once the next cohort is scheduled.
 
-* ~~**Register for Timezone A**~~ closed
-* [**Register for Timezone B**](https://opencollective.com/microsolidarity/events/intermediate-practice-program-timezone-b-461e9add)
-
-If you want to join but money is a barrier to you participating, you can [apply for a scholarship](https://forms.gle/kSzWTDJCvxMYiTJf8).
 
 ## Your Hosts
 
