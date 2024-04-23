@@ -1,4 +1,4 @@
-# Introductory Program
+# Vibes Program
 
 A short cohort-based course to practice Microsolidarity and connect with other community builders.
 
