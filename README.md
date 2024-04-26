@@ -33,7 +33,7 @@ One you've read a few of the essays, you might be ready learn [how you can get s
 
 ### Upcoming Events
 
-Find out about [upcoming Microsolidarity events here.](participate/events.md) We have 2-week cohort-based course coming up, summer camps in Europe and USA, and an online network call every month.
+Find out about [upcoming Microsolidarity events here.](participate/events.md) We have a 2-week cohort-based course coming up, summer camps in Europe and USA, and an online network call every month.
 
 ###
 
