@@ -29,7 +29,7 @@
     * [5. Resources & Practices](practice-program/introductory-program/5.-resources-and-practices.md)
   * [Crewing Program](practice-program/crewing-program/README.md)
 * [EU Summer Camp 2023](eu-summer-camp-2023.md)
-* [USA Summer Camp 2023](https://dandelion.earth/events/6441dc5e443b170002452172)
+* [USA Summer Camp 2024](https://dandelion.events/e/p65nr)
 * [Archive](articles/README.md)
   * [#1: Proposal](articles/proposal.md)
   * [#2: Update 2020](articles/2-update-2020.md)
