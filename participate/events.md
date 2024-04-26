@@ -2,9 +2,9 @@
 
 ###
 
-### Micrsolidarity Practice Program (Oct 2023)
+### Micrsolidarity Practice Program
 
-A short cohort-based course to practice Microsolidarity and connect with other community builders: October 3-12. [Find out more here](events.md#micrsolidarity-practice-program-oct)
+A short cohort-based course to practice Microsolidarity and connect with other community builders: waitlist is open and we'll probably run the next iteration this summer. [Find out more here](events.md#micrsolidarity-practice-program-oct)
 
 
 
@@ -18,7 +18,11 @@ This is a members-only meeting where you can connect with other practitioners, t
 
 To become a member, [contribute at least €3/month to our Open Collective](http://opencollective.com/microsolidarity).
 
+### USA Summer Camp 
+Like last year there will be a summer camp happening at Elkenmist (pacific northwest) Jul 17th - 21st. Learn more [here](https://dandelion.events/e/p65nr).
 
+### EU Summer Camp 
+This years EU summer camp will be happening between August 29th and September 4th at "Kunst in der Natur" (Art in Nature) close to Vienna. Save the date and register your interest [here](https://forms.gle/ydyPLW9JqyrCuZjj8) (tickets coming soon).
 
 ### Previous Gatherings
 
