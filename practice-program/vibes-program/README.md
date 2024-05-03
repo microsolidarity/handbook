@@ -35,12 +35,10 @@ This is a 2-week program. You can access [this short curriculum of videos & text
 
 ### Times & Dates
 
-We meet for 4 live calls over 2 weeks, on Tuesdays & Thursdays. You can choose which group you join, according to your timezone:&#x20;
+The next cohort will start on Tuesday, June 18, 2024. We meet for 4 live calls over 2 weeks, on Tuesdays & Thursdays at 6-7.30pm CET / 9-10:30am PDT. Register on [Open Collective](https://opencollective.com/microsolidarity/events/microsolidarity-vibes-program-summer-2024-468fa802).
 
-* **Timezone A** meets at 9-10.30am Central Europe Time
-* **Timezone B** meets at 6-7.30pm Central Europe Time
 
-The next cohort will begin when we have a critical mass of registered participants. To confirm your interest, [**fill in this short form**](https://docs.google.com/forms/d/e/1FAIpQLScBPbM57fhX5LNtz2ag1GthTfz4Nfae95eJyzQlQPBepMt0MA/viewform?usp=sf\_link) and we will let you know when the cohort is ready to launch. You will have an opportunity to confirm your commitment after the dates are finalised.
+Can't make it this time? To register interest in a future cohort, [**fill in this short form**](https://docs.google.com/forms/d/e/1FAIpQLScBPbM57fhX5LNtz2ag1GthTfz4Nfae95eJyzQlQPBepMt0MA/viewform?usp=sf\_link) and we will let you know when the next cohort is ready to launch. You will have an opportunity to confirm your commitment after the dates are finalised.
 
 
 
