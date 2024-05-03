@@ -35,7 +35,7 @@ This is a 2-week program. You can access [this short curriculum of videos & text
 
 ### Times & Dates
 
-The next cohort will start on Tuesday, June 18, 2024. We meet for 4 live calls over 2 weeks, on Tuesdays & Thursdays at 6-7.30pm CET / 9-10:30am PDT. Register on [Open Collective](https://opencollective.com/microsolidarity/events/microsolidarity-vibes-program-summer-2024-468fa802).
+The next cohort will start on Tuesday, June 18, 2024. We meet for 4 live calls over 2 weeks, on Tuesdays & Thursdays at 6-7.30pm CET / 9-10:30am PDT.
 
 
 Can't make it this time? To register interest in a future cohort, [**fill in this short form**](https://docs.google.com/forms/d/e/1FAIpQLScBPbM57fhX5LNtz2ag1GthTfz4Nfae95eJyzQlQPBepMt0MA/viewform?usp=sf\_link) and we will let you know when the next cohort is ready to launch. You will have an opportunity to confirm your commitment after the dates are finalised.
@@ -44,7 +44,7 @@ Can't make it this time? To register interest in a future cohort, [**fill in thi
 
 ### Tickets&#x20;
 
-When we finalise the dates, tickets will be available for €140. Income from ticket sales will be used to pay the hosting team, and we'll share 10% of the income with the [Microsolidarity common fund](../../participate/contributing-money.md). If you want to join but money is a barrier to you participating, you can apply for a scholarship.
+Register on [Open Collective](https://opencollective.com/microsolidarity/events/microsolidarity-vibes-program-summer-2024-468fa802). Tickets are available for €140. Income from ticket sales will be used to pay the hosting team, and we'll share 10% of the income with the [Microsolidarity common fund](../../participate/contributing-money.md). If you want to join but money is a barrier to you participating, you can [apply for a scholarship](https://docs.google.com/forms/d/1wJ6tjAJQSoD07K7nLLsF0DYSz9DvSfdJe9Jzllxa74c/edit)..
 
 
 

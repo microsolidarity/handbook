@@ -6,6 +6,8 @@
 
 A short cohort-based course to practice Microsolidarity and connect with other community builders. The next cohort will start on Tuesday, June 18, 2024. We meet for 4 live calls over 2 weeks, on Tuesdays & Thursdays at 6-7.30pm CET / 9-10:30am PDT. Register on [Open Collective](https://opencollective.com/microsolidarity/events/microsolidarity-vibes-program-summer-2024-468fa802) or [read more about it](https://www.microsolidarity.cc/practice-programs/vibes-program).
 
+Returning students are invited to register for free, and new participants can [apply for a scholarship](https://docs.google.com/forms/d/1wJ6tjAJQSoD07K7nLLsF0DYSz9DvSfdJe9Jzllxa74c/edit).
+
 
 A waitlist is open to indicate your interest in future programs. [Find out more here](https://docs.google.com/forms/d/e/1FAIpQLScBPbM57fhX5LNtz2ag1GthTfz4Nfae95eJyzQlQPBepMt0MA/viewform)
 
