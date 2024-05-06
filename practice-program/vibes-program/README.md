@@ -12,7 +12,7 @@ A short cohort-based course to practice Microsolidarity and connect with other c
 
 ### About this program
 
-This is a 2-week program. You can access [this short curriculum of videos & texts](course-content.md) to learn about the core concepts in your own time, and we will meet twice each week to experiment with relational practices (for a total of four 90-minute group calls). You'll also have access to a discussion forum to connect with other learners, share resources and ask us questions.
+This is a 2-week program. You can access [this short curriculum of videos & texts](course-content/README.md) to learn about the core concepts in your own time, and we will meet twice each week to experiment with relational practices (for a total of four 90-minute group calls). You'll also have access to a discussion forum to connect with other learners, share resources and ask us questions.
 
 
 
