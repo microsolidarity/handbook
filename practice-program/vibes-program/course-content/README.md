@@ -6,10 +6,10 @@ It's much more interesting as a practice than a theory though, so consider joini
 
 The Program includes 4 facilitated workshops to connect and practice with other community builders. Each of the workshops is connected to these 4 content modules:
 
-1. [Introducing core concepts](1.-introducing-core-concepts.md)
-2. [Crewing](2.-crewing.md)
-3. [Congregations](3.-congregations.md)
-4. [Leadership & Engagement](5.-resources-and-practices.md)
-5. [Links, Resources & Practices](5.-resources-and-practices.md)
+1. [Introducing core concepts](introducing-core-concepts.md)
+2. [Crewing](crewing.md)
+3. [Congregations](congregations.md)
+4. [Leadership & Engagement](leadership-and-engagement.md)
+5. [Links, Resources & Practices](resources-and-practices.md)
 
 &#x20;
