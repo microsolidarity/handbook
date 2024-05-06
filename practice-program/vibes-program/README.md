@@ -62,10 +62,6 @@ Here are some quotes from previous participants
 
 "In this process I felt like how it feels when I confide in one of my close friends. These two people I had only just met, they were so focussed on listening to what I needed, and putting their best efforts into helping me... that's a very powerful feeling. They were there for me."
 
-\
-\
-
-
 
 
 ### **Your Hosts**
