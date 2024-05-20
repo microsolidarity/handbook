@@ -114,7 +114,7 @@ There will be a gathering happening in the US 17-21 July with a similar concept.
 
 <details>
 <summary>Deposit system</summary>
-For 50€ you can reserve your spot. Deposits are non-refundable. If you have put down a deposit, please pay the rest of your ticket by August 8th. You can pay through the “Flexible Contribution” button on [Open Collective](https://opencollective.com/microsolidarity/events/microsolidarity-summer-camp-2024-eu-7457d633). If you have not confirmed by August 8th, your ticket may be sold to someone else.
+For 50€ you can reserve your spot. Deposits are non-refundable. If you have put down a deposit, please pay the rest of your ticket by August 8th. You can pay through the “Flexible Contribution” button on <a href="https://opencollective.com/microsolidarity/events/microsolidarity-summer-camp-2024-eu-7457d633">Open Collective </a>. If you have not confirmed by August 8th, your ticket may be sold to someone else.
 </details>
 
 <details>
@@ -124,15 +124,15 @@ For 50€ you can reserve your spot. Deposits are non-refundable. If you have pu
 
 <details>
  <summary>Times to arrive and depart </summary>
- The event will officially begin with an opening circle around **18:30 on Thursday August 29th**. A light dinner will be available beforehand. Please join us in time for the opening. You are welcome to arrive from early afternoon on the 29th. 
-**Weekend ticket**: On **Sunday September 1st**, we'll have a closing session for the weekend just before noon, so if you need to leave early, aim to depart a bit after noon.
+ The event will officially begin with an opening circle around **18:30 on Thursday August 29th** . A light dinner will be available beforehand. Please join us in time for the opening. You are welcome to arrive from early afternoon on the 29th. 
+**Weekend ticket** : On **Sunday September 1st** , we'll have a closing session for the weekend just before noon, so if you need to leave early, aim to depart a bit after noon.
 
-**Full week ticket**: On **Wednesday September 4th**, we'll have a closing session in the morning, then we ask you to depart by noon. 
+**Full week ticket** : On **Wednesday September 4th** , we'll have a closing session in the morning, then we ask you to depart by noon. 
 </details>
 
 <details>
  <summary>Is this going to be a Microsolidarity training? </summary>
- Nope, the gathering is not organized like a traditional training. Whoever shows up will bring discussion topics, workshop ideas, and whatever activities they want to contribute. If you're new to Microsolidarity and you want an intro to the theories and practices, read the material on this website or see the videos from this short online course: [Microsolidarity Vibe Program](https://www.microsolidarity.cc/practice-programs/vibes-program).
+ Nope, the gathering is not organized like a traditional training. Whoever shows up will bring discussion topics, workshop ideas, and whatever activities they want to contribute. If you're new to Microsolidarity and you want an intro to the theories and practices, read the material on this website or see the videos from this short online course: <a href="https://www.microsolidarity.cc/practice-programs/vibes-program">Microsolidarity Vibe Program</a>.
 
 </details>
 
