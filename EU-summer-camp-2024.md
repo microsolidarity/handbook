@@ -96,6 +96,10 @@ It is our goal to make this event as accessible as possible while also covering 
 ### Financial Transparency
 Income from ticket sales will be used to cover venue rental, food and several scholarships to increase event accessibility. The amount of scholarships we can offer depends on donations to the scholarship fund. The hosting team is donating their time, so we’ll also use ticket income to cover their expenses. Any surplus that is left after the event will go towards the microsolidarity commons fund on [Open Collective](https://opencollective.com/microsolidarity), building a pool of funds to develop the network and organize future events like this one. 
 
+### Scholarships
+We provide scholarships to support people who couldn't otherwise afford to join the gathering because we recognize that many of us are working on social impact rather than financial income and we want to “pay it forward” to those contributing their time and hearts to impact projects.. If you would like to apply for a partial or full scholarship, fill in [this form](https://forms.gle/HzMxbhi552Q9Yf257). The amount of scholarships we can offer depends on the donations to our scholarship fund. 
+
+
 ## Not in the EU?
 There will be a gathering happening in the US 17-21 July with a similar concept. You can check out details: [https://dandelion.events/e/p65nr](https://dandelion.events/e/p65nr)
 
