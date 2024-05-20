@@ -28,9 +28,10 @@
       * [4. Leadership & Engagement](practice-program/vibes-program/course-content/leadership-and-engagement.md)
       * [5. Resources & Practices](practice-program/vibes-program/course-content/resources-and-practices.md)
   * [Crewing Program](practice-program/crewing-program/README.md)
-* [EU Summer Camp 2023](eu-summer-camp-2023.md)
+
 * [USA Summer Camp 2024](https://dandelion.events/e/p65nr)
 * [Archive](articles/README.md)
+  * [EU Summer Camp 2023](archive/eu-summer-camp-2023.md)
   * [#1: Proposal](articles/proposal.md)
   * [#2: Update 2020](articles/2-update-2020.md)
   * [#3: Congregation Scaffolding](articles/3-congregation-scaffolding.md)
