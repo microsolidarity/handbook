@@ -89,9 +89,9 @@ We welcome families with kids! We haven’t yet planned out a childcare system, 
 
 ## Tickets
 It is our goal to make this event as accessible as possible while also covering expenses for food and renting the venue. So we have made the following “small, medium and large” price tiers available:
-  **Regular**: Full week €400 / Weekend €200 — This tier covers the cost of your participation in the event.  Please choose this tier as the default.
-  **Supporter**: €500 / €300, or more — if you are financially flourishing, you have the opportunity to contribute to our scholarship fund and enable people with fewer resources to also attend
-  **Subsidized**: €300 / €150— If it’s a stretch for you to be investing in this event at the moment, please choose this tier
+ - **Regular**: Full week €400 / Weekend €200 — This tier covers the cost of your participation in the event.  Please choose this tier as the default.
+ - **Supporter**: €500 / €300, or more — if you are financially flourishing, you have the opportunity to contribute to our scholarship fund and enable people with fewer resources to also attend
+ - **Subsidized**: €300 / €150— If it’s a stretch for you to be investing in this event at the moment, please choose this tier
 
 ### Financial Transparency
 Income from ticket sales will be used to cover venue rental, food and several scholarships to increase event accessibility. The amount of scholarships we can offer depends on donations to the scholarship fund. The hosting team is donating their time, so we’ll also use ticket income to cover their expenses. Any surplus that is left after the event will go towards the microsolidarity commons fund on [Open Collective](https://opencollective.com/microsolidarity), building a pool of funds to develop the network and organize future events like this one. 
