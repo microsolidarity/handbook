@@ -104,3 +104,58 @@ Income from ticket sales will be used to cover venue rental, food and several sc
 There will be a gathering happening in the US 17-21 July with a similar concept. You can check out details: [https://dandelion.events/e/p65nr](https://dandelion.events/e/p65nr)
 
 ## FAQ
+
+<details>
+
+<summary>What exactly is included in the price?</summary>
+
+- All programming
+- Camping spot
+- Three meals per day (likely cooked by our group) 
+- Kunst in der Natur amenities
+
+</details>
+
+<details>
+<summary>Deposit system</summary>
+For 50€ you can reserve your spot. Deposits are non-refundable. If you have put down a deposit, please pay the rest of your ticket by August 8th. You can pay through the “Flexible Contribution” button on [Open Collective](https://opencollective.com/microsolidarity/events/microsolidarity-summer-camp-2024-eu-7457d633). If you have not confirmed by August 8th, your ticket may be sold to someone else.
+</details>
+
+<details>
+ <summary>Deadline for applications?</summary>
+ Ticket sales will close on August 15th, or sooner if we run out of space to host you all. So tell your friends to book soon! :)
+</details>
+
+<details>
+ <summary>Times to arrive and depart </summary>
+ The event will officially begin with an opening circle around **18:30 on Thursday August 29th**. A light dinner will be available beforehand. Please join us in time for the opening. You are welcome to arrive from early afternoon on the 29th. 
+**Weekend ticket**: On **Sunday September 1st**, we'll have a closing session for the weekend just before noon, so if you need to leave early, aim to depart a bit after noon.
+
+**Full week ticket**: On **Wednesday September 4th**, we'll have a closing session in the morning, then we ask you to depart by noon. 
+</details>
+
+<details>
+ <summary>Is this going to be a Microsolidarity training? </summary>
+ Nope, the gathering is not organized like a traditional training. Whoever shows up will bring discussion topics, workshop ideas, and whatever activities they want to contribute. If you're new to Microsolidarity and you want an intro to the theories and practices, read the material on this website or see the videos from this short online course: [Microsolidarity Vibe Program](https://www.microsolidarity.cc/practice-programs/vibes-program).
+
+</details>
+
+<details>
+ <summary>Can I bring my dog?</summary>
+ Not a no, but we try to keep the number of dogs as low as possible. Dogs can affect group dynamics, especially when there are several. So, ideally, don’t bring your dog. If you have to do so, please contact us to discuss.
+</details>
+
+<details>
+ <summary>What is the alcohol/substance policy?</summary>
+ There will be a basic stock of wine and beer provided by the venue. Austria has great beer and wine, e.g. there is a local brewery in the area. The venue asks us not to bring our own but consume from their stock. It will be sold at a very low price.
+
+</details>
+
+<details>
+ <summary>Will there be places to hang camping hammocks?</summary>
+ Yes, we can bring hammocks and hang them on the property, just not too far into the woods. 
+
+</details>
+
+## More Questions?
+Contact [microsolidarity@gmail.com](mailto:microsolidarity@gmail.com) and we will be happy to help :)
