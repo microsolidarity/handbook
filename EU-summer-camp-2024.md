@@ -15,7 +15,8 @@ In the spirit of microsolidarity, we aim to find belonging while allowing for an
 
 ## Venue & Vibe
 
-![One of the sculptures that can be found in the forest around Kunst in der Natur](https://github.com/microsolidarity/handbook/assets/71654862/b830f290-10fc-410a-b108-0f94290fa64a)
+![One of the sculptures that can be found in the forest around Kunst in der Natur](https://github.com/microsolidarity/handbook/assets/71654862/ebe77471-51e2-4d77-8f4d-0b5ede04ffca)
+
 
 We often end up in new places—we need to get used to new surroundings and make a home in a new space. How can we feel at home? How do we feel as if we belong somewhere?  
 
