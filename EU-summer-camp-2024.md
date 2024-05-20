@@ -1,5 +1,5 @@
 # Microsolidarity EU Summer Camp 2024 Announcement & Signup
-1.5h north-west of Vienna, Austria, August 29th - September 4th
+**1.5h north-west of Vienna, Austria, August 29th - September 4th**
 
 _Microsolidarity is a community-building practice and a network of people weaving social fabric, creating spaces for belonging and purpose. Come practice with us!_
 
