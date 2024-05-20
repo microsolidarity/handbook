@@ -41,18 +41,19 @@ Kunst in der Natur is a great place to tune into co-creation and bringing things
 
 We want to integrate diverse perspectives and find belonging across differences. As such we welcome you no matter what your religious and spiritual beliefs, gender, income, nationality or ethnicity, sexual orientation, age, physical ability etc. We want to learn and grow together in community building, so whatever interest you have is enough, and we will welcome any amount of experience you have (even if it is zero).
 
-![](https://github.com/microsolidarity/handbook/assets/71654862/5c92f2e3-99fd-44f0-8f77-34a0244ed132) &nbsp; ![](https://github.com/microsolidarity/handbook/assets/71654862/01732e0b-9cc1-42f9-9166-5613e5a2cfea) &nbsp; ![](https://github.com/microsolidarity/handbook/assets/71654862/82b99d52-a47e-4fa7-88de-8b886e2bbb07) 
+
 
 ### What not to expect
 This is not going to be a training, nor a curated experience. There will probably be some skill-share sessions or workshops on microsolidarity or related frameworks on the open-space agenda. This depends entirely on who shows up and what they want to offer.
 
 If you are just getting familiar with microsolidarity, we recommend you sign up to the [next practice program](https://www.microsolidarity.cc/practice-programs/vibes-program) and take a look at the materials from  [previous practice programs](https://www.microsolidarity.cc/practice-programs) that we’ve run. You can find plenty of additional reading material on this website.
 
-
+![Impressions from the Winter Retreat](https://github.com/microsolidarity/handbook/assets/71654862/89f07765-e607-4838-a556-14dce66e15ca)
 ## Logistics
 
 ### How to get there
 The address of Kunst in der Natur is: Am Wachtberg 78, 3571 Thunau am Kamp, Austria. It is 1.5h north-west of Vienna, Austria.
+
 
 **Arriving by train from Vienna (“Wien” in German)**
 Trains leave hourly from Vienna and it takes a little over 1.5 hours to travel from Vienna to Kunst in der Nature. The best train connections are: 
