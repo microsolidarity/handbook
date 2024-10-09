@@ -1,6 +1,6 @@
 # Volunteers wanted
 
-Do you want to contribute something to this project? [Join the Discord](join-us-on-discord.md) and let’s talk about it! For example, it would be nice to have...
+Do you want to contribute something to this project? [Join the Discord](https://discord.gg/u4p3xUCwpC) and let’s talk about it! For example, it would be nice to have...
 
 * Illustrations for all these articles
 * Videos of small group practices
