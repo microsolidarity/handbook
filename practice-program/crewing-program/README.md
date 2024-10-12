@@ -16,7 +16,7 @@ We’ll specifically look at crewing as a core practice of microsolidarity and p
 
 ## Learning outcomes
 
-At the end of this program you’ll have everything you need to practice your hosting and community building skills through crewing.
+At the end of this program you’ll have everything you need to practice your hosting and community building skills through [crewing](https://www.microsolidarity.cc/practice-programs/vibes-program/course-content/crewing).
 
 ## Times and Dates
 
