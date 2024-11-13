@@ -2,16 +2,9 @@
 
 ###
 
-### Micrsolidarity Vibes Practice Program
+### Microsolidarity Practice Programs
 
-A short cohort-based course to practice Microsolidarity and connect with other community builders. The next cohort will start on Tuesday, June 18, 2024. We meet for 4 live calls over 2 weeks, on Tuesdays & Thursdays at 6-7.30pm CET / 9-10:30am PDT. Register on [Open Collective](https://opencollective.com/microsolidarity/events/microsolidarity-vibes-program-summer-2024-468fa802) or [read more about it](https://www.microsolidarity.cc/practice-programs/vibes-program).
-
-Returning students are invited to register for free, and new participants can [apply for a scholarship](https://docs.google.com/forms/d/1wJ6tjAJQSoD07K7nLLsF0DYSz9DvSfdJe9Jzllxa74c/edit).
-
-
-A waitlist is open to indicate your interest in future programs. [Find out more here](https://docs.google.com/forms/d/e/1FAIpQLScBPbM57fhX5LNtz2ag1GthTfz4Nfae95eJyzQlQPBepMt0MA/viewform)
-
-
+Short cohort-based courses to practice Microsolidarity and connect with other community builders. New cohorts are announced via the [**Microsolidarity newsletter on Substack**](https://microsolidarity.substack.com/). Read more about the current programs [here](https://www.microsolidarity.cc/practice-programs).
 
 ### Online Monthly Network Meeting
 
@@ -23,17 +16,15 @@ This is a members-only meeting where you can connect with other practitioners, t
 
 To become a member, [contribute at least €3/month to our Open Collective](http://opencollective.com/microsolidarity).
 
-### USA Summer Camp 
-Like last year there will be a summer camp happening at Elkenmist (pacific northwest) Jul 17th - 21st. Learn more [here](https://dandelion.events/e/p65nr).
-
-### EU Summer Camp 
-This years EU summer camp will be happening between August 29th and September 4th at "Kunst in der Natur" (Art in Nature) close to Vienna. Save the date and register your interest [here](https://forms.gle/ydyPLW9JqyrCuZjj8) (tickets coming soon).
-
 ### Previous Gatherings
 
-* We had the first gathering in Belgium in May 2023, here's what we learned ([video](https://www.youtube.com/watch?v=u-mgfPm6hsg) | [audio](https://anchor.fm/Microsolidarity/episodes/What-We-Learned-From-the-1st-Gathering-of-Microsolidarity-Practitioners-e1jnnmi)).&#x20;
-* The second gathering in 2023 was outside Denver, Colorado. We debriefed here ([video](https://www.youtube.com/watch?v=p0y4qGz0pXQ\&t=15s) | [audio](https://podcasters.spotify.com/pod/show/Microsolidarity/episodes/Reflecting-on-our-Denver-Microsolidarity-Gathering-in-October-2022-e1t5o66/a-a951ejl))
-* We had 2 gatherings in the northern summer 2023, one in Germany and one in the States.  Stay tuned for documentation from these events.
+#### 2024
 
+- (EU) Microsolidarity Summer Camp happened Aug 2024 at Kunst in der Natur in Austria and was organized by Sarah Pelham, Alexander Popiak, Mirjam Rahedy, and Jesse Evers. Sarah writes about the event [here](https://sarahpelham.substack.com/p/what-i-learnt-co-hosting-the-microsolidarity)
+- (USA) Microsolidarity Summer Camp happened July 2024 at Elkenmist and was organized by Sara Bajor. Read her reflections on the event design process [here](https://substack.com/home/post/p-146965196)
+- A Winter Gathering for active participants in the Network was held in February in Andalucîa, Spain. A collection of reflections can be found [here](https://microsolidarity.substack.com/p/microsolidarity-network-newsletter).
 
+#### 2023
 
+- We had the first gathering in Belgium in May 2023, here's what we learned ([video](https://www.youtube.com/watch?v=u-mgfPm6hsg) | [audio](https://anchor.fm/Microsolidarity/episodes/What-We-Learned-From-the-1st-Gathering-of-Microsolidarity-Practitioners-e1jnnmi)).&#x20;
+- The second gathering in 2023 was outside Denver, Colorado. We debriefed here ([video](https://www.youtube.com/watch?v=p0y4qGz0pXQ&t=15s) | [audio](https://podcasters.spotify.com/pod/show/Microsolidarity/episodes/Reflecting-on-our-Denver-Microsolidarity-Gathering-in-October-2022-e1t5o66/a-a951ejl))

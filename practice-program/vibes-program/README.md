@@ -31,7 +31,7 @@ This is a 2-week program. You can access [this short curriculum of videos & text
 
 The next cohort will start on Tuesday, Nov 12, 2024. We meet for 4 live calls over 2 weeks, on Tuesdays & Thursdays at 9-10.30am CET. Register on [Open Collective](https://opencollective.com/microsolidarity/events/microsolidarity-vibes-program-fall-2024-68e87597).
 
-Can't make it this time? To register interest in a future cohort, [**fill in this short form**](https://docs.google.com/forms/d/e/1FAIpQLScBPbM57fhX5LNtz2ag1GthTfz4Nfae95eJyzQlQPBepMt0MA/viewform?usp=sf_link) and we will let you know when the next cohort is ready to launch. You will have an opportunity to confirm your commitment after the dates are finalised.
+Can't make it this time? Subscribe to the [**Microsolidarity newsletter on Substack**](https://microsolidarity.substack.com/) to hear about programs and other offerings from the network.
 
 ### Tickets
 

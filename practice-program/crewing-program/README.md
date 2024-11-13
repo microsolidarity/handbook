@@ -22,7 +22,7 @@ At the end of this program you’ll have everything you need to practice your ho
 
 The next cohort will start on Tuesday, Dec 3, 2024. We meet for 4 live calls over 2 weeks, on Tuesdays & Thursdays at 6-7.30pm CET (9-10.30am PDT). Register on [Open Collective](https://opencollective.com/microsolidarity/events/microsolidarity-crewing-practice-program-fall-2024-bb4e17ed).
 
-Can't make it this time? To register interest in a future cohort, [**fill in this short form**](https://docs.google.com/forms/d/e/1FAIpQLScBPbM57fhX5LNtz2ag1GthTfz4Nfae95eJyzQlQPBepMt0MA/viewform?usp=sf_link) and we will let you know when the next cohort is ready to launch. You will have an opportunity to confirm your commitment after the dates are finalised.
+Can't make it this time? Subscribe to the [**Microsolidarity newsletter on Substack**](https://microsolidarity.substack.com/) to hear about programs and other offerings from the network.
 
 ## Tickets
 
