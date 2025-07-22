@@ -1,10 +1,3 @@
 # Volunteers wanted
 
-Do you want to contribute something to this project? [Join the Discord](https://discord.gg/u4p3xUCwpC) and let’s talk about it! For example, it would be nice to have...
-
-* Illustrations for all these articles
-* Videos of small group practices
-* Index, transcribe, catalogue the existing videos
-* Zines remixing microsolidarity into different contexts
-
-Thanks to Alanna Irving, Teddy Taptiklis, Daniel Brooks, Tasshin Fogleman, Ulrich Schur, Jarred Filmer, Michal Korzonek, Nati Lombardo, Jenny Katz, Qiaochu Yuan, An van Damme, Johnson Hseih for contributions to this text.
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScH0XPEh1k7laRGNOATmusQ-Dj4eoeCtEFkGHuS3UaHRsUQXA/viewform?embedded=true" width="640" height="1136" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
