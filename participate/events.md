@@ -1,8 +1,8 @@
 # Events
+
 ### EU Summer Camp 2025 @Casa Tilo (Barcelona, Spain)
-From 20th - 25th of August the Microsolidarity Network meets for the 4th summer gathering at Rich's house in Catalunia!
-Head to this [**Subtack Post**](https://microsolidarity.substack.com/p/summer-camp-2025) for more info on the plan for this years summer camp.
-You can buy your tickets via [**Open Collective**](https://opencollective.com/microsolidarity/events/eu-summer-camp-2025-55571464). 
+
+From 20th - 25th of August the Microsolidarity Network meets for the 4th summer gathering at Rich's house in Catalunia! Head to this [**Subtack Post**](https://microsolidarity.substack.com/p/summer-camp-2025) for more info on the plan for this years summer camp. You can buy your tickets via [**Open Collective**](https://opencollective.com/microsolidarity/projects/microsolidarity-summer-camp-20).
 
 ### Microsolidarity Practice Programs
 
@@ -22,11 +22,11 @@ To become a member, [contribute at least €3/month to our Open Collective](http
 
 #### 2024
 
-- (EU) Microsolidarity Summer Camp happened Aug 2024 at Kunst in der Natur in Austria and was organized by Sarah Pelham, Alexander Popiak, Mirjam Rahedy, and Jesse Evers. Sarah writes about the event [here](https://sarahpelham.substack.com/p/what-i-learnt-co-hosting-the-microsolidarity).
-- (USA) Microsolidarity Summer Camp happened July 2024 at [Elkenmist](https://www.elkenmist.com/) and was organized by Sara Bajor. Read her reflections on the event design process [here](https://substack.com/home/post/p-146965196).
-- A Winter Gathering for active participants in the Network was held in February in Andalucía, Spain. A collection of reflections can be found [here](https://microsolidarity.substack.com/p/microsolidarity-network-newsletter).
+* (EU) Microsolidarity Summer Camp happened Aug 2024 at Kunst in der Natur in Austria and was organized by Sarah Pelham, Alexander Popiak, Mirjam Rahedy, and Jesse Evers. Sarah writes about the event [here](https://sarahpelham.substack.com/p/what-i-learnt-co-hosting-the-microsolidarity).
+* (USA) Microsolidarity Summer Camp happened July 2024 at [Elkenmist](https://www.elkenmist.com/) and was organized by Sara Bajor. Read her reflections on the event design process [here](https://substack.com/home/post/p-146965196).
+* A Winter Gathering for active participants in the Network was held in February in Andalucía, Spain. A collection of reflections can be found [here](https://microsolidarity.substack.com/p/microsolidarity-network-newsletter).
 
 #### 2023
 
-- We had the first gathering in Belgium in May 2023, here's what we learned ([video](https://www.youtube.com/watch?v=u-mgfPm6hsg) | [audio](https://anchor.fm/Microsolidarity/episodes/What-We-Learned-From-the-1st-Gathering-of-Microsolidarity-Practitioners-e1jnnmi)).&#x20;
-- The second gathering in 2023 was outside Denver, Colorado. We debriefed here ([video](https://www.youtube.com/watch?v=p0y4qGz0pXQ&t=15s) | [audio](https://podcasters.spotify.com/pod/show/Microsolidarity/episodes/Reflecting-on-our-Denver-Microsolidarity-Gathering-in-October-2022-e1t5o66/a-a951ejl))
+* We had the first gathering in Belgium in May 2023, here's what we learned ([video](https://www.youtube.com/watch?v=u-mgfPm6hsg) | [audio](https://anchor.fm/Microsolidarity/episodes/What-We-Learned-From-the-1st-Gathering-of-Microsolidarity-Practitioners-e1jnnmi)).
+* The second gathering in 2023 was outside Denver, Colorado. We debriefed here ([video](https://www.youtube.com/watch?v=p0y4qGz0pXQ\&t=15s) | [audio](https://podcasters.spotify.com/pod/show/Microsolidarity/episodes/Reflecting-on-our-Denver-Microsolidarity-Gathering-in-October-2022-e1t5o66/a-a951ejl))
