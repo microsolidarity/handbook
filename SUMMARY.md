@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Microsolidarity](README.md)
+* [Cards](cards.md)
 * [Essays](essays/README.md)
   * [Background & introduction](essays/background-and-introduction.md)
   * [Five Scales of Microsolidarity](essays/five-scales-of-microsolidarity.md)
@@ -30,6 +31,9 @@
       * [5. Resources & Practices](practice-program/vibes-program/course-content/resources-and-practices.md)
   * [Crewing Program](practice-program/crewing-program/README.md)
 * [Archive](articles/README.md)
+  * [Community Smorgasbord](articles/community-smorgasbord.md)
+  * [Case Clinic](articles/case-clinic.md)
+  * [Mastery Board](articles/mastery-board.md)
   * [EU Summer Camp 2024](archive/EU-summer-camp-2024.md)
   * [USA Summer Camp 2024](https://dandelion.events/e/p65nr)
   * [EU Summer Camp 2023](archive/eu-summer-camp-2023.md)
