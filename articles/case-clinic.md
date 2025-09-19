@@ -3,7 +3,7 @@
 
 By Theory U
 
-*Credit: this is an adaption from the official **[Case Clinic recip*e](https://www.u-school.org/caseclinic)* from the **[Presencing Institut*e](https://www.presencing.org/)*. If you want to learn about this methodology and the Theory U framework it is part of, check out **[u.la*b](https://www.u-school.org/programs)*, a free online course*
+*Credit: this is an adaption from the official **[Case Clinic recip*e](https://www.u-school.org/caseclinic)** from the **[Presencing Institute](https://www.presencing.org/)**. If you want to learn about this methodology and the Theory U framework it is part of, check out **[u.lab](https://www.u-school.org/programs)**, a free online course*
 
 # Overview
 
@@ -11,17 +11,17 @@ Case Clinics are a peer support practice for a group of 3 - 5 people. The proces
 
 # Roles
 
-**Case Giver: **Share a challenge that is current, concrete, important, and that you are a key
+**Case Giver:** Share a challenge that is current, concrete, important, and that you are a key
 
 player in. You should be able to present the case in 10 min and the case should stand to
 
 benefit from the feedback of your peers.
 
-**Coaches: **Do not try to "fix" the problem, but listen deeply to the case giver while also
+**Coaches:** Do not try to "fix" the problem, but listen deeply to the case giver while also
 
 attending to the images, metaphors, feelings and gestures that the story evokes in you.
 
-**Timekeeper: **Make sure you are moving through the sequence approximately on time.
+**Timekeeper:** Make sure you are moving through the sequence approximately on time.
 
 (You’re also participating as a coach.)
 
