@@ -33,7 +33,7 @@
 * [Archive](articles/README.md)
   * [Community Smorgasbord](articles/community-smorgasbord.md)
   * [Case Clinic](articles/case-clinic.md)
-  * [Mastery Board](articles/mastery-board.md)
+  * [Community Mastery Board](articles/mastery-board.md)
   * [EU Summer Camp 2024](archive/EU-summer-camp-2024.md)
   * [USA Summer Camp 2024](https://dandelion.events/e/p65nr)
   * [EU Summer Camp 2023](archive/eu-summer-camp-2023.md)
