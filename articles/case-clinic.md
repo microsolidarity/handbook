@@ -3,7 +3,7 @@
 
 By Theory U
 
-*Credit: this is an adaption from the official **[Case Clinic recip*e](https://www.u-school.org/caseclinic)** from the **[Presencing Institute](https://www.presencing.org/)**. If you want to learn about this methodology and the Theory U framework it is part of, check out **[u.lab](https://www.u-school.org/programs)**, a free online course*
+*Credit: this is an adaption from the official **[Case Clinic recipe](https://www.u-school.org/caseclinic)** from the **[Presencing Institute](https://www.presencing.org/)**. If you want to learn about this methodology and the Theory U framework it is part of, check out **[u.lab](https://www.u-school.org/programs)**, a free online course*
 
 # Overview
 
