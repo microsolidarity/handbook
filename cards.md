@@ -1,6 +1,6 @@
 # The Microsolidarity Card Deck
 
-<figure><img src=".gitbook/assets/pouches.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/pouches (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 ## Belonging on Purpose
 
