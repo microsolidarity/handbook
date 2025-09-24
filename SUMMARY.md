@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Microsolidarity](README.md)
-* [Cards](cards.md)
+* [The Microsolidarity Card Deck](cards.md)
 * [Essays](essays/README.md)
   * [Background & introduction](essays/background-and-introduction.md)
   * [Five Scales of Microsolidarity](essays/five-scales-of-microsolidarity.md)
