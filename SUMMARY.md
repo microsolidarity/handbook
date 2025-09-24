@@ -31,7 +31,7 @@
       * [5. Resources & Practices](practice-program/vibes-program/course-content/resources-and-practices.md)
   * [Crewing Program](practice-program/crewing-program/README.md)
 * [Archive](articles/README.md)
-  * [Community Smorgasbord](articles/community-smorgasbord.md)
+  * [Community Smörgåsbord](articles/community-smorgasbord.md)
   * [Case Clinic](articles/case-clinic.md)
   * [Community Mastery Board](articles/mastery-board.md)
   * [EU Summer Camp 2024](archive/EU-summer-camp-2024.md)
