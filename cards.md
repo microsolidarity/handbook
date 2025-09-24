@@ -1,5 +1,7 @@
 # The Microsolidarity Card Deck
 
+<figure><img src=".gitbook/assets/pouches.jpeg" alt=""><figcaption></figcaption></figure>
+
 ## Belonging on Purpose
 
 In 2025, 16 practitioners came together to put 7 years of Microsolidarity research and experience into a playable card deck.
@@ -41,8 +43,6 @@ Or get a €25 discount when you buy 5 for €200
 "These illustrations are gorgeous, the whole card design is beautiful. Perfect size, well printed, the colour combos are fantastic, really well done.” - Jmes
 
 
-
-<figure><img src=".gitbook/assets/pouches.jpeg" alt=""><figcaption></figcaption></figure>
 
 
 
