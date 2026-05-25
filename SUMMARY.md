@@ -48,3 +48,4 @@
   * [Ako group guidelines](articles/ako-group-guidelines.md)
   * [Cults](articles/cults.md)
   * [Gathering Invite](articles/gathering-invite.md)
+  * [Summer Intensive 2026 Ticketing Page](articles/2026-intensive-ticketing.md)

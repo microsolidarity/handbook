@@ -24,6 +24,18 @@ One you've read a few of the essays, you might be ready learn [how you can get s
 
 {% embed url="https://www.youtube.com/watch?v=NfXfLa6dU6A" %}
 
+### Upcoming Events
+
+[Microsolidarity Intensive](https://microsolidarity.substack.com/p/the-microsolidarity-intensive-august), August 11-15, Barcelona
+
+[Microsolidarity Coliving Week](https://microsolidarity.substack.com/p/microsolidarity-coliving-week-august), August 16-22, Barcelona
+
+<figure><img src=".gitbook/assets/5785337608350141599.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
 ### Card Deck
 
 7 years of Microsolidarity research and experience, packed into a playable card deck. [Get yours here](https://www.microsolidarity.cc/cards).

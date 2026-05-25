@@ -8,8 +8,7 @@ In 2025, 16 practitioners came together to put 7 years of Microsolidarity resear
 
 Microsolidarity in your pocket
 
-Practical grounded wisdom for weaving social fabric\
-
+Practical grounded wisdom for weaving social fabric<br>
 
 Each deck consists of 47 playable cards:
 
@@ -21,16 +20,14 @@ Each deck consists of 47 playable cards:
 
 
 
-[**Purchase your deck here**](https://opencollective.com/microsolidarity/projects/microsolidarity-card-deck)\
-
+[**Purchase your deck here**](https://opencollective.com/microsolidarity/projects/microsolidarity-card-deck)<br>
 
 1 deck = €45
 
 Or get a €25 discount when you buy 5 for €200
 
 \
-\
-
+<br>
 
 <figure><img src=".gitbook/assets/card deck.jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -48,4 +45,4 @@ Or get a €25 discount when you buy 5 for €200
 
 
 
-[**Purchase your deck here**](https://opencollective.com/microsolidarity/projects/microsolidarity-card-deck)\
+[**Purchase your deck here**](https://opencollective.com/microsolidarity/projects/microsolidarity-card-deck)<br>

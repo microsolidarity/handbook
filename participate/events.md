@@ -1,8 +1,14 @@
 # Events
 
-### EU Summer Camp 2025 @Casa Tilo (Barcelona, Spain)
+### Summer 2026 Events @ Casa Tilo (Barcelona, Spain)
 
-From 20th - 25th of August the Microsolidarity Network meets for the 4th summer gathering at Rich's house in Catalunia! Head to this [**Subtack Post**](https://microsolidarity.substack.com/p/summer-camp-2025) for more info on the plan for this years summer camp. You can buy your tickets via [**Open Collective**](https://opencollective.com/microsolidarity/projects/microsolidarity-summer-camp-20).
+[Microsolidarity Intensive](https://microsolidarity.substack.com/p/the-microsolidarity-intensive-august), August 11-15
+
+[Microsolidarity Coliving Week](https://microsolidarity.substack.com/p/microsolidarity-coliving-week-august), August 16-22
+
+<figure><img src="../.gitbook/assets/5785337608350141599 (1).jpg" alt=""><figcaption></figcaption></figure>
+
+
 
 ### Microsolidarity Practice Programs
 
