@@ -20,7 +20,8 @@ Each deck consists of 47 playable cards:
 
 
 
-[**Purchase your deck here**](https://opencollective.com/microsolidarity/projects/microsolidarity-card-deck)<br>
+### How do I buy a deck?
+Currently we're not able to ship card decks. You can purchase them in person in Berlin (contact microsolidarity@gmail.com) or at [Casa Tilo](https://eltilo.casa). If you want to be notified once delivery becomes available again, sign up for our newsletter [here](https://microsolidarity.substack.com/) 
 
 1 deck = €45
 
@@ -44,5 +45,3 @@ Or get a €25 discount when you buy 5 for €200
 
 
 
-
-[**Purchase your deck here**](https://opencollective.com/microsolidarity/projects/microsolidarity-card-deck)<br>
