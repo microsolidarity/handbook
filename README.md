@@ -26,9 +26,7 @@ One you've read a few of the essays, you might be ready learn [how you can get s
 
 ### Upcoming Events
 
-[Microsolidarity Intensive](https://microsolidarity.substack.com/p/the-microsolidarity-intensive-august), August 11-15, Barcelona
-
-[Microsolidarity Coliving Week](https://microsolidarity.substack.com/p/microsolidarity-coliving-week-august), August 16-22, Barcelona
+[Microsolidarity Coliving Weeks](https://microsolidarity.substack.com/p/microsolidarity-coliving-week-august), August 11-15 or 16-22 (or both), Barcelona
 
 <figure><img src=".gitbook/assets/5785337608350141599.jpg" alt=""><figcaption></figcaption></figure>
 
